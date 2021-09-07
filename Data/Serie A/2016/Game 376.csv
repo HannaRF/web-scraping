@@ -7,54 +7,34 @@ Inspetor:,Manoel Serapiao Filho (000 / BA),
 Delegado Local:,Pedro Ivo Siqueira de Belli (000 / ),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,16:50Atraso:,,Não Houve Entrada do mandante: 18:01,Atraso:,,Não Houve
-Entrada do visitante:,16:50Atraso:,,Não Houve Entrada do visitante: 18:02,Atraso:,,Não Houve
-Início 1o Tempo:,17:00 Atraso:,,Não Houve Início do 2o Tempo: 18:04,Atraso:,,Não Houve
-Término do 1o Tempo:,17:49 Acréscimo:,,4 min Término do 2o Tempo: 18:53,Acréscimo:,,4 min
+Entrada do mandante:,16:50Atraso:,,NÃ£o Houve Entrada do mandante: 18:01,Atraso:,,NÃ£o Houve
+Entrada do visitante:,16:50Atraso:,,NÃ£o Houve Entrada do visitante: 18:02,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,17:00 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 18:04,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,17:49 AcrÃ©scimo:,,4 min TÃ©rmino do 2o Tempo: 18:53,AcrÃ©scimo:,,4 min
 Resultado do 1o Tempo: 0 X 1,,,Resultado Final: 0 X 1,,,
-"",,,,Relação de Jogadores,,,
-"",,Grêmio / RS,,,Botafogo / RJ,,
-No,Apelido,Nome Completo,T/R P/A,CBF No Apelido,Nome Completo T/R P/A,,CBF
-20,Leo,Leonardo Cesar Jardim,T(g) P,323637 1 Sidão,Sidney Aparecido Ram... T(g),P,154179
-4,Kannemann,Walter Kannemann,T P,554626 2 Emerson,Emerson dos Santos d... T,P,154989
-11,Everton,Everton Sousa Soares,T P,379065 3 Carli,Mauro Joel Carli T,P,540906
-13,W. Oliveira,Wallace Oliveira dos ...,T P,307605 4 Alemão,Jucimar Jose Teixeira T,P,295317
-15,Rafael Thy ...,Rafael Thyere de Alb ...,T P,313474 5 Airton,Airton Ribeiro Santos T,P,186870
-23,Miller Bol ...,Miler Alejandro Bola ...,T P,541503 6 Victor,Victor Luis Chuab Za... T,P,309431
-25,Jailson,Jailson Marques Siqueira,T P,407095 7 Pimpao,Rodrigo Pimpao Vianna T,P,291732
-28,Kaio,Kaio Silva Mendes,T P,359493 8 Bruno,Bruno Cesar Pereira ... T,P,169938
-34,Iago,Iago Sampaio Silva,T P,308774 9 Sassá,Luiz Ricardo Alves T,P,337172
-77,Negueba,Guilherme Ferreira Pinto,T P,307277 10 Camilo,Fernando Camilo Farias T,P,161437
-91,H. Almeida,Henrique Almeida Cai ...,T P,178303 11 Diogo,Diogo Barbosa Mendanha T,P,339876
-16,Wesley,Wesley Claudio Campos,R P,369844 12 Saulo,Saulo Ferreira Silva R,P,345455
-18,Arthur,Arthur Henrique Ramo ...,R P,302792 13 Marcio,Marcio Almeida de Ol... R,P,315637
-19,Sandows,Tyroane Joe Sandows,R P,354248 14 Renan,Renan de Oliveira Fo... R,P,298402
-21,Tontini,Felipe Tontini da Si ...,R P,344888 15 Emerson,Emerson Raymundo Santos R,P,348257
-22,Moises,Moises Wolschick,R P,346833 16 Rodrigo,Rodrigo Oliveira Lindoso R,P,184455
-27,Lincoln,Lincoln Henrique Oli ...,R P,421665 17 Jonathan,Jonathan da Silveira... R,P,310596
-29,Tilica,Leonardo Costa Silva,R P,345823 18 Luis Henri ...,Luis Henrique Farinh... R,P,372434
-30,Bruno Grassi,Bruno Medeiros Grassi,R P,172342 19 Gervasio,Gervasio Daniel Nunez R,P,540905
-35,Batista,Matheus dos Santos B ...,R P,353511 20 Marcelo,Marcelo da Conceiçao... R,P,402719
-36,Denilson,Denilson dos Santos  ...,R P,344194 21 Gustavo,Gustavo Costa da Sil... R,P,308427
-38,Guilherme,Guilherme Augusto Vi ...,R P,410547 22 Luiz Henri ...,Luiz Henrique Pachu Lira R,P,402852
-43,G. Amorim,Guilherme da Silva A ...,R P,343917,,,
-"",,Comissão Técnica
-"",Grêmio / RS,Botafogo / RJ
-Técnico:,James Francisco Freitas Iahnke - FP056371,Técnico: Jair Zaksauskas Ribeiro Ventura - 110942984IFP
-Massagista:,Jose Fernandes Flores - FG511232,Auxiliar Técnico: Emilio Carlos Tannus Faro - 000275G/RJ
-Médico:,Marcio Marques Dornelles - 30464,Médico: Luiz Fernando Batista De Medeiros - 5237474-4
-Coordenador TécnicoM: ario Antonio Barbosa Pereira - 52653072068,,Preparador Físico: Ednilson De Sena Goes - 004303G/BA
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,16:50,Atraso:,NÃ£o Houve Entrada do mandante:,18:01,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,17:00,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,18:04,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+20,Leo,Leonardo Cesar Jardim,T(g) P,323637,1,SidÃ£o,Sidney Aparecido Ram...,T(g) P,154179
+"",,ComissÃ£o TÃ©cnica
+"",GrÃªmio / RS,Botafogo / RJ
+TÃ©cnico:,James Francisco Freitas Iahnke - FP056371,TÃ©cnico: Jair Zaksauskas Ribeiro Ventura - 110942984IFP
+Massagista:,Jose Fernandes Flores - FG511232,Auxiliar TÃ©cnico: Emilio Carlos Tannus Faro - 000275G/RJ
+MÃ©dico:,Marcio Marques Dornelles - 30464,MÃ©dico: Luiz Fernando Batista De Medeiros - 5237474-4
+Coordenador TÃ©cnicoM: ario Antonio Barbosa Pereira - 52653072068,,Preparador FÃ­sico: Ednilson De Sena Goes - 004303G/BA
 Treinador De GoleirosR: ogerio Augusto Godoy Da Silva - 51650320000,,Massagista: Atila Cordeiro Doria - 056743610IFP
-Auxiliar Técnico:,Valdir Ataualpa Ramires Espinosa - FF360659,Preparador De GoleiroF:la vio De Brito Pereira Tenius - 040417834IFP
-Preparador Físico:,Mario Antonio B Pereira - 004049G/RS,
+Auxiliar TÃ©cnico:,Valdir Ataualpa Ramires Espinosa - FF360659,Preparador De GoleiroF:la vio De Brito Pereira Tenius - 040417834IFP
+Preparador FÃ­sico:,Mario Antonio B Pereira - 004049G/RS,
 Preparador De GoleiroR:o gerio A Godoy Da Silva - FG513012,,Gols
 Tempo,1T/2T No Tipo Nome do Jogador,Equipe
 17:00,1T 8 NR Bruno Cesar Pereira Silva,Botafogo/RJ
-"",,,,Substituições,
+"",,,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,,Equipe,Entrou,Saiu
 45:00,INT,Botafogo/RJ,,16 - Rodrigo Oliveira Lindoso,9 - Luiz Ricardo Alves
-09:00,2T,Grêmio/RS,,18 - Arthur Henrique Ramos de  ...,28 - Kaio Silva Mendes
-14:00,2T,Grêmio/RS,,38 - Guilherme Augusto Vieira  ...,77 - Guilherme Ferreira Pinto
-21:00,2T,Grêmio/RS,,35 - Matheus dos Santos Batist ...,91 - Henrique Almeida Caixeta  ...
+09:00,2T,GrÃªmio/RS,,18 - Arthur Henrique Ramos de  ...,28 - Kaio Silva Mendes
+14:00,2T,GrÃªmio/RS,,38 - Guilherme Augusto Vieira  ...,77 - Guilherme Ferreira Pinto
+21:00,2T,GrÃªmio/RS,,35 - Matheus dos Santos Batist ...,91 - Henrique Almeida Caixeta  ...
 32:00,2T,Botafogo/RJ,,22 - Luiz Henrique Pachu Lira,10 - Fernando Camilo Farias
 36:00,2T,Botafogo/RJ,,15 - Emerson Raymundo Santos,4 - Jucimar Jose Teixeira

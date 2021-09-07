@@ -1,35 +1,20 @@
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,21:48Atraso:,,N„o Houve Entrada do mandante: 23:04,Atraso:,,3 min
-Entrada do visitante:,21:50Atraso:,,N„o Houve Entrada do visitante: 23:01,Atraso:,,N„o Houve
-InÌcio 1o Tempo:,22:00 Atraso:,,N„o Houve InÌcio do 2o Tempo: 23:05,Atraso:,,N„o Houve
-TÈrmino do 1o Tempo:,22:47 AcrÈscimo:,,1 min TÈrmino do 2o Tempo: 23:58,AcrÈscimo:,,4 min
+Entrada do mandante:,21:48Atraso:,,N√£o Houve Entrada do mandante: 23:04,Atraso:,,3 min
+Entrada do visitante:,21:50Atraso:,,N√£o Houve Entrada do visitante: 23:01,Atraso:,,N√£o Houve
+In√≠cio 1o Tempo:,22:00 Atraso:,,N√£o Houve In√≠cio do 2o Tempo: 23:05,Atraso:,,N√£o Houve
+T√©rmino do 1o Tempo:,22:47 Acr√©scimo:,,1 min T√©rmino do 2o Tempo: 23:58,Acr√©scimo:,,4 min
 Resultado do 1o Tempo: 1 X 2,,,Resultado Final: 2 X 2,,,
-"",,,,RelaÁ„o de Jogadores,,,
-"",,Flamengo / PI,,,Santos / SP,,
-No,Apelido,Nome Completo T/R P/A,,CBF No Apelido,Nome Completo T/R P/A,,CBF
-1,Robson,Robson Silva Araujo T(g),P,160794 1 Rafael,Rafael Cabral Barbosa T(g),P,292253
-2,Niel,Antoniel dos Santos  ... T,P,138278 2 Edu Dracena,Eduardo Luis Abonizi...,T P,136752
-3,Laercio,Laercio Soares de Sousa T,P,157828 3 Leo,Leonardo Lourenco Bastos,T P,125101
-4,Rafael Ara ...,Rafael Silva de Araujo T,P,160878 4 Galhardo,Rafael Galhardo de Souza,T P,291542
-5,Marcelo,Marcelo Augusto Conc ... T,P,370571 5 Alan,Alan Santos da Silva,T P,186142
-6,Rafael,Rafael Viana de Melo T,P,184739 6 Durval,Severino dos Ramos D...,T P,141516
-7,Alessandro,Alessandro Xavier Soares T,P,162031 7 Rene,Rene dos Santos Junior,T P,185339
-8,Leo Maceio,Leonardo de Magalhae ... T,P,170274 8 Cicero,Cicero Santos,T P,155840
-9,Neilson,Neilson Santos Souza T,P,293591 9 Giva,Givanildo Pulgas da ...,T P,327945
-10,Lucio,Lucio Pereira da Silva T,P,115028 10 Montillo,Walter Damian Montillo,T P,360517
-11,Edson Di,Edson Andrade Almeida T,P,141881 11 Neymar Jr.,Neymar da Silva Sant...,T P,292791
-12,David Amorim,David Amorim de Amaranes R,P,184447 12 Vladimir,Vladimir Orlando Car...,R P,180622
-13,Jorginho,Jorge Luiz da Silva  ... R,P,291875 13 Guilherme,Guilherme Oliveira S...,R P,181106
-14,Duda,Ozias Ferreira Alves ... R,P,353895 14 Neto,Helio Hermito Zampie...,R P,170061
-15,Wildinho,Willdson Furtado Lopes R,P,146356 15 Marcos Ass ...,Marcos dos Santos As...,R P,124316
-16,Bruno,Carpegianni Bruno Vi ... R,P,165234 16 Felipe And ...,Felipe Anderson Pere...,R P,311020
-17,Augusto,Augusto da Silva Oli ... R,P,338611 17 Rodriguez,Patricio Julian Rodr...,R P,420299
-18,Andrade,Adairlan de Sousa An ... R,P,408845 18 Andre,Andre Felipe Ribeiro...,R P,292942
-"",,Comiss„o TÈcnica,
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,21:48,Atraso:,N√£o Houve Entrada do mandante:,23:04,Atraso:,3 min
+In√≠cio 1o Tempo:,22:00,Atraso:,N√£o Houve,In√≠cio do 2o Tempo:,23:05,Atraso:,N√£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+1,Robson,Robson Silva Araujo,T(g) P,160794,1,Rafael,Rafael Cabral Barbosa,T(g) P,292253
+"",,Comiss√£o T√©cnica,
 "",Flamengo / PI,,Santos / SP
-Tecnico:,JosuÈ Amaral Pereira - 340.406-RJ,Tecnico:,Mario Felipe Perez - 56.543.712-SP
-Auxiliar Tecnico:,N„o Apresentou - 0000,Auxiliar Tecnico:,Marcelo Faria Fernandes - 189.016.450-SP
+Tecnico:,Josu√© Amaral Pereira - 340.406-RJ,Tecnico:,Mario Felipe Perez - 56.543.712-SP
+Auxiliar Tecnico:,N√£o Apresentou - 0000,Auxiliar Tecnico:,Marcelo Faria Fernandes - 189.016.450-SP
 Medico:,Fernando Modesto De Sousa - 1994- PI,Medico:,Ricardo De Serro Azul Nobre - 116.120-SP
 Preparador Fisico:,Eduardo Pereira E Silva - 0055-G/PI,Preparador Fisico:,Ricardo Pereira Rosa - 4304-G/SP
 Massagista:,Luiz Amancio Do N. Neto - 357.649-PI,Massagista:,Valder Bernardo - 174.973.846-SP
@@ -39,7 +24,7 @@ Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 30:00,1T,10,NR,Walter Damian Montillo,,Santos/SP
 33:00,1T,11,PN,Edson Andrade Almeida,,Flamengo/PI
 10:00,2T,11,FT,Edson Andrade Almeida,,Flamengo/PI
-"",,,,SubstituiÁıes,
+"",,,,Substitui√ß√µes,
 Tempo,1T/2T,,Equipe,Entrou,Saiu
 19:00,2T,Flamengo/PI,,16 - Carpegianni Bruno Vicente ...,9 - Neilson Santos Souza
 27:00,2T,Flamengo/PI,,17 - Augusto da Silva Oliveira ...,11 - Edson Andrade Almeida

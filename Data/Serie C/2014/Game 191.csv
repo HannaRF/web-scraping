@@ -6,37 +6,20 @@ Quarto Arbitro:,Wasley do Couto (CBF-2 / PA),
 Delegado  Especial:,Fernando Jose de Castro Rodrigues (ASS / PA),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,16:50Atraso:,,Não Houve Entrada do mandante: 18:00,Atraso:,,Não Houve
-Entrada do visitante:,16:50Atraso:,,Não Houve Entrada do visitante: 18:00,Atraso:,,Não Houve
-Início 1o Tempo:,17:00 Atraso:,,Não Houve Início do 2o Tempo: 18:02,Atraso:,,Não Houve
-Término do 1o Tempo:,17:47 Acréscimo:,,2 min Término do 2o Tempo: 18:50,Acréscimo:,,3 min
+Entrada do mandante:,16:50Atraso:,,NÃ£o Houve Entrada do mandante: 18:00,Atraso:,,NÃ£o Houve
+Entrada do visitante:,16:50Atraso:,,NÃ£o Houve Entrada do visitante: 18:00,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,17:00 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 18:02,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,17:47 AcrÃ©scimo:,,2 min TÃ©rmino do 2o Tempo: 18:50,AcrÃ©scimo:,,3 min
 Resultado do 1o Tempo: 3 X 0,,,Resultado Final: 4 X 1,,,
-"",,,,Relação de Jogadores,,,
-"",,Paysandu / PA,,Mogi Mirim / SP,,,
-No,Apelido,Nome Completo,T/R P/A,CBF No Apelido Nome Completo,,T/R P/A,CBF
-112,Rafael,Paulo Rafael e Silva,T P,305615 1 Andre Luiz Andre Luiz Dias de Souza,,T P,407891
-102,Djalma,Benedito Moia Varela,T P,364826 2 Valdir Jose Valdir Firmo de...,,T P,174793
-103,Charles,Charles Luis Reiter,T P,300886 3 Fabio Fabio Pizarro Sanches,,T P,186135
-104,Fernando,Fernando Lombardi,T P,140899 4 Wagner Silva Wagner da Silva,,T P,179780
-105,Augusto Re ...,Augusto Oliveira da  ...,T P,146969 5 Magal Sidnei da Silva,,T P,146581
-106,Airton,Airton Santos de Oli ...,T P,186040 6 Leonardo Leonardo de Jesus Ge...,,T P,162332
-107,Pablo,Pablo Renan dos Santos,T P,367990 7 Maycon Maycon Lucas Azevedo...,,T P,354866
-108,Ze Antonio,Jose Antonio Pereira,T P,159237 8 Everton Everton Heleno dos S...,,T P,293506
-109,Dennis,Dennis Murillo Skrzypiec,T P,295884 9 Nando Luis Fernando Batista,,T P,177626
-110,Heverton,Heverton Duraes Cout ...,T P,159247 10 Victor Hug ... Victor Hugo Machado ...,,T P,343672
-111,Bruno Veiga,Bruno Veiga Mattos,T P,181396 11 Danrlei Danrlei Rosa dos Santos,,T P,327891
-101,Matheus,Matheus Silva de Oli ...,R P,174756 12 Lucas Lucas Rodrigues Laur...,,R P,307195
-113,Renie,Renie Almeida da Silva,R P,181824 13 Leandro Leandro Santos Ferreira,,R P,409190
-114,Marcos,Marcos Vinicius Serr ...,R P,368008 14 Moises Moises Ribeiro Santos,,R P,328812
-115,Victor Len ...,Victor Lenine Pereir ...,R P,298646 15 Gustavo Gustavo Nascimento d...,,R P,371956
-116,Bily,Blenyson Kleyton Agu ...,R P,302073 16 Willian Willian Popp,,R P,332817
-117,Parana,Marcos dos Santos Ca ...,R P,164863 17 Thomas And ... Thomas Anderson Cava...,,R P,187464
-118,Rômulo,Romulo Oliveira Amorim,R P,341465 18 Vitor Vitor Xavier de Camp...,,R P,326491
-119,Fabio,Fabio Alves da Silva,R P,187325 19 Juninho Rivaldo Vitor Borba ...,,R P,353792
-120,Valderlei,Valderlei Saldanha A ...,R P,378613,,,
-"",,Comissão Técnica,
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,16:50,Atraso:,NÃ£o Houve Entrada do mandante:,18:00,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,17:00,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,18:02,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+112,Rafael,Paulo Rafael e Silva,T P,305615,1,Andre Luiz,Andre Luiz Dias de Souza,T P,407891
+"",,ComissÃ£o TÃ©cnica,
 "",Paysandu / PA,,Mogi Mirim / SP
-Tecnico:,Uiles Geraldo Gonçalves De Freitas Junior - 114233494 sspTsepcnico:,,Claudio Batista Dos Santos - 137548269 SP
+Tecnico:,Uiles Geraldo GonÃ§alves De Freitas Junior - 114233494 sspTsepcnico:,,Claudio Batista Dos Santos - 137548269 SP
 Auxiliar Tecnico:,Joao Dermival Brigatti - 10946431 SSP SP,Auxiliar Tecnico:,Nelcirio Franchin - 278209804 SP
 Medico:,Jose Silverio Nunes Da Fonseca - 4775 PA,Medico:,Alexandre V. V. Carvalhal - 128984 SP
 Preparador Fisico:,Ronnie Reinaldo Da Silva - 2832 G SC,Preparador Fisico:,Mateus Simoso Caetano - 92924 G SP
@@ -48,17 +31,17 @@ Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 27:00,1T,107,NR,Pablo Renan dos Santos,,Paysandu/PA
 15:00,2T,103,NR,Charles Luis Reiter,,Paysandu/PA
 40:00,2T,17,NR,Thomas Anderson Cavalcanti da Silva,,Mogi Mirim/SP
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:NÃO HOUVE ATRASO. ACRÉSCIMOS DEVIDO A SUBSTITUIÇÕES E RETIRADA DE ATLETAS LESIONADOS DO CAMPO DE JOGO.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTMogi Mirim/SP17 - Thomas Anderson Cavalcant ...10 - Victor Hugo Machado Maia  ...10:002TPaysandu/PA115 - Victor Lenine Pereira San ...108 - Jose Antonio Pereira12:002TPaysandu/PA116 - Blenyson Kleyton Aguiar C ...105 - Augusto Oliveira da Silva ...25:002TMogi Mirim/SP15 - Gustavo Nascimento da Cos ...11 - Danrlei Rosa dos Santos27:002TPaysandu/PA117 - Marcos dos Santos Camargo ...106 - Airton Santos de Oliveira ...36:002TMogi Mirim/SP14 - Moises Ribeiro Santos9 - Luis Fernando Batista"
-"Motivo de atraso no início e/ou reinício, e de acréscimos:"
-NÃO HOUVE ATRASO. ACRÉSCIMOS DEVIDO A SUBSTITUIÇÕES E RETIRADA DE ATLETAS LESIONADOS DO CAMPO DE JOGO.
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:NÃO HOUVE ATRASO. ACRÉSCIMOS DEVIDO A SUBSTITUIÇÕES E RETIRADA DE ATLETAS LESIONADOS DO CAMPO DE JOGO.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTMogi Mirim/SP17 - Thomas Anderson Cavalcant ...10 - Victor Hugo Machado Maia  ...10:002TPaysandu/PA115 - Victor Lenine Pereira San ...108 - Jose Antonio Pereira12:002TPaysandu/PA116 - Blenyson Kleyton Aguiar C ...105 - Augusto Oliveira da Silva ...25:002TMogi Mirim/SP15 - Gustavo Nascimento da Cos ...11 - Danrlei Rosa dos Santos27:002TPaysandu/PA117 - Marcos dos Santos Camargo ...106 - Airton Santos de Oliveira ...36:002TMogi Mirim/SP14 - Moises Ribeiro Santos9 - Luis Fernando Batista",,,,
-Ocorrências / Observações,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:NÃƒO HOUVE ATRASO. ACRÃ‰SCIMOS DEVIDO A SUBSTITUIÃ‡Ã•ES E RETIRADA DE ATLETAS LESIONADOS DO CAMPO DE JOGO.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTMogi Mirim/SP17 - Thomas Anderson Cavalcant ...10 - Victor Hugo Machado Maia  ...10:002TPaysandu/PA115 - Victor Lenine Pereira San ...108 - Jose Antonio Pereira12:002TPaysandu/PA116 - Blenyson Kleyton Aguiar C ...105 - Augusto Oliveira da Silva ...25:002TMogi Mirim/SP15 - Gustavo Nascimento da Cos ...11 - Danrlei Rosa dos Santos27:002TPaysandu/PA117 - Marcos dos Santos Camargo ...106 - Airton Santos de Oliveira ...36:002TMogi Mirim/SP14 - Moises Ribeiro Santos9 - Luis Fernando Batista"
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:"
+NÃƒO HOUVE ATRASO. ACRÃ‰SCIMOS DEVIDO A SUBSTITUIÃ‡Ã•ES E RETIRADA DE ATLETAS LESIONADOS DO CAMPO DE JOGO.
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:NÃƒO HOUVE ATRASO. ACRÃ‰SCIMOS DEVIDO A SUBSTITUIÃ‡Ã•ES E RETIRADA DE ATLETAS LESIONADOS DO CAMPO DE JOGO.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTMogi Mirim/SP17 - Thomas Anderson Cavalcant ...10 - Victor Hugo Machado Maia  ...10:002TPaysandu/PA115 - Victor Lenine Pereira San ...108 - Jose Antonio Pereira12:002TPaysandu/PA116 - Blenyson Kleyton Aguiar C ...105 - Augusto Oliveira da Silva ...25:002TMogi Mirim/SP15 - Gustavo Nascimento da Cos ...11 - Danrlei Rosa dos Santos27:002TPaysandu/PA117 - Marcos dos Santos Camargo ...106 - Airton Santos de Oliveira ...36:002TMogi Mirim/SP14 - Moises Ribeiro Santos9 - Luis Fernando Batista",,,,
+OcorrÃªncias / ObservaÃ§Ãµes,,,,
 Nada houve de anormal,,,,
-"Motivo de atraso no início e/ou reinício, e de acréscimos:",,,,
-NÃO HOUVE ATRASO. ACRÉSCIMOS DEVIDO A SUBSTITUIÇÕES E RETIRADA DE ATLETAS LESIONADOS DO CAMPO DE JOGO.,,,,
-Observações Eventuais,,,,
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:",,,,
+NÃƒO HOUVE ATRASO. ACRÃ‰SCIMOS DEVIDO A SUBSTITUIÃ‡Ã•ES E RETIRADA DE ATLETAS LESIONADOS DO CAMPO DE JOGO.,,,,
+ObservaÃ§Ãµes Eventuais,,,,
 NADA HOUVE DE ANORMAL,,,,
-Substituições,,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 45:00,INT,Mogi Mirim/SP,17 - Thomas Anderson Cavalcant ...,10 - Victor Hugo Machado Maia  ...
 10:00,2T,Paysandu/PA,115 - Victor Lenine Pereira San ...,108 - Jose Antonio Pereira
@@ -66,8 +49,8 @@ Tempo,1T/2T,Equipe,Entrou,Saiu
 25:00,2T,Mogi Mirim/SP,15 - Gustavo Nascimento da Cos ...,11 - Danrlei Rosa dos Santos
 27:00,2T,Paysandu/PA,117 - Marcos dos Santos Camargo ...,106 - Airton Santos de Oliveira ...
 36:00,2T,Mogi Mirim/SP,14 - Moises Ribeiro Santos,9 - Luis Fernando Batista
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:NÃO HOUVE ATRASO. ACRÉSCIMOS DEVIDO A SUBSTITUIÇÕES E RETIRADA DE ATLETAS LESIONADOS DO CAMPO DE JOGO.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTMogi Mirim/SP17 - Thomas Anderson Cavalcant ...10 - Victor Hugo Machado Maia  ...10:002TPaysandu/PA115 - Victor Lenine Pereira San ...108 - Jose Antonio Pereira12:002TPaysandu/PA116 - Blenyson Kleyton Aguiar C ...105 - Augusto Oliveira da Silva ...25:002TMogi Mirim/SP15 - Gustavo Nascimento da Cos ...11 - Danrlei Rosa dos Santos27:002TPaysandu/PA117 - Marcos dos Santos Camargo ...106 - Airton Santos de Oliveira ...36:002TMogi Mirim/SP14 - Moises Ribeiro Santos9 - Luis Fernando Batista",,,,
-Substituições,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:NÃƒO HOUVE ATRASO. ACRÃ‰SCIMOS DEVIDO A SUBSTITUIÃ‡Ã•ES E RETIRADA DE ATLETAS LESIONADOS DO CAMPO DE JOGO.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTMogi Mirim/SP17 - Thomas Anderson Cavalcant ...10 - Victor Hugo Machado Maia  ...10:002TPaysandu/PA115 - Victor Lenine Pereira San ...108 - Jose Antonio Pereira12:002TPaysandu/PA116 - Blenyson Kleyton Aguiar C ...105 - Augusto Oliveira da Silva ...25:002TMogi Mirim/SP15 - Gustavo Nascimento da Cos ...11 - Danrlei Rosa dos Santos27:002TPaysandu/PA117 - Marcos dos Santos Camargo ...106 - Airton Santos de Oliveira ...36:002TMogi Mirim/SP14 - Moises Ribeiro Santos9 - Luis Fernando Batista",,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 45:00,INT,Mogi Mirim/SP,17 - Thomas Anderson Cavalcant ...,10 - Victor Hugo Machado Maia  ...
 10:00,2T,Paysandu/PA,115 - Victor Lenine Pereira San ...,108 - Jose Antonio Pereira
@@ -75,9 +58,9 @@ Tempo,1T/2T,Equipe,Entrou,Saiu
 25:00,2T,Mogi Mirim/SP,15 - Gustavo Nascimento da Cos ...,11 - Danrlei Rosa dos Santos
 27:00,2T,Paysandu/PA,117 - Marcos dos Santos Camargo ...,106 - Airton Santos de Oliveira ...
 36:00,2T,Mogi Mirim/SP,14 - Moises Ribeiro Santos,9 - Luis Fernando Batista
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:NÃO HOUVE ATRASO. ACRÉSCIMOS DEVIDO A SUBSTITUIÇÕES E RETIRADA DE ATLETAS LESIONADOS DO CAMPO DE JOGO.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTMogi Mirim/SP17 - Thomas Anderson Cavalcant ...10 - Victor Hugo Machado Maia  ...10:002TPaysandu/PA115 - Victor Lenine Pereira San ...108 - Jose Antonio Pereira12:002TPaysandu/PA116 - Blenyson Kleyton Aguiar C ...105 - Augusto Oliveira da Silva ...25:002TMogi Mirim/SP15 - Gustavo Nascimento da Cos ...11 - Danrlei Rosa dos Santos27:002TPaysandu/PA117 - Marcos dos Santos Camargo ...106 - Airton Santos de Oliveira ...36:002TMogi Mirim/SP14 - Moises Ribeiro Santos9 - Luis Fernando Batista"
-Observações Eventuais
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:NÃƒO HOUVE ATRASO. ACRÃ‰SCIMOS DEVIDO A SUBSTITUIÃ‡Ã•ES E RETIRADA DE ATLETAS LESIONADOS DO CAMPO DE JOGO.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTMogi Mirim/SP17 - Thomas Anderson Cavalcant ...10 - Victor Hugo Machado Maia  ...10:002TPaysandu/PA115 - Victor Lenine Pereira San ...108 - Jose Antonio Pereira12:002TPaysandu/PA116 - Blenyson Kleyton Aguiar C ...105 - Augusto Oliveira da Silva ...25:002TMogi Mirim/SP15 - Gustavo Nascimento da Cos ...11 - Danrlei Rosa dos Santos27:002TPaysandu/PA117 - Marcos dos Santos Camargo ...106 - Airton Santos de Oliveira ...36:002TMogi Mirim/SP14 - Moises Ribeiro Santos9 - Luis Fernando Batista"
+ObservaÃ§Ãµes Eventuais
 NADA HOUVE DE ANORMAL
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:NÃO HOUVE ATRASO. ACRÉSCIMOS DEVIDO A SUBSTITUIÇÕES E RETIRADA DE ATLETAS LESIONADOS DO CAMPO DE JOGO.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTMogi Mirim/SP17 - Thomas Anderson Cavalcant ...10 - Victor Hugo Machado Maia  ...10:002TPaysandu/PA115 - Victor Lenine Pereira San ...108 - Jose Antonio Pereira12:002TPaysandu/PA116 - Blenyson Kleyton Aguiar C ...105 - Augusto Oliveira da Silva ...25:002TMogi Mirim/SP15 - Gustavo Nascimento da Cos ...11 - Danrlei Rosa dos Santos27:002TPaysandu/PA117 - Marcos dos Santos Camargo ...106 - Airton Santos de Oliveira ...36:002TMogi Mirim/SP14 - Moises Ribeiro Santos9 - Luis Fernando Batista"
-Ocorrências / Observações
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:NÃƒO HOUVE ATRASO. ACRÃ‰SCIMOS DEVIDO A SUBSTITUIÃ‡Ã•ES E RETIRADA DE ATLETAS LESIONADOS DO CAMPO DE JOGO.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTMogi Mirim/SP17 - Thomas Anderson Cavalcant ...10 - Victor Hugo Machado Maia  ...10:002TPaysandu/PA115 - Victor Lenine Pereira San ...108 - Jose Antonio Pereira12:002TPaysandu/PA116 - Blenyson Kleyton Aguiar C ...105 - Augusto Oliveira da Silva ...25:002TMogi Mirim/SP15 - Gustavo Nascimento da Cos ...11 - Danrlei Rosa dos Santos27:002TPaysandu/PA117 - Marcos dos Santos Camargo ...106 - Airton Santos de Oliveira ...36:002TMogi Mirim/SP14 - Moises Ribeiro Santos9 - Luis Fernando Batista"
+OcorrÃªncias / ObservaÃ§Ãµes
 Nada houve de anormal

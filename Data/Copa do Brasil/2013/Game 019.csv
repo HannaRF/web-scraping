@@ -1,32 +1,17 @@
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,21:50Atraso:,,Não Houve Entrada do mandante: 22:57,Atraso:,,Não Houve
-Entrada do visitante:,21:50Atraso:,,Não Houve Entrada do visitante: 22:56,Atraso:,,Não Houve
-Início 1o Tempo:,21:50 Atraso:,,Não Houve Início do 2o Tempo: 22:57,Atraso:,,Não Houve
-Término do 1o Tempo:,22:36 Acréscimo:,,1 min Término do 2o Tempo: 23:42,Acréscimo:,,Não Houve
+Entrada do mandante:,21:50Atraso:,,NÃ£o Houve Entrada do mandante: 22:57,Atraso:,,NÃ£o Houve
+Entrada do visitante:,21:50Atraso:,,NÃ£o Houve Entrada do visitante: 22:56,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,21:50 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 22:57,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,22:36 AcrÃ©scimo:,,1 min TÃ©rmino do 2o Tempo: 23:42,AcrÃ©scimo:,,NÃ£o Houve
 Resultado do 1o Tempo: 0 x 2,,,Resultado Final: 0 x 3,,,
-"",,,,Relação de Jogadores,,,
-"",,Itabaiana / SE,,,Ponte Preta / SP,,
-No,Apelido,Nome Completo,T/R P/A,CBF No Apelido,Nome Completo T/R P/A,,CBF
-1,Ivan,Ivandilson Siqueira  ...,T(g) P,160880 1 Volpato,Roberto Volpato Netto T(g),P,135494
-2,Roni,Ronald Dias de Andrade,T P,341386 2 Cametá,Tiago Coelho Andrade,T P,392058
-3,Rogerio,Rogerio Ferreira Sodre,T P,169088 3 Wescley,Wescley Pina Goncalves,T P,156038
-4,Silvio,Silvio Severino da Silva,T P,188156 4 Diego,Diego Alessandro Apa...,T P,162757
-5,Rogerio,Rogerio Pereira da Silva,T P,176607 5 Clennyson,Clennyson Silva do N...,T P,162398
-6,Junior,Jose Valmir dos Sant ...,T P,178004 6 Renan,Renan Luis Neves dos...,T P,333459
-7,Icaro,Icaro Bismarck Mendo ...,T P,341152 7 Diego,Diego da Silva Rosa,T P,178005
-8,David,David Weberton de Je ...,T P,183438 8 Emerson,Emerson Gomes de Moura,T P,183099
-9,Reinaldo,Reinaldo de Morais Peres,T P,144301 9 Alemao,Jose Carlos Tofolo J...,T P,175747
-10,Wilson Jun ...,Wilson dos Santos Vi ...,T P,300968 10 Geovane,Geovane do Rosario B...,T P,330978
-11,Anderson,Anderson Michael Qua ...,T P,163546 11 Rildo,Rildo de Andrade Fel...,T P,318254
-13,André,André Bezerra Nunes,R P,351833 12 Reynaldo,Reynaldo Moura Macha...,R P,294101
-14,Edinho,Edson Aureliano da S ...,R P,176795 13 Windson,Windson Lima Pascoa,R P,339549
-15,Nininho,Jose de Arimateia Si ...,R P,291689 14 Felipe,Felipe Coltro,R P,294378
-16,Junior,Roberto Sousa Castro ...,R P,300425 15 Alef,Alef dos Santos Saldanha,R P,351749
-17,Rafael,Rafael Oliveira Mendonça,R P,338967 16 Rossi,Rosicley Pereira da ...,R P,314059
-18,Gilmar,Gilmar Serafim de Couto,R P,167350 17 Everton Sa ...,Everton Leandro dos ...,R P,165064
-19,Júnior,Júnior Robson Mendon ...,R P,342346,,,
-"",,,Comissão Técnica,
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,21:50,Atraso:,NÃ£o Houve Entrada do mandante:,22:57,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,21:50,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,22:57,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+1,Ivan,Ivandilson Siqueira  ...,T(g) P,160880,1,Volpato,Roberto Volpato Netto,T(g) P,135494
+"",,,ComissÃ£o TÃ©cnica,
 "",,Itabaiana / SE,,Ponte Preta / SP
 Tecnico:,.. - ..,,Tecnico:,Alexandre Faganello - 21347721
 Auxiliar Tecnico:,.. - ..,,Auxiliar Tecnico:,Andre Luis Dias - 37122-P/SP
@@ -38,36 +23,36 @@ Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 02:00,1T,9,PN,Jose Carlos Tofolo Junior,,Ponte Preta/SP
 32:00,1T,9,NR,Jose Carlos Tofolo Junior,,Ponte Preta/SP
 11:00,2T,11,NR,Rildo de Andrade Felicissimo,,Ponte Preta/SP
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:NADA DE ANORMALObservações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu01:00Itabaiana/SE17 - Rafael Oliveira Mendonça10 - Wilson dos Santos Vieira  ...01:002TItabaiana/SE14 - Edson Aureliano da Silva  ...6 - Jose Valmir dos Santos Ju ...10:002TItabaiana/SE16 - Roberto Sousa Castro Juni ...9 - Reinaldo de Morais Peres14:002TPonte Preta/SP17 - Everton Leandro dos Santo ...7 - Diego da Silva Rosa23:002TPonte Preta/SP15 - Alef dos Santos Saldanha8 - Emerson Gomes de Moura26:002TPonte Preta/SP16 - Rosicley Pereira da Silva ...11 - Rildo de Andrade Feliciss ..."
-"Motivo de atraso no início e/ou reinício, e de acréscimos:"
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:NADA DE ANORMALObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu01:00Itabaiana/SE17 - Rafael Oliveira MendonÃ§a10 - Wilson dos Santos Vieira  ...01:002TItabaiana/SE14 - Edson Aureliano da Silva  ...6 - Jose Valmir dos Santos Ju ...10:002TItabaiana/SE16 - Roberto Sousa Castro Juni ...9 - Reinaldo de Morais Peres14:002TPonte Preta/SP17 - Everton Leandro dos Santo ...7 - Diego da Silva Rosa23:002TPonte Preta/SP15 - Alef dos Santos Saldanha8 - Emerson Gomes de Moura26:002TPonte Preta/SP16 - Rosicley Pereira da Silva ...11 - Rildo de Andrade Feliciss ..."
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:"
 NADA DE ANORMAL
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:NADA DE ANORMALObservações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu01:00Itabaiana/SE17 - Rafael Oliveira Mendonça10 - Wilson dos Santos Vieira  ...01:002TItabaiana/SE14 - Edson Aureliano da Silva  ...6 - Jose Valmir dos Santos Ju ...10:002TItabaiana/SE16 - Roberto Sousa Castro Juni ...9 - Reinaldo de Morais Peres14:002TPonte Preta/SP17 - Everton Leandro dos Santo ...7 - Diego da Silva Rosa23:002TPonte Preta/SP15 - Alef dos Santos Saldanha8 - Emerson Gomes de Moura26:002TPonte Preta/SP16 - Rosicley Pereira da Silva ...11 - Rildo de Andrade Feliciss ...",,,,
-Ocorrências / Observações,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:NADA DE ANORMALObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu01:00Itabaiana/SE17 - Rafael Oliveira MendonÃ§a10 - Wilson dos Santos Vieira  ...01:002TItabaiana/SE14 - Edson Aureliano da Silva  ...6 - Jose Valmir dos Santos Ju ...10:002TItabaiana/SE16 - Roberto Sousa Castro Juni ...9 - Reinaldo de Morais Peres14:002TPonte Preta/SP17 - Everton Leandro dos Santo ...7 - Diego da Silva Rosa23:002TPonte Preta/SP15 - Alef dos Santos Saldanha8 - Emerson Gomes de Moura26:002TPonte Preta/SP16 - Rosicley Pereira da Silva ...11 - Rildo de Andrade Feliciss ...",,,,
+OcorrÃªncias / ObservaÃ§Ãµes,,,,
 Nada houve de anormal,,,,
-"Motivo de atraso no início e/ou reinício, e de acréscimos:",,,,
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:",,,,
 NADA DE ANORMAL,,,,
-Observações Eventuais,,,,
+ObservaÃ§Ãµes Eventuais,,,,
 NADA HOUVE DE ANORMAL,,,,
-Substituições,,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
-01:00,,Itabaiana/SE,17 - Rafael Oliveira Mendonça,10 - Wilson dos Santos Vieira  ...
+01:00,,Itabaiana/SE,17 - Rafael Oliveira MendonÃ§a,10 - Wilson dos Santos Vieira  ...
 01:00,2T,Itabaiana/SE,14 - Edson Aureliano da Silva  ...,6 - Jose Valmir dos Santos Ju ...
 10:00,2T,Itabaiana/SE,16 - Roberto Sousa Castro Juni ...,9 - Reinaldo de Morais Peres
 14:00,2T,Ponte Preta/SP,17 - Everton Leandro dos Santo ...,7 - Diego da Silva Rosa
 23:00,2T,Ponte Preta/SP,15 - Alef dos Santos Saldanha,8 - Emerson Gomes de Moura
 26:00,2T,Ponte Preta/SP,16 - Rosicley Pereira da Silva ...,11 - Rildo de Andrade Feliciss ...
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:NADA DE ANORMALObservações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu01:00Itabaiana/SE17 - Rafael Oliveira Mendonça10 - Wilson dos Santos Vieira  ...01:002TItabaiana/SE14 - Edson Aureliano da Silva  ...6 - Jose Valmir dos Santos Ju ...10:002TItabaiana/SE16 - Roberto Sousa Castro Juni ...9 - Reinaldo de Morais Peres14:002TPonte Preta/SP17 - Everton Leandro dos Santo ...7 - Diego da Silva Rosa23:002TPonte Preta/SP15 - Alef dos Santos Saldanha8 - Emerson Gomes de Moura26:002TPonte Preta/SP16 - Rosicley Pereira da Silva ...11 - Rildo de Andrade Feliciss ...",,,,
-Substituições,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:NADA DE ANORMALObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu01:00Itabaiana/SE17 - Rafael Oliveira MendonÃ§a10 - Wilson dos Santos Vieira  ...01:002TItabaiana/SE14 - Edson Aureliano da Silva  ...6 - Jose Valmir dos Santos Ju ...10:002TItabaiana/SE16 - Roberto Sousa Castro Juni ...9 - Reinaldo de Morais Peres14:002TPonte Preta/SP17 - Everton Leandro dos Santo ...7 - Diego da Silva Rosa23:002TPonte Preta/SP15 - Alef dos Santos Saldanha8 - Emerson Gomes de Moura26:002TPonte Preta/SP16 - Rosicley Pereira da Silva ...11 - Rildo de Andrade Feliciss ...",,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
-01:00,,Itabaiana/SE,17 - Rafael Oliveira Mendonça,10 - Wilson dos Santos Vieira  ...
+01:00,,Itabaiana/SE,17 - Rafael Oliveira MendonÃ§a,10 - Wilson dos Santos Vieira  ...
 01:00,2T,Itabaiana/SE,14 - Edson Aureliano da Silva  ...,6 - Jose Valmir dos Santos Ju ...
 10:00,2T,Itabaiana/SE,16 - Roberto Sousa Castro Juni ...,9 - Reinaldo de Morais Peres
 14:00,2T,Ponte Preta/SP,17 - Everton Leandro dos Santo ...,7 - Diego da Silva Rosa
 23:00,2T,Ponte Preta/SP,15 - Alef dos Santos Saldanha,8 - Emerson Gomes de Moura
 26:00,2T,Ponte Preta/SP,16 - Rosicley Pereira da Silva ...,11 - Rildo de Andrade Feliciss ...
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:NADA DE ANORMALObservações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu01:00Itabaiana/SE17 - Rafael Oliveira Mendonça10 - Wilson dos Santos Vieira  ...01:002TItabaiana/SE14 - Edson Aureliano da Silva  ...6 - Jose Valmir dos Santos Ju ...10:002TItabaiana/SE16 - Roberto Sousa Castro Juni ...9 - Reinaldo de Morais Peres14:002TPonte Preta/SP17 - Everton Leandro dos Santo ...7 - Diego da Silva Rosa23:002TPonte Preta/SP15 - Alef dos Santos Saldanha8 - Emerson Gomes de Moura26:002TPonte Preta/SP16 - Rosicley Pereira da Silva ...11 - Rildo de Andrade Feliciss ..."
-Observações Eventuais
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:NADA DE ANORMALObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu01:00Itabaiana/SE17 - Rafael Oliveira MendonÃ§a10 - Wilson dos Santos Vieira  ...01:002TItabaiana/SE14 - Edson Aureliano da Silva  ...6 - Jose Valmir dos Santos Ju ...10:002TItabaiana/SE16 - Roberto Sousa Castro Juni ...9 - Reinaldo de Morais Peres14:002TPonte Preta/SP17 - Everton Leandro dos Santo ...7 - Diego da Silva Rosa23:002TPonte Preta/SP15 - Alef dos Santos Saldanha8 - Emerson Gomes de Moura26:002TPonte Preta/SP16 - Rosicley Pereira da Silva ...11 - Rildo de Andrade Feliciss ..."
+ObservaÃ§Ãµes Eventuais
 NADA HOUVE DE ANORMAL
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:NADA DE ANORMALObservações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu01:00Itabaiana/SE17 - Rafael Oliveira Mendonça10 - Wilson dos Santos Vieira  ...01:002TItabaiana/SE14 - Edson Aureliano da Silva  ...6 - Jose Valmir dos Santos Ju ...10:002TItabaiana/SE16 - Roberto Sousa Castro Juni ...9 - Reinaldo de Morais Peres14:002TPonte Preta/SP17 - Everton Leandro dos Santo ...7 - Diego da Silva Rosa23:002TPonte Preta/SP15 - Alef dos Santos Saldanha8 - Emerson Gomes de Moura26:002TPonte Preta/SP16 - Rosicley Pereira da Silva ...11 - Rildo de Andrade Feliciss ..."
-Ocorrências / Observações
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:NADA DE ANORMALObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu01:00Itabaiana/SE17 - Rafael Oliveira MendonÃ§a10 - Wilson dos Santos Vieira  ...01:002TItabaiana/SE14 - Edson Aureliano da Silva  ...6 - Jose Valmir dos Santos Ju ...10:002TItabaiana/SE16 - Roberto Sousa Castro Juni ...9 - Reinaldo de Morais Peres14:002TPonte Preta/SP17 - Everton Leandro dos Santo ...7 - Diego da Silva Rosa23:002TPonte Preta/SP15 - Alef dos Santos Saldanha8 - Emerson Gomes de Moura26:002TPonte Preta/SP16 - Rosicley Pereira da Silva ...11 - Rildo de Andrade Feliciss ..."
+OcorrÃªncias / ObservaÃ§Ãµes
 Nada houve de anormal

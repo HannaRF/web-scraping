@@ -6,53 +6,33 @@ Quarto Arbitro:,Antonio Neuriclaudio R. Costa (CD / AC),
 Analista de Campo:,Josemir Raulino de Amorim (CBF / AC),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,18:50Atraso:,,Não Houve Entrada do mandante: 20:02,Atraso:,,Não Houve
-Entrada do visitante:,18:50Atraso:,,Não Houve Entrada do visitante: 20:03,Atraso:,,Não Houve
-Início 1o Tempo:,19:00 Atraso:,,Não Houve Início do 2o Tempo: 20:05,Atraso:,,Não Houve
-Término do 1o Tempo:,19:50 Acréscimo:,,5 min Término do 2o Tempo: 20:50,Acréscimo:,,Não Houve
+Entrada do mandante:,18:50Atraso:,,NÃ£o Houve Entrada do mandante: 20:02,Atraso:,,NÃ£o Houve
+Entrada do visitante:,18:50Atraso:,,NÃ£o Houve Entrada do visitante: 20:03,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,19:00 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 20:05,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,19:50 AcrÃ©scimo:,,5 min TÃ©rmino do 2o Tempo: 20:50,AcrÃ©scimo:,,NÃ£o Houve
 Resultado do 1o Tempo: 1 X 0,,,Resultado Final: 3 X 0,,,
-"",,,,Relação de Jogadores,,,
-"",,Atlético / AC,,,Gurupi / TO,,
-No,Apelido,Nome Completo,T/R P/A,CBF No Apelido,Nome Completo,T/R P/A,CBF
-1,Luiz Mille ...,Luiz Miller dos Sant ... T(g),P,455014 12 Welder Alv ...,Welder Alves da Silva,T(g) P,156666
-2,Weverton,Weverton da Luz Braz,T P,374198 2 Marcelinho,Marcelo Lanza,T P,189611
-3,Juan,Juan Santos Pinto,T P,556022 3 Gilson,Gilson Lins Santos d...,T P,183715
-4,Diego,Diego Pereira Alberto,T P,186747 4 Alan,Alan Kardek de Souza,T P,130986
-5,Leandro,Leandro Jucá da Silva,T P,367542 5 Paulista,Vinicius Alves Rabelo,T P,306141
-6,Alfredo,Alfredo de Novais Araujo,T P,466779 7 Batata,Wilkerson Junnior de...,T P,431932
-7,Eduardo,Eduardo Amancio Alve ...,T P,308668 8 Ederson,Ederson Francisco do...,T P,152739
-8,Renato,Renato Paula de Abreu,T P,308816 9 Regis,Regis Fernando Bueno...,T P,175299
-9,Altemir,Altemir Cordeiro Pes ...,T P,383352 10 Bruno,Bruno de Morais,T P,341758
-10,Raianderson,Raianderson da Costa ...,T P,384570 11 Rafael,Rafael Sayao Rodrigu...,T P,370076
-11,Rafael,Rafael Barros Silva,T P,347957 19 Heder,Heder Alves de Sa,T P,178939
-12,Cledioneide,Cledioneide Fernande ... R(g),P,309047 1 Matheus Ma ...,Matheus Machado Lima,R(g) P,451206
-13,Pedro Balu,Pedro Ernesto de Sou ...,R P,186917 13 Leonan,Leonan Oliveira de Souza,R P,332388
-14,Matheus,Matheus Damasceno de ...,R P,384709 14 Adriano,Adriano da Silva de ...,R P,346928
-15,Olliver,Olliver Gulliver Flo ...,R P,367842 15 Eduardo,Eduardo Barbosa da Silva,R P,179238
-16,Antonio Ma ...,Antonio Marcos Rodri ...,R P,179335 16 Willian,Willian Cesar Christ...,R P,300813
-17,Jeferson,Jeferson Siqueira da ...,R P,295707 17 Cabeca,Wellington Jose de Jesus,R P,190327
-18,Junior,Junior da Silva Trag ...,R P,340929 18 Antonio Fl ...,Antonio Flavio Aires...,R P,183377
-19,Ailton,Ailton Oliveira da Silva,R P,174020,,,
-20,Luiz Henri ...,Luiz Henrique Lima d ...,R P,384569,,,
-21,Geovani,Geovani Silva dos Santos,R P,367541,,,
-22,Gesse,Gesse da Silva Araujo,R P,174046,,,
-23,Allan,Allan Santana da Silva,R P,367531,,,
-"",,Comissão Técnica
-"",Atlético / AC,Gurupi / TO
-Técnico:,Alvaro Jose Marques Migueis - 19641567268,Técnico: Waldimir Ferreira De Araujo - 2.470.433 SSP-G
-Preparador Físico:,Diego Fernandes Farias - 52685560297,Auxiliar Técnico: Torquato Noleto Da Cruz E Lima - 824.163 SSP -TO
-Médico:,Eduardo Vasconcelos Passos - 51576155234,Médico: Reisabeth Sanchez Perez - 2140 AC
-Massagista:,Leyf Barros Do Nascimento - 66537690200,Preparador Físico: Jean Carlos De Souza França - 0008426 DF
-Auxiliar Técnico:,Mauricio Francisco De Souza Carneiro - 1754805248,Massagista: Matheus Alves Machado - 1.045.647 SSPTO
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,18:50,Atraso:,NÃ£o Houve Entrada do mandante:,20:02,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,19:00,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,20:05,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+1,Luiz Mille ...,Luiz Miller dos Sant ...,T(g) P,455014,12,Welder Alv ...,Welder Alves da Silva,T(g) P,156666
+"",,ComissÃ£o TÃ©cnica
+"",AtlÃ©tico / AC,Gurupi / TO
+TÃ©cnico:,Alvaro Jose Marques Migueis - 19641567268,TÃ©cnico: Waldimir Ferreira De Araujo - 2.470.433 SSP-G
+Preparador FÃ­sico:,Diego Fernandes Farias - 52685560297,Auxiliar TÃ©cnico: Torquato Noleto Da Cruz E Lima - 824.163 SSP -TO
+MÃ©dico:,Eduardo Vasconcelos Passos - 51576155234,MÃ©dico: Reisabeth Sanchez Perez - 2140 AC
+Massagista:,Leyf Barros Do Nascimento - 66537690200,Preparador FÃ­sico: Jean Carlos De Souza FranÃ§a - 0008426 DF
+Auxiliar TÃ©cnico:,Mauricio Francisco De Souza Carneiro - 1754805248,Massagista: Matheus Alves Machado - 1.045.647 SSPTO
 Treinador De GoleirosO: fleiby De Oliveira Venancio - 56194048204,,Preparador De GoleiroC:a rlos Roberto Da Costa - 960.004 SSPGO
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
-21:00,1T,11,PN,Rafael Barros Silva,,Atlético/AC
-28:00,2T,11,PN,Rafael Barros Silva,,Atlético/AC
-31:00,2T,7,NR,Eduardo Amancio Alves Lopes,,Atlético/AC
-"",,,,Substituições,
+21:00,1T,11,PN,Rafael Barros Silva,,AtlÃ©tico/AC
+28:00,2T,11,PN,Rafael Barros Silva,,AtlÃ©tico/AC
+31:00,2T,7,NR,Eduardo Amancio Alves Lopes,,AtlÃ©tico/AC
+"",,,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,,Equipe,Entrou,Saiu
 45:00,INT,Gurupi/TO,,18 - Antonio Flavio Aires dos  ...,7 - Wilkerson Junnior de Souz ...
 12:00,2T,Gurupi/TO,,14 - Adriano da Silva de Andra ...,19 - Heder Alves de Sa
 29:00,2T,Gurupi/TO,,17 - Wellington Jose de Jesus,11 - Rafael Sayao Rodrigues de ...
-41:00,2T,Atlético/AC,,20 - Luiz Henrique Lima da Sil ...,11 - Rafael Barros Silva
+41:00,2T,AtlÃ©tico/AC,,20 - Luiz Henrique Lima da Sil ...,11 - Rafael Barros Silva

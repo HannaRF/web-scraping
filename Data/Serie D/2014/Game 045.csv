@@ -1,33 +1,16 @@
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,15:56Atraso:,,Não Houve Entrada do mandante: 16:58,Atraso:,,Não Houve
-Entrada do visitante:,15:55Atraso:,,Não Houve Entrada do visitante: 16:58,Atraso:,,Não Houve
-Início 1o Tempo:,16:00 Atraso:,,Não Houve Início do 2o Tempo: 17:00,Atraso:,,Não Houve
-Término do 1o Tempo:,16:45 Acréscimo:,,Não Houve Término do 2o Tempo: 17:51,Acréscimo:,,3 min
+Entrada do mandante:,15:56Atraso:,,NÃ£o Houve Entrada do mandante: 16:58,Atraso:,,NÃ£o Houve
+Entrada do visitante:,15:55Atraso:,,NÃ£o Houve Entrada do visitante: 16:58,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,16:00 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 17:00,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,16:45 AcrÃ©scimo:,,NÃ£o Houve TÃ©rmino do 2o Tempo: 17:51,AcrÃ©scimo:,,3 min
 Resultado do 1o Tempo: 02 x 01,,,Resultado Final: 04 x 03,,,
-"",,,,Relação de Jogadores,,,
-"",,Estrela do Norte / ES,,,Anapolina / GO,,
-No,Apelido,Nome Completo T/R P/A,,CBF No Apelido,Nome Completo T/R P/A,,CBF
-1,Wagner,Wagner Augusto Gomes,T P,169923 1 Andre,Andre Luis Santos do... T,P,130171
-2,Anderson,Anderson Moreira da  ...,T P,329818 2 Jhon,Johnathan Pereira da... T,P,142555
-3,Rodrigo,Rodrigo Oberdan Paga ...,T P,296056 3 Luiz,Luiz Carlos da Silva... T,P,186427
-4,Leandro,Leandro Aparecido da ...,T P,173640 4 Cristiano,Cristiano Machado da... T,P,173675
-5,Wesley,Wesley de Lima Soeiro,T P,184799 5 Jackson,Jackson Daniel Rosa ... T,P,180258
-6,Leonardo,Leonardo Goncalves,T P,138338 6 Paulo,Paulo Cezar Marques ... T,P,145088
-7,Ronaldo,Ronaldo Rosa dos Santos,T P,156300 7 Andre Luiz,Andre Luiz Carvalho ... T,P,164112
-8,Anderson,Anderson de Freitas  ...,T P,299049 8 Renatinho,Renato Xavier Sena T,P,171710
-9,Ricardo,Ricardo Goncalves de ...,T P,188959 9 Dinei,Valdinei Eberton Bor... T,P,163669
-10,Marcus Vin ...,Marcus Vinicius Moreira,T P,164735 10 Romero,Romero Mendonca SubrinhoT,P,118501
-11,Souza,Cleber Henrique Fagu ...,T P,180310 11 Indio,Raphael Luz Pessoa T,P,181334
-12,Paulo,Paulo Henrique Fagun ...,R P,317267 12 Flavio Men ...,Flavio Augusto Mendes R,P,116416
-13,Luther,Luther Eduardo Bissa ...,R P,175839 13 Tales,Tales Oliveira Rodrigues R,P,161754
-14,Douglas Be ...,Douglas dos Santos Bessa,R P,180794 14 Renato,Renato Alves de Mendonca R,P,301943
-15,Renan,Renan Brugnerotto Gr ...,R P,188061 15 Thiago Flo ...,Thiago Floriano da Silva R,P,141842
-16,Juninho,Alcir Jose de Olivei ...,R P,299095 16 Diego,Diego Luiz Dedone R,P,159772
-17,Renan,Renan Alves Campos,R P,309232 17 Wendell,Wendell Silva Lira R,P,172719
-18,Laio,Laio Azeredo dos Santos,R P,187261 18 Nino,Ederson da Silva Lima R,P,161233
-19,Igor,Jose Igor dos Santos ...,R P,336526,,,
-20,Adriano,Adriano Junio do Nas ...,R P,165392,,,
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,15:56,Atraso:,NÃ£o Houve Entrada do mandante:,16:58,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,16:00,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,17:00,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+1,Wagner,Wagner Augusto Gomes,T P,169923,1,Andre,Andre Luis Santos do...,T P,130171
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 22:00,1T,7,NR,Ronaldo Rosa dos Santos,,Estrela do Norte/ES
@@ -37,11 +20,11 @@ Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 27:00,2T,11,PN,Raphael Luz Pessoa,,Anapolina/GO
 37:00,2T,15,PN,Thiago Floriano da Silva,,Anapolina/GO
 45:00,2T,9,PN,Valdinei Eberton Borges Correia,,Anapolina/GO
-"Motivo de atraso no início e/ou reinício, e de acréscimos:SubstituiçõesTempo1T/2TEquipeEntrouSaiu00:00INTEstrela do Norte/ES15 - Renan Brugnerotto Grivoll ...6 - Leonardo Goncalves00:00INTAnapolina/GO13 - Tales Oliveira Rodrigues4 - Cristiano Machado da Conc ...08:002TAnapolina/GO18 - Ederson da Silva Lima7 - Andre Luiz Carvalho Marti ...19:002TEstrela do Norte/ES18 - Laio Azeredo dos Santos9 - Ricardo Goncalves de Souz ...23:002TAnapolina/GO15 - Thiago Floriano da Silva10 - Romero Mendonca Subrinho26:002TEstrela do Norte/ES17 - Renan Alves Campos7 - Ronaldo Rosa dos Santos"
-"Motivo de atraso no início e/ou reinício, e de acréscimos:"
-"Motivo de atraso no início e/ou reinício, e de acréscimos:SubstituiçõesTempo1T/2TEquipeEntrouSaiu00:00INTEstrela do Norte/ES15 - Renan Brugnerotto Grivoll ...6 - Leonardo Goncalves00:00INTAnapolina/GO13 - Tales Oliveira Rodrigues4 - Cristiano Machado da Conc ...08:002TAnapolina/GO18 - Ederson da Silva Lima7 - Andre Luiz Carvalho Marti ...19:002TEstrela do Norte/ES18 - Laio Azeredo dos Santos9 - Ricardo Goncalves de Souz ...23:002TAnapolina/GO15 - Thiago Floriano da Silva10 - Romero Mendonca Subrinho26:002TEstrela do Norte/ES17 - Renan Alves Campos7 - Ronaldo Rosa dos Santos",,,,
-"Motivo de atraso no início e/ou reinício, e de acréscimos:",,,,
-Substituições,,,,
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu00:00INTEstrela do Norte/ES15 - Renan Brugnerotto Grivoll ...6 - Leonardo Goncalves00:00INTAnapolina/GO13 - Tales Oliveira Rodrigues4 - Cristiano Machado da Conc ...08:002TAnapolina/GO18 - Ederson da Silva Lima7 - Andre Luiz Carvalho Marti ...19:002TEstrela do Norte/ES18 - Laio Azeredo dos Santos9 - Ricardo Goncalves de Souz ...23:002TAnapolina/GO15 - Thiago Floriano da Silva10 - Romero Mendonca Subrinho26:002TEstrela do Norte/ES17 - Renan Alves Campos7 - Ronaldo Rosa dos Santos"
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:"
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu00:00INTEstrela do Norte/ES15 - Renan Brugnerotto Grivoll ...6 - Leonardo Goncalves00:00INTAnapolina/GO13 - Tales Oliveira Rodrigues4 - Cristiano Machado da Conc ...08:002TAnapolina/GO18 - Ederson da Silva Lima7 - Andre Luiz Carvalho Marti ...19:002TEstrela do Norte/ES18 - Laio Azeredo dos Santos9 - Ricardo Goncalves de Souz ...23:002TAnapolina/GO15 - Thiago Floriano da Silva10 - Romero Mendonca Subrinho26:002TEstrela do Norte/ES17 - Renan Alves Campos7 - Ronaldo Rosa dos Santos",,,,
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:",,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 00:00,INT,Estrela do Norte/ES,15 - Renan Brugnerotto Grivoll ...,6 - Leonardo Goncalves
 00:00,INT,Anapolina/GO,13 - Tales Oliveira Rodrigues,4 - Cristiano Machado da Conc ...
@@ -49,8 +32,8 @@ Tempo,1T/2T,Equipe,Entrou,Saiu
 19:00,2T,Estrela do Norte/ES,18 - Laio Azeredo dos Santos,9 - Ricardo Goncalves de Souz ...
 23:00,2T,Anapolina/GO,15 - Thiago Floriano da Silva,10 - Romero Mendonca Subrinho
 26:00,2T,Estrela do Norte/ES,17 - Renan Alves Campos,7 - Ronaldo Rosa dos Santos
-"Motivo de atraso no início e/ou reinício, e de acréscimos:SubstituiçõesTempo1T/2TEquipeEntrouSaiu00:00INTEstrela do Norte/ES15 - Renan Brugnerotto Grivoll ...6 - Leonardo Goncalves00:00INTAnapolina/GO13 - Tales Oliveira Rodrigues4 - Cristiano Machado da Conc ...08:002TAnapolina/GO18 - Ederson da Silva Lima7 - Andre Luiz Carvalho Marti ...19:002TEstrela do Norte/ES18 - Laio Azeredo dos Santos9 - Ricardo Goncalves de Souz ...23:002TAnapolina/GO15 - Thiago Floriano da Silva10 - Romero Mendonca Subrinho26:002TEstrela do Norte/ES17 - Renan Alves Campos7 - Ronaldo Rosa dos Santos",,,,
-Substituições,,,,
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu00:00INTEstrela do Norte/ES15 - Renan Brugnerotto Grivoll ...6 - Leonardo Goncalves00:00INTAnapolina/GO13 - Tales Oliveira Rodrigues4 - Cristiano Machado da Conc ...08:002TAnapolina/GO18 - Ederson da Silva Lima7 - Andre Luiz Carvalho Marti ...19:002TEstrela do Norte/ES18 - Laio Azeredo dos Santos9 - Ricardo Goncalves de Souz ...23:002TAnapolina/GO15 - Thiago Floriano da Silva10 - Romero Mendonca Subrinho26:002TEstrela do Norte/ES17 - Renan Alves Campos7 - Ronaldo Rosa dos Santos",,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 00:00,INT,Estrela do Norte/ES,15 - Renan Brugnerotto Grivoll ...,6 - Leonardo Goncalves
 00:00,INT,Anapolina/GO,13 - Tales Oliveira Rodrigues,4 - Cristiano Machado da Conc ...

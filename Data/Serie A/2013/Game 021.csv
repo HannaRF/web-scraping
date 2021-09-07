@@ -9,32 +9,17 @@ Assessor:,Carlos Elias Barroso Pimentel (  / ),
 "",,,,Cronologia,,,
 "",1o Tempo,,,2o Tempo,,,
 Entrada do mandante:,16:22Atraso:,,2 min,Entrada do mandante: 17:25,Atraso:,,1 min
-Entrada do visitante:,16:13Atraso:,,N„o Houve,Entrada do visitante: 17:25,Atraso:,,1 min
-InÌcio 1o Tempo:,16:23 Atraso:,,3 min,InÌcio do 2o Tempo: 17:26,Atraso:,,2 min
-TÈrmino do 1o Tempo:,17:09 AcrÈscimo:,,1 min,TÈrmino do 2o Tempo: 18:16,AcrÈscimo:,,5 min
+Entrada do visitante:,16:13Atraso:,,N√£o Houve,Entrada do visitante: 17:25,Atraso:,,1 min
+In√≠cio 1o Tempo:,16:23 Atraso:,,3 min,In√≠cio do 2o Tempo: 17:26,Atraso:,,2 min
+T√©rmino do 1o Tempo:,17:09 Acr√©scimo:,,1 min,T√©rmino do 2o Tempo: 18:16,Acr√©scimo:,,5 min
 Resultado do 1o Tempo: 1 X 1,,,,Resultado do 2o Tempo: 2 X 1,,,
-"",,,,RelaÁ„o de Jogadores,,,
-"",,Botafogo / RJ,,,Cruzeiro / MG,,
-No,Apelido,Nome Completo,T/R P/A,CBF No Apelido,Nome Completo,T/R P/A,CBF
-22,Renan,Renan dos Santos,T P,188424 1 Fabio,Fabio Deivson Lopes ...,T P,129292
-2,Lucas,Lucas Rios Marques,T P,178827 2 Ceara,Marcos Venancio de A...,T P,138932
-3,Antonio,Antonio Carlos dos S ...,T P,161940 6 Egidio,Egidio de Araujo Per...,T P,157280
-4,Bolivar,Fabian Guedes,T P,138908 10 Diego Souza,Diego de Souza Andrade,T P,161625
-5,Marcelo Ma ...,Marcelo de Mattos Terra,T P,154766 11 Dagoberto,Dagoberto Pelentier,T P,150591
-10,Clarence,Clarence Clyde Seedorf,T P,419705 17 Everton Ri ...,Everton Augusto de B...,T P,177444
-14,Marcelo,Marcelo Nicolas Lode ...,T P,420161 19 Nilton,Nilton Ferreira Junior,T P,163518
-15,Gabriel,Gabriel Girotto Franco,T P,320839 26 Dede,Anderson Vital da Silva,T P,177749
-20,Rafael Mar ...,Rafael Marques Mariano,T P,158615 33 Bruno,Bruno Rodrigo Fenelo...,T P,166647
-26,Julio Cesar,Julio Cesar Coelho d ...,T P,155605 55 Leandro,Leandro Luchese Guer...,T P,137403
-31,Victor,Victor Vinicius Coel ...,T P,307245 99 Ramon,Anselmo Ramon Alves ...,T P,182466
-8,Renato,Renato Dirnei Florencio,R P,123823 3 Leonardo,Leonardo Renan Simoe...,R P,174360
-12,Milton,Milton Raphael Guima ...,R P,298748 12 Rafael,Rafael Pires Monteiro,R P,180213
-16,Lima,Lucas Pedro Alves de ...,R P,187540 16 Lucas,Lucas Silva Borges,R P,320111
-17,Andrezinho,Andre Luiz Tavares,R P,144360 20 Martinucio,Alejandro Hernan Mar...,R P,387195
-19,Andre Bahia,Andre Luiz Bahia San ...,R P,150642 23 Everton,Francisco Everton de...,R P,171339
-25,Lucas,Lucas Lacerda Lima G ...,R P,291609 31 Ricardo,Ricardo Goulart Pereira,R P,191616
-38,Bruno Mendes,Bruno Pereira Mendes,R P,374375 88 Louza,Luan Michel Louza,R P,183381
-"",,Comiss„o TÈcnica,
+"",,,,Cronologia,,,
+"",1o Tempo,,,,2o Tempo,,
+Entrada do mandante:,16:22,Atraso:,2 min,Entrada do mandante:,17:25,Atraso:,1 min
+In√≠cio 1o Tempo:,16:23,Atraso:,3 min,In√≠cio do 2o Tempo:,17:26,Atraso:,2 min
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+22,Renan,Renan dos Santos,T P,188424,1,Fabio,Fabio Deivson Lopes ...,T P,129292
+"",,Comiss√£o T√©cnica,
 "",Botafogo / RJ,,Cruzeiro / MG
 Tecnico:,Oswaldo De Oliveira Filho - 2751822 IFP,Tecnico:,Marcelo De Oliveira Santos - MG3481685SSP/MG
 Auxiliar Tecnico:,Luiz Alberto Da Silva - 2937926 IFP,Auxiliar Tecnico:,Benecy Queiroz - M220998SSP/MG
@@ -46,7 +31,7 @@ Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 06:00,1T,14,NR,Marcelo Nicolas Lodeiro Benitez,,Botafogo
 25:00,1T,99,NR,Anselmo Ramon Alves Herculano,,Cruzeiro
 11:00,2T,14,PN,Marcelo Nicolas Lodeiro Benitez,,Botafogo
-"",,,,SubstituiÁıes,
+"",,,,Substitui√ß√µes,
 Tempo,1T/2T,,Equipe,Entrou,Saiu
 +3:00,2T,Botafogo,,25 - Lucas Lacerda Lima Goncal ...,15 - Gabriel Girotto Franco
 45:00,INT,Cruzeiro,,16 - Lucas Silva Borges,55 - Leandro Luchese Guerreiro ...

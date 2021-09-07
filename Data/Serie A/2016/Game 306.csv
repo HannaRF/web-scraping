@@ -7,54 +7,34 @@ Inspetor:,Paulo Jorge Alves (ASS / BRA)
 Delegado Local:,Flaubert Dias Machado (000 / )
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,18:22Atraso:,,Não Houve Entrada do mandante: 19:28,Atraso:,,Não Houve
-Entrada do visitante:,18:22Atraso:,,Não Houve Entrada do visitante: 19:33,Atraso:,,3 min
-Início 1o Tempo:,18:30 Atraso:,,Não Houve Início do 2o Tempo: 19:33,Atraso:,,3 min
-Término do 1o Tempo:,19:15 Acréscimo:,,Não Houve Término do 2o Tempo: 20:20,Acréscimo:,,2 min
+Entrada do mandante:,18:22Atraso:,,NÃ£o Houve Entrada do mandante: 19:28,Atraso:,,NÃ£o Houve
+Entrada do visitante:,18:22Atraso:,,NÃ£o Houve Entrada do visitante: 19:33,Atraso:,,3 min
+InÃ­cio 1o Tempo:,18:30 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 19:33,Atraso:,,3 min
+TÃ©rmino do 1o Tempo:,19:15 AcrÃ©scimo:,,NÃ£o Houve TÃ©rmino do 2o Tempo: 20:20,AcrÃ©scimo:,,2 min
 Resultado do 1o Tempo: 2 X 0,,,Resultado Final: 2 X 0,,,
-"",,,,Relação de Jogadores,,,
-"",,Corinthians / SP,,,América / MG,,
-No,Apelido,Nome Completo,T/R P/A,CBF No Apelido,Nome Completo,T/R P/A,CBF
-27,Walter,Walter Leandro Capel ...,T(g) P,177853 1 Joao,Joao Ricardo Riedi,T(g) P,298660
-4,Balbuena,Fabian Cornelio Balb ...,T P,541574 2 Jonas,Jonas Jessue da Silv...,T P,160466
-5,Willians,Willians Domingos Fe ...,T P,182246 3 Eder,Eder Lima dos Santos,T P,184087
-6,Uendel,Uendel Pereira Goncalves,T P,175320 4 Messias,Messias Rodrigues da...,T P,381149
-8,Johnath,Johnath Marlone Azev ...,T P,307366 5 Adilson,Adilson dos Anjos Ol...,T P,337261
-10,Guilherme,Guilherme Milhomen G ...,T P,171975 7 Osman,Osman de Menezes Ven...,T P,335599
-11,Angel Rodr ...,Angel Rodrigo Romero ...,T P,507462 8 Leandro,Leandro Luchese Guer...,T P,137403
-17,Giovanii,Giovanni Augusto Oli ...,T P,292205 9 Nixon,Nixon Darlanio Reis ...,T P,330660
-23,Fagner,Fagner Conserva Lemos,T P,177050 11 Gilson,Gilson Gomes do Nasc...,T P,167201
-26,Rodriguinho,Rodrigo Eduardo Cost ...,T P,177885 19 Ernandes,Ernandes Dias Luz,T P,177802
-34,Pedro,Pedro Henrique Ribei ...,T P,352037 20 Tony,Antonio de Moura Car...,T P,176981
-12,Cassio,Cassio Ramos,R P,166276 10 Matheusinho,Matheus Leonardo Sal...,R P,398805
-13,Guilherme,Guilherme Antonio Ar ...,R P,339258 12 Fernando L ...,Fernando Leal Fonseca,R P,151033
-14,Leo,Leonardo Rodrigues d ...,R P,429853 13 Cardoso,Carlos Alexandre Cardoso,R P,166799
-15,Vilson,Vilson Xavier de Men ...,R P,179465 14 Danilo,Danilo Carvalho Barcelos,R P,313755
-16,Cristian,Cristian Mark Junio  ...,R P,154208 15 Christian,Christian Savio Machado,R P,329524
-19,Rildo,Rildo de Andrade Fel ...,R P,318254 16 Claudinei,Claudinei Junio de Souza,R P,306822
-22,Marciel,Marciel Silva da Silva,R P,347222 17 Maktom,Maktom Chaidey da Co...,R P,441011
-28,Isaac,Isaac Oliveira Prado,R P,352193 18 Bruno Savio,Bruno Savio da Silva,R P,363229
-30,Lucca,Lucca Borges de Brito,R P,292592 21 Danilo,Danilo Leandro Dias,R P,172918
-32,Leonardo,Leonardo Peixoto Pri ...,R P,319850,,,
-33,Warian,Warian dos Santos Souza,R P,443807,,,
-40,Caique,Caique Franca Godoy,R P,313131,,,
-"",,Comissão Técnica
-"",Corinthians / SP,América / MG
-Técnico:,Osvaldo Oliveira Filho - 2751822,Técnico: Ederson Alves Moreira - 4870873
-Auxiliar Técnico:,Fabio Luiz Carille De Araujo - 18755965,Auxiliar Técnico: Luis Fernando Rosa Flores - 13282344
-Médico:,Julio Stancati Filho - 50333,Médico: Celso Furtado De Azevedo Filho - 42273
-Preparador Físico:,Ricardo Henriques Pinto - 6772 g rj,Preparador Físico: Edy Carlos Toporowicz Soares - 07447 gpr
-Massagista:,Alexandro Gonçalves Dias - 257487268,Massagista: Silvio Junio Nunes Da Silva - 4761735
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,18:22,Atraso:,NÃ£o Houve Entrada do mandante:,19:28,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,18:30,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,19:33,Atraso:,3 min
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+27,Walter,Walter Leandro Capel ...,T(g) P,177853,1,Joao,Joao Ricardo Riedi,T(g) P,298660
+"",,ComissÃ£o TÃ©cnica
+"",Corinthians / SP,AmÃ©rica / MG
+TÃ©cnico:,Osvaldo Oliveira Filho - 2751822,TÃ©cnico: Ederson Alves Moreira - 4870873
+Auxiliar TÃ©cnico:,Fabio Luiz Carille De Araujo - 18755965,Auxiliar TÃ©cnico: Luis Fernando Rosa Flores - 13282344
+MÃ©dico:,Julio Stancati Filho - 50333,MÃ©dico: Celso Furtado De Azevedo Filho - 42273
+Preparador FÃ­sico:,Ricardo Henriques Pinto - 6772 g rj,Preparador FÃ­sico: Edy Carlos Toporowicz Soares - 07447 gpr
+Massagista:,Alexandro GonÃ§alves Dias - 257487268,Massagista: Silvio Junio Nunes Da Silva - 4761735
 Preparador De GoleiroM:a uri Costa Lima - 1479930,,Preparador De GoleiroS:i viosiqueira Jardim - 3153313
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 16:00,1T,11,NR,Angel Rodrigo Romero Villamayor,,Corinthians/SP
 39:00,1T,26,NR,Rodrigo Eduardo Costa Marinho,,Corinthians/SP
-"",,,Substituições,
+"",,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 18:00,2T,Corinthians/SP,19 - Rildo de Andrade Feliciss ...,8 - Johnath Marlone Azevedo d ...
 32:00,2T,Corinthians/SP,30 - Lucca Borges de Brito,10 - Guilherme Milhomen Gusmao ...
-33:00,2T,América/MG,15 - Christian Savio Machado,5 - Adilson dos Anjos Oliveir ...
+33:00,2T,AmÃ©rica/MG,15 - Christian Savio Machado,5 - Adilson dos Anjos Oliveir ...
 38:00,2T,Corinthians/SP,22 - Marciel Silva da Silva,17 - Giovanni Augusto Oliveira ...
-38:00,2T,América/MG,14 - Danilo Carvalho Barcelos,9 - Nixon Darlanio Reis Cardo ...
-42:00,2T,América/MG,18 - Bruno Savio da Silva,11 - Gilson Gomes do Nasciment ...
+38:00,2T,AmÃ©rica/MG,14 - Danilo Carvalho Barcelos,9 - Nixon Darlanio Reis Cardo ...
+42:00,2T,AmÃ©rica/MG,18 - Bruno Savio da Silva,11 - Gilson Gomes do Nasciment ...

@@ -7,73 +7,55 @@ Assessor:,Faustino Vicente Lopes (ASS / PR)
 Delegado Local:,Silvia de Lima Matioski (000 / )
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,19:05Atraso:,,Não Houve Entrada do mandante: 20:15,Atraso:,,Não Houve
-Entrada do visitante:,19:05Atraso:,,Não Houve Entrada do visitante: 20:15,Atraso:,,Não Houve
-Início 1o Tempo:,19:15 Atraso:,,Não Houve Início do 2o Tempo: 20:17,Atraso:,,Não Houve
-Término do 1o Tempo:,20:02 Acréscimo:,,2 min Término do 2o Tempo: 21:06,Acréscimo:,,4 min
+Entrada do mandante:,19:05Atraso:,,NÃ£o Houve Entrada do mandante: 20:15,Atraso:,,NÃ£o Houve
+Entrada do visitante:,19:05Atraso:,,NÃ£o Houve Entrada do visitante: 20:15,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,19:15 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 20:17,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,20:02 AcrÃ©scimo:,,2 min TÃ©rmino do 2o Tempo: 21:06,AcrÃ©scimo:,,4 min
 Resultado do 1o Tempo: 0 X 0,,,Resultado Final: 0 X 0,,,
-"",,,,Relação de Jogadores,,,
-"",,Paraná / PR,,,Atlético / GO,,
-No,Apelido,Nome Completo,T/R P/A,CBF No Apelido,Nome Completo,T/R P/A,CBF
-1,Marcao,Sebastiao Marcos Bar ...,T P,126468 1 Marcos,Marcos de Paula Dutra,T P,331869
-2,Leandro,Leandro Paulino da Silva,T P,175588 2 Matheus,Matheus Antunes Ribeiro,T P,324513
-3,Luiz Paulo,Luiz Paulo Daniel Ba ...,T P,293201 3 Marllon,Marllon Goncalves Je...,T P,299840
-4,Joao Paulo,Joao Paulo Goncalves ...,T P,161639 4 Lino,Leandro Lino de Freitas,T P,163660
-5,Lucas,Lucas Otavio Veiga Lopes,T P,316765 5 Pedrinho,Pedro Gonzaga,T P,298432
-6,Fernandes,Micerlanio Fernandes ...,T P,161974 6 Romario,Romario Guilherme do...,T P,305959
-7,Uchoa,Anderson Uchoa dos S ...,T P,183385 7 Magno,Magno Damasceno Sant...,T P,176899
-8,Marcelinho,Marcelo Gil Fernando,T P,181438 8 Willian Sc ...,Willian Schuster Dor...,T P,170488
-9,Lucio,Lucio Flavio da Silv ...,T P,166180 9 Vicosa,Luiz Severo Junior,T P,293172
-10,Valber,Valber Mendes Ferreira,T P,148584 10 Luiz Ferna ...,Luiz Fernando Moraes...,T P,451607
-11,Diego,Diego Barbosa Tavares,T P,331248 11 Gilson,Gilson do Amaral,T P,165040
-12,Wendel,Wendell Pericles Fer ...,R P,310072 12 Klever,Klever Rodrigo Gomes...,R P,178962
-13,Joao,Joao Othavio Basso,R P,294407 13 Ricardo,Ricardo Cesar Dantas...,R P,327667
-14,Ze Roberto,Jose Roberto Lucini,R P,136391 14 Thales,Thales Natanael Lira...,R P,341715
-15,Alisson,Alisson Christhian Brand,R P,303987 15 Bruno,Bruno Sergio Jaime,R P,184226
-16,Jose,Jose Victor Inacio Gomes,R P,355415 16 Eduardo,Eduardo Felipe Lacer...,R P,404648
-17,Junio,Claudevan Junio Mart ...,R P,408419 17 Caique,Caique Silva Rocha,R P,170547
-18,Murilo,Murilo Rangel Barbosa,R P,190032 18 Jorge,Jorge de Moura Xavier,R P,330015
-19,Yan,Yan Philippe Nunes N ...,R P,418820 19 Herlison,Herlison Caion de So...,R P,292500
-20,Robert,Robert de Pinho de Souza,R P,140778 20 Alison,Alison Henrique Mira,R P,375562
-25,Murilo,Murilo Amorim Prates,R P,352142,,,
-"",,Comissão Técnica
-"",Paraná / PR,Atlético / GO
-Técnico:,Claudinei Dos Santos Oliveira - CREF 29361 SP,Técnico: Marcelo Ribeiro Cabo - CREF 23847 RJ
-Auxiliar Técnico:,Fernando Miguel Pelissari  - 62642580,Auxiliar Técnico: Rodolfo Andrade De Oliveira - 084484922 RJ
-Médico:,Adriano Fritz - 30110 PR,Médico: Eduardo De Morais Duarte - 16327 GO
-Preparador Físico:,Marcos Eduardo Walczak - 7091 PR,Preparador Físico: João Paulo Imbernom Sanches - 9892 SP
-Massagista:,Oilson Leopoldino Sutil - COREN 522844,Massagista: João Rodrigues Dos Santos Neto - 44775072 GO
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,19:05,Atraso:,NÃ£o Houve Entrada do mandante:,20:15,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,19:15,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,20:17,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+1,Marcao,Sebastiao Marcos Bar ...,T P,126468,1,Marcos,Marcos de Paula Dutra,T P,331869
+"",,ComissÃ£o TÃ©cnica
+"",ParanÃ¡ / PR,AtlÃ©tico / GO
+TÃ©cnico:,Claudinei Dos Santos Oliveira - CREF 29361 SP,TÃ©cnico: Marcelo Ribeiro Cabo - CREF 23847 RJ
+Auxiliar TÃ©cnico:,Fernando Miguel Pelissari  - 62642580,Auxiliar TÃ©cnico: Rodolfo Andrade De Oliveira - 084484922 RJ
+MÃ©dico:,Adriano Fritz - 30110 PR,MÃ©dico: Eduardo De Morais Duarte - 16327 GO
+Preparador FÃ­sico:,Marcos Eduardo Walczak - 7091 PR,Preparador FÃ­sico: JoÃ£o Paulo Imbernom Sanches - 9892 SP
+Massagista:,Oilson Leopoldino Sutil - COREN 522844,Massagista: JoÃ£o Rodrigues Dos Santos Neto - 44775072 GO
 Preparador De GoleiroX:  - X,,Preparador De GoleiroM:a rcos Roberto Medeiros  - CREF 3351 GO
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:Acréscimos devido reposição de bola em jogo, entrada da maca para retirada de atletas e substituições.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTParaná/PR18 - Murilo Rangel Barbosa10 - Valber Mendes Ferreira45:00INTParaná/PR20 - Robert de Pinho de Souza7 - Anderson Uchoa dos Santos ...11:002TAtlético/GO15 - Bruno Sergio Jaime10 - Luiz Fernando Moraes dos  ...26:002TAtlético/GO18 - Jorge de Moura Xavier11 - Gilson do Amaral36:002TParaná/PR13 - Joao Othavio Basso5 - Lucas Otavio Veiga Lopes38:002TAtlético/GO19 - Herlison Caion de Sousa F ...7 - Magno Damasceno Santos da ..."
-"Motivo de atraso no início e/ou reinício, e de acréscimos:"
-"Acréscimos devido reposição de bola em jogo, entrada da maca para retirada de atletas e substituições."
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:Acréscimos devido reposição de bola em jogo, entrada da maca para retirada de atletas e substituições.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTParaná/PR18 - Murilo Rangel Barbosa10 - Valber Mendes Ferreira45:00INTParaná/PR20 - Robert de Pinho de Souza7 - Anderson Uchoa dos Santos ...11:002TAtlético/GO15 - Bruno Sergio Jaime10 - Luiz Fernando Moraes dos  ...26:002TAtlético/GO18 - Jorge de Moura Xavier11 - Gilson do Amaral36:002TParaná/PR13 - Joao Othavio Basso5 - Lucas Otavio Veiga Lopes38:002TAtlético/GO19 - Herlison Caion de Sousa F ...7 - Magno Damasceno Santos da ...",,,,
-Ocorrências / Observações,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:AcrÃ©scimos devido reposiÃ§Ã£o de bola em jogo, entrada da maca para retirada de atletas e substituiÃ§Ãµes.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTParanÃ¡/PR18 - Murilo Rangel Barbosa10 - Valber Mendes Ferreira45:00INTParanÃ¡/PR20 - Robert de Pinho de Souza7 - Anderson Uchoa dos Santos ...11:002TAtlÃ©tico/GO15 - Bruno Sergio Jaime10 - Luiz Fernando Moraes dos  ...26:002TAtlÃ©tico/GO18 - Jorge de Moura Xavier11 - Gilson do Amaral36:002TParanÃ¡/PR13 - Joao Othavio Basso5 - Lucas Otavio Veiga Lopes38:002TAtlÃ©tico/GO19 - Herlison Caion de Sousa F ...7 - Magno Damasceno Santos da ..."
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:"
+"AcrÃ©scimos devido reposiÃ§Ã£o de bola em jogo, entrada da maca para retirada de atletas e substituiÃ§Ãµes."
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:AcrÃ©scimos devido reposiÃ§Ã£o de bola em jogo, entrada da maca para retirada de atletas e substituiÃ§Ãµes.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTParanÃ¡/PR18 - Murilo Rangel Barbosa10 - Valber Mendes Ferreira45:00INTParanÃ¡/PR20 - Robert de Pinho de Souza7 - Anderson Uchoa dos Santos ...11:002TAtlÃ©tico/GO15 - Bruno Sergio Jaime10 - Luiz Fernando Moraes dos  ...26:002TAtlÃ©tico/GO18 - Jorge de Moura Xavier11 - Gilson do Amaral36:002TParanÃ¡/PR13 - Joao Othavio Basso5 - Lucas Otavio Veiga Lopes38:002TAtlÃ©tico/GO19 - Herlison Caion de Sousa F ...7 - Magno Damasceno Santos da ...",,,,
+OcorrÃªncias / ObservaÃ§Ãµes,,,,
 Nada houve de anormal,,,,
-"Motivo de atraso no início e/ou reinício, e de acréscimos:",,,,
-"Acréscimos devido reposição de bola em jogo, entrada da maca para retirada de atletas e substituições.",,,,
-Observações Eventuais,,,,
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:",,,,
+"AcrÃ©scimos devido reposiÃ§Ã£o de bola em jogo, entrada da maca para retirada de atletas e substituiÃ§Ãµes.",,,,
+ObservaÃ§Ãµes Eventuais,,,,
 NADA HOUVE DE ANORMAL,,,,
-Substituições,,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
-45:00,INT,Paraná/PR,18 - Murilo Rangel Barbosa,10 - Valber Mendes Ferreira
-45:00,INT,Paraná/PR,20 - Robert de Pinho de Souza,7 - Anderson Uchoa dos Santos ...
-11:00,2T,Atlético/GO,15 - Bruno Sergio Jaime,10 - Luiz Fernando Moraes dos  ...
-26:00,2T,Atlético/GO,18 - Jorge de Moura Xavier,11 - Gilson do Amaral
-36:00,2T,Paraná/PR,13 - Joao Othavio Basso,5 - Lucas Otavio Veiga Lopes
-38:00,2T,Atlético/GO,19 - Herlison Caion de Sousa F ...,7 - Magno Damasceno Santos da ...
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:Acréscimos devido reposição de bola em jogo, entrada da maca para retirada de atletas e substituições.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTParaná/PR18 - Murilo Rangel Barbosa10 - Valber Mendes Ferreira45:00INTParaná/PR20 - Robert de Pinho de Souza7 - Anderson Uchoa dos Santos ...11:002TAtlético/GO15 - Bruno Sergio Jaime10 - Luiz Fernando Moraes dos  ...26:002TAtlético/GO18 - Jorge de Moura Xavier11 - Gilson do Amaral36:002TParaná/PR13 - Joao Othavio Basso5 - Lucas Otavio Veiga Lopes38:002TAtlético/GO19 - Herlison Caion de Sousa F ...7 - Magno Damasceno Santos da ...",,,,
-Substituições,,,,
+45:00,INT,ParanÃ¡/PR,18 - Murilo Rangel Barbosa,10 - Valber Mendes Ferreira
+45:00,INT,ParanÃ¡/PR,20 - Robert de Pinho de Souza,7 - Anderson Uchoa dos Santos ...
+11:00,2T,AtlÃ©tico/GO,15 - Bruno Sergio Jaime,10 - Luiz Fernando Moraes dos  ...
+26:00,2T,AtlÃ©tico/GO,18 - Jorge de Moura Xavier,11 - Gilson do Amaral
+36:00,2T,ParanÃ¡/PR,13 - Joao Othavio Basso,5 - Lucas Otavio Veiga Lopes
+38:00,2T,AtlÃ©tico/GO,19 - Herlison Caion de Sousa F ...,7 - Magno Damasceno Santos da ...
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:AcrÃ©scimos devido reposiÃ§Ã£o de bola em jogo, entrada da maca para retirada de atletas e substituiÃ§Ãµes.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTParanÃ¡/PR18 - Murilo Rangel Barbosa10 - Valber Mendes Ferreira45:00INTParanÃ¡/PR20 - Robert de Pinho de Souza7 - Anderson Uchoa dos Santos ...11:002TAtlÃ©tico/GO15 - Bruno Sergio Jaime10 - Luiz Fernando Moraes dos  ...26:002TAtlÃ©tico/GO18 - Jorge de Moura Xavier11 - Gilson do Amaral36:002TParanÃ¡/PR13 - Joao Othavio Basso5 - Lucas Otavio Veiga Lopes38:002TAtlÃ©tico/GO19 - Herlison Caion de Sousa F ...7 - Magno Damasceno Santos da ...",,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
-45:00,INT,Paraná/PR,18 - Murilo Rangel Barbosa,10 - Valber Mendes Ferreira
-45:00,INT,Paraná/PR,20 - Robert de Pinho de Souza,7 - Anderson Uchoa dos Santos ...
-11:00,2T,Atlético/GO,15 - Bruno Sergio Jaime,10 - Luiz Fernando Moraes dos  ...
-26:00,2T,Atlético/GO,18 - Jorge de Moura Xavier,11 - Gilson do Amaral
-36:00,2T,Paraná/PR,13 - Joao Othavio Basso,5 - Lucas Otavio Veiga Lopes
-38:00,2T,Atlético/GO,19 - Herlison Caion de Sousa F ...,7 - Magno Damasceno Santos da ...
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:Acréscimos devido reposição de bola em jogo, entrada da maca para retirada de atletas e substituições.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTParaná/PR18 - Murilo Rangel Barbosa10 - Valber Mendes Ferreira45:00INTParaná/PR20 - Robert de Pinho de Souza7 - Anderson Uchoa dos Santos ...11:002TAtlético/GO15 - Bruno Sergio Jaime10 - Luiz Fernando Moraes dos  ...26:002TAtlético/GO18 - Jorge de Moura Xavier11 - Gilson do Amaral36:002TParaná/PR13 - Joao Othavio Basso5 - Lucas Otavio Veiga Lopes38:002TAtlético/GO19 - Herlison Caion de Sousa F ...7 - Magno Damasceno Santos da ..."
-Observações Eventuais
+45:00,INT,ParanÃ¡/PR,18 - Murilo Rangel Barbosa,10 - Valber Mendes Ferreira
+45:00,INT,ParanÃ¡/PR,20 - Robert de Pinho de Souza,7 - Anderson Uchoa dos Santos ...
+11:00,2T,AtlÃ©tico/GO,15 - Bruno Sergio Jaime,10 - Luiz Fernando Moraes dos  ...
+26:00,2T,AtlÃ©tico/GO,18 - Jorge de Moura Xavier,11 - Gilson do Amaral
+36:00,2T,ParanÃ¡/PR,13 - Joao Othavio Basso,5 - Lucas Otavio Veiga Lopes
+38:00,2T,AtlÃ©tico/GO,19 - Herlison Caion de Sousa F ...,7 - Magno Damasceno Santos da ...
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:AcrÃ©scimos devido reposiÃ§Ã£o de bola em jogo, entrada da maca para retirada de atletas e substituiÃ§Ãµes.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTParanÃ¡/PR18 - Murilo Rangel Barbosa10 - Valber Mendes Ferreira45:00INTParanÃ¡/PR20 - Robert de Pinho de Souza7 - Anderson Uchoa dos Santos ...11:002TAtlÃ©tico/GO15 - Bruno Sergio Jaime10 - Luiz Fernando Moraes dos  ...26:002TAtlÃ©tico/GO18 - Jorge de Moura Xavier11 - Gilson do Amaral36:002TParanÃ¡/PR13 - Joao Othavio Basso5 - Lucas Otavio Veiga Lopes38:002TAtlÃ©tico/GO19 - Herlison Caion de Sousa F ...7 - Magno Damasceno Santos da ..."
+ObservaÃ§Ãµes Eventuais
 NADA HOUVE DE ANORMAL
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:Acréscimos devido reposição de bola em jogo, entrada da maca para retirada de atletas e substituições.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTParaná/PR18 - Murilo Rangel Barbosa10 - Valber Mendes Ferreira45:00INTParaná/PR20 - Robert de Pinho de Souza7 - Anderson Uchoa dos Santos ...11:002TAtlético/GO15 - Bruno Sergio Jaime10 - Luiz Fernando Moraes dos  ...26:002TAtlético/GO18 - Jorge de Moura Xavier11 - Gilson do Amaral36:002TParaná/PR13 - Joao Othavio Basso5 - Lucas Otavio Veiga Lopes38:002TAtlético/GO19 - Herlison Caion de Sousa F ...7 - Magno Damasceno Santos da ..."
-Ocorrências / Observações
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:AcrÃ©scimos devido reposiÃ§Ã£o de bola em jogo, entrada da maca para retirada de atletas e substituiÃ§Ãµes.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTParanÃ¡/PR18 - Murilo Rangel Barbosa10 - Valber Mendes Ferreira45:00INTParanÃ¡/PR20 - Robert de Pinho de Souza7 - Anderson Uchoa dos Santos ...11:002TAtlÃ©tico/GO15 - Bruno Sergio Jaime10 - Luiz Fernando Moraes dos  ...26:002TAtlÃ©tico/GO18 - Jorge de Moura Xavier11 - Gilson do Amaral36:002TParanÃ¡/PR13 - Joao Othavio Basso5 - Lucas Otavio Veiga Lopes38:002TAtlÃ©tico/GO19 - Herlison Caion de Sousa F ...7 - Magno Damasceno Santos da ..."
+OcorrÃªncias / ObservaÃ§Ãµes
 Nada houve de anormal

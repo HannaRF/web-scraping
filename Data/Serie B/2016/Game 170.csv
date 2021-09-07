@@ -7,56 +7,37 @@ Assessor:,Eberval Lodetti (ASS / SC)
 Delegado Local:,Junior Moresco (000 / )
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,19:05Atraso:,,Não Houve Entrada do mandante: 20:15,Atraso:,,Não Houve
-Entrada do visitante:,19:05Atraso:,,Não Houve Entrada do visitante: 20:15,Atraso:,,Não Houve
-Início 1o Tempo:,19:15 Atraso:,,Não Houve Início do 2o Tempo: 20:17,Atraso:,,Não Houve
-Término do 1o Tempo:,20:02 Acréscimo:,,2 min Término do 2o Tempo: 21:06,Acréscimo:,,4 min
+Entrada do mandante:,19:05Atraso:,,NÃ£o Houve Entrada do mandante: 20:15,Atraso:,,NÃ£o Houve
+Entrada do visitante:,19:05Atraso:,,NÃ£o Houve Entrada do visitante: 20:15,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,19:15 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 20:17,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,20:02 AcrÃ©scimo:,,2 min TÃ©rmino do 2o Tempo: 21:06,AcrÃ©scimo:,,4 min
 Resultado do 1o Tempo: 0 X 1,,,Resultado Final: 3 X 2,,,
-"",,,,Relação de Jogadores,,,
-"",,Criciúma / SC,,,Paraná / PR,,
-No,Apelido,Nome Completo T/R P/A,,CBF No Apelido,Nome Completo,T/R P/A,CBF
-101,Luiz Silva ...,Luiz Silva Filho T,P,155426 1 Wendel,Wendell Pericles Fer...,T P,310072
-2,Lucas,Lucas Taylor Maia Reis T,P,351207 2 Diego,Diego Barbosa Tavares,T P,331248
-3,Raphael,Raphael da Silva Arruda T,P,308305 3 Leandro,Leandro Paulino da Silva,T P,175588
-4,Nathan,Nathan Raphael Pelae ... T,P,317706 4 Alisson,Alisson Christhian Brand,T P,303987
-5,Barreto,Gustavo Bonatto Barreto T,P,360443 5 Jean,Jean Carlos de Souza...,T P,378268
-6,Diego,Diego da Silva Giaretta T,P,158675 6 Henrique,Henrique Gelain Custodio,T P,343787
-7,Ricardo,Ricardo Ribeiro de Lima T,P,179100 7 Murilo,Murilo Rangel Barbosa,T P,190032
-8,Douglas,Douglas Moreira Fagundes T,P,354201 8 Nadson,Nadson da Silva Almeida,T P,293188
-9,Gustavo,Gustavo Henrique da  ... T,P,453172 9 Robson,Robson dos Santos Fe...,T P,302768
-10,Eduardo,Eduardo Jose Barbosa ... T,P,321012 10 Valber,Valber Mendes Ferreira,T P,148584
-11,Niltinho,Nilton Soares Rodrigues T,P,329055 11 Joao,Joao Othavio Basso,T P,294407
-12,Edson,Edson Mardden Alves  ... R,P,296573 12 Murilo,Murilo Amorim Prates,R P,352142
-13,Marcilio,Marcilio Florencio M ... R,P,379386 13 Leonardo M ...,Leonardo Jose Aparec...,R P,165264
-14,Carlos,Carlos Eduardo da Si ... R,P,340073 14 Pitty,Luiz Paulo Daniel Ba...,R P,293201
-15,Joao Afonso,Joao Afonso Crispim R,P,374486 15 Lucas,Lucas Otavio Veiga Lopes,R P,316765
-16,Adalgisio,Adalgisio Miranda da ... R,P,306260 16 Claudevan,Claudevan Junio Mart...,R P,408419
-17,Roberto,Roberto Cesar Zardin ... R,P,159419 17 Gustavo Je ...,Gustavo Jean Kamienski,R P,301871
-18,Helinho,Helio Alves da Slva  ... R,P,305776 18 Marcelinho,Marcelo Gil Fernando,R P,181438
-19,Jheimy,Jheimy da Silva Carvalho R,P,187746 19 Henrique,Henrique Roberto Rafael,R P,331360
-20,Gabriel Bo ...,Gabriel Leite Borges R,P,346410 21 Yan,Yan Philippe Nunes N...,R P,418820
-21,Henrique,Joao Henrique Lago Souza R,P,349752,,,
-23,Andrew,Andrew Lucas Balbino ... R,P,310804,,,
-"",,Comissão Técnica,
-"",Criciúma / SC,,Paraná / PR
-Técnico:,Roberto Fernando Schneiger - 3324441 SC,Técnico: Marcelo Martelotte - 027068-P-SP,
-Auxiliar Técnico:,Vitalino Adolfo Barzotto - 1090212075 RS,Auxiliar Técnico: Antonio Carlos Ribeiro Junior - 037147-P-SP,
-Médico:,Raphael Villattore Dias - 19616 SC,Médico: Lucinio Leonidas Grebos - 9866-PR,
-Preparador Físico:,Willian Cesar Hauptmam - 004244-G/SP,Preparador Físico: Marcos Eduardo Walczak - 007091-G/PR,
-Massagista:,Marcelo José Da Silva - 26713464-2,Massagista: Oilson Leopoldino Sutil - 522.844,
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,19:05,Atraso:,NÃ£o Houve Entrada do mandante:,20:15,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,19:15,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,20:17,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+101,Luiz Silva ...,Luiz Silva Filho,T P,155426,1,Wendel,Wendell Pericles Fer...,T P,310072
+"",,ComissÃ£o TÃ©cnica,
+"",CriciÃºma / SC,,ParanÃ¡ / PR
+TÃ©cnico:,Roberto Fernando Schneiger - 3324441 SC,TÃ©cnico: Marcelo Martelotte - 027068-P-SP,
+Auxiliar TÃ©cnico:,Vitalino Adolfo Barzotto - 1090212075 RS,Auxiliar TÃ©cnico: Antonio Carlos Ribeiro Junior - 037147-P-SP,
+MÃ©dico:,Raphael Villattore Dias - 19616 SC,MÃ©dico: Lucinio Leonidas Grebos - 9866-PR,
+Preparador FÃ­sico:,Willian Cesar Hauptmam - 004244-G/SP,Preparador FÃ­sico: Marcos Eduardo Walczak - 007091-G/PR,
+Massagista:,Marcelo JosÃ© Da Silva - 26713464-2,Massagista: Oilson Leopoldino Sutil - 522.844,
 Preparador De GoleiroM:a uricio Gustavo Tho Dacoregio - 2744746-0,,Preparador De GoleiroX:x xx - xx,
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
-06:00,1T,9,NR,Robson dos Santos Fernandes,,Paraná/PR
-10:00,2T,9,NR,Robson dos Santos Fernandes,,Paraná/PR
-32:00,2T,9,NR,Gustavo Henrique da Silva Sousa,,Criciúma/SC
-45:00,2T,9,NR,Gustavo Henrique da Silva Sousa,,Criciúma/SC
-+2,2T,7,NR,Ricardo Ribeiro de Lima,,Criciúma/SC
-"",,,,Substituições,
+06:00,1T,9,NR,Robson dos Santos Fernandes,,ParanÃ¡/PR
+10:00,2T,9,NR,Robson dos Santos Fernandes,,ParanÃ¡/PR
+32:00,2T,9,NR,Gustavo Henrique da Silva Sousa,,CriciÃºma/SC
+45:00,2T,9,NR,Gustavo Henrique da Silva Sousa,,CriciÃºma/SC
++2,2T,7,NR,Ricardo Ribeiro de Lima,,CriciÃºma/SC
+"",,,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,,Equipe,Entrou,Saiu
-45:00,INT,Criciúma/SC,,23 - Andrew Lucas Balbino Drum ...,2 - Lucas Taylor Maia Reis
-33:00,1T,Criciúma/SC,,17 - Roberto Cesar Zardin Rodr ...,4 - Nathan Raphael Pelae Card ...
-15:00,2T,Criciúma/SC,,20 - Gabriel Leite Borges,5 - Gustavo Bonatto Barreto
-20:00,2T,Paraná/PR,,16 - Claudevan Junio Martins M ...,5 - Jean Carlos de Souza Irme ...
-33:00,2T,Paraná/PR,,19 - Henrique Roberto Rafael,8 - Nadson da Silva Almeida
-40:00,2T,Paraná/PR,,15 - Lucas Otavio Veiga Lopes,7 - Murilo Rangel Barbosa
+45:00,INT,CriciÃºma/SC,,23 - Andrew Lucas Balbino Drum ...,2 - Lucas Taylor Maia Reis
+33:00,1T,CriciÃºma/SC,,17 - Roberto Cesar Zardin Rodr ...,4 - Nathan Raphael Pelae Card ...
+15:00,2T,CriciÃºma/SC,,20 - Gabriel Leite Borges,5 - Gustavo Bonatto Barreto
+20:00,2T,ParanÃ¡/PR,,16 - Claudevan Junio Martins M ...,5 - Jean Carlos de Souza Irme ...
+33:00,2T,ParanÃ¡/PR,,19 - Henrique Roberto Rafael,8 - Nadson da Silva Almeida
+40:00,2T,ParanÃ¡/PR,,15 - Lucas Otavio Veiga Lopes,7 - Murilo Rangel Barbosa

@@ -1,6 +1,6 @@
-Campeonato:,Campeonato Brasileiro - Série B/2018,,Rodada:,2
-Jogo:,Criciúma / SC X Ponte Preta / SP,,,
-Data:,21/04/2018 Horário: 19:00 Estádio:,Heriberto Hulse / Criciuma,,
+Campeonato:,Campeonato Brasileiro - SÃ©rie B/2018,,Rodada:,2
+Jogo:,CriciÃºma / SC X Ponte Preta / SP,,,
+Data:,21/04/2018 HorÃ¡rio: 19:00 EstÃ¡dio:,Heriberto Hulse / Criciuma,,
 "",,Arbitragem
 Arbitro:,Joao Batista de Arruda (AB / RJ),
 Arbitro Assistente 1:,Thiago Henrique Neto Correa Farinha (AB / RJ),
@@ -10,13 +10,13 @@ Delegado Local:,Weliton Brasil Ribeiro ( / ),
 Analista de Campo:,Vayran da Silva Rosa (CBF / SC),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,18:50Atraso:,,Não Houve Entrada do mandante: 20:01,,Atraso:,Não Houve
-Entrada do visitante:,18:50Atraso:,,Não Houve Entrada do visitante: 20:01,,Atraso:,Não Houve
-Início 1o Tempo:,19:00Atraso:,,Não Houve Início do 2o Tempo: 20:03,,Atraso:,Não Houve
-Término do 1o Tempo:,19:48Acréscimo:,,3 min Término do 2o Tempo: 20:54,Acréscimo:,,6 min
+Entrada do mandante:,18:50Atraso:,,NÃ£o Houve Entrada do mandante: 20:01,,Atraso:,NÃ£o Houve
+Entrada do visitante:,18:50Atraso:,,NÃ£o Houve Entrada do visitante: 20:01,,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,19:00Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 20:03,,Atraso:,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,19:48AcrÃ©scimo:,,3 min TÃ©rmino do 2o Tempo: 20:54,AcrÃ©scimo:,,6 min
 Resultado do 1o Tempo: 0 X 1,,,Resultado Final: 0 X 1,,,
-"",,,,,Relação de Jogadores,,,,
-"",,Criciúma / SC,,,,Ponte Preta / SP,,,
+"",,,,,RelaÃ§Ã£o de Jogadores,,,,
+"",,CriciÃºma / SC,,,,Ponte Preta / SP,,,
 No,Apelido,Nome Completo T/R,,P/A,CBF No Apelido,Nome Completo T/R,,P/A,CBF
 1,Luiz Silva ...,Luiz Silva Filho T(g),,P,155426 1 Ivan,Ivan Quaresma da Silva T(g),,P,405009
 2,Sueliton,Sueliton Pereira de  ...,T,P,171745 2 Igor,Igor Vinicius de Souza T,,P,355675
@@ -32,42 +32,34 @@ No,Apelido,Nome Completo T/R,,P/A,CBF No Apelido,Nome Completo T/R,,P/A,CBF
 16,Vinicius,Vinicius Teodoro Bar ... R(g),,P,508152 12 Vinicius,Vinicius Silvestre d... R(g),,P,308661
 15,Jean,Jean Mangabeira da Silva,R,P,434031 13 Tony,Tony Ewerton Ramos d... R,,P,295880
 17,Andrew,Andrew Lucas Balbino ...,R,P,310804 14 Reynaldo,Reynaldo Cesar Moraes R,,P,352000
-18,Wallacer,Wallacer de Andrade  ...,R,P,160596 15 Xavier,João Vitor Xavier d... R,,P,523897
+18,Wallacer,Wallacer de Andrade  ...,R,P,160596 15 Xavier,JoÃ£o Vitor Xavier d... R,,P,523897
 20,Alexsandro,Alexsandro Carvalho Lopes,R,P,160326 16 Lucas,Lucas da Silva Izidoro R,,P,389361
 21,Natanael,Jose Natanael da Cru ...,R,P,404192 17 Saraiva,Felipe Saraiva de So... R,,P,502791
 25,Leandro,Leandro Domingos de Melo,R,P,163929 18 Aaron,Aaron Ibilola R,,P,558658
 32,Leonardo,Leonardo Kalil Abdala,R,P,344838 19 Junior,Jose Antonio dos San... R,,P,540268
 35,Enzo,Enzo Rafael Conti de ...,R,P,418828,,,,
 37,Christian,Christian da Silva B ...,R,P,434876,,,,
-"",,Comissão Técnica,
-"",Criciúma / SC,,Ponte Preta / SP
-Técnico:,Argelico Fucks,Técnico:,Dorival Guidoni Junior
-Auxiliar Técnico:,GLEBSON ROBSON BARROSO DE LIRA,Auxiliar Técnico:,EDUARDO DO NASCIMENTO SOUZA
-Médico:,RICARDO KOERICH FURTADO,Médico:,SERGIO MARCOLINO ROSA
+"",,ComissÃ£o TÃ©cnica,
+"",CriciÃºma / SC,,Ponte Preta / SP
+TÃ©cnico:,Argelico Fucks,TÃ©cnico:,Dorival Guidoni Junior
+Auxiliar TÃ©cnico:,GLEBSON ROBSON BARROSO DE LIRA,Auxiliar TÃ©cnico:,EDUARDO DO NASCIMENTO SOUZA
+MÃ©dico:,RICARDO KOERICH FURTADO,MÃ©dico:,SERGIO MARCOLINO ROSA
 Treinador De Goleiros:,MAURICIO GUSTAVO THO DACOREGIO,Treinador De Goleiros:,ROBERTO VLADEMIR GUASTALI
-Preparador Físico:,ROGERIO JUIDECCE DE SOUZA,Preparador Físico:,CAIO GASPARI GILLI DE SOUZA
+Preparador FÃ­sico:,ROGERIO JUIDECCE DE SOUZA,Preparador FÃ­sico:,CAIO GASPARI GILLI DE SOUZA
 Massagista:,WELLITON MARCILIO MARTINS,Massagista:,THIAGO HENRIQUE JULIETTI SILVA
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 14:00,1T,9,NR,Wanderson Felipe Cardoso dos Santos,,Ponte Preta/SP
-"",,,,Cartões Amarelos
+"",,,,CartÃµes Amarelos
 Tempo,1T/2T,No,Nome do Jogador,Equipe
-20:00,1T,15,Jean Mangabeira da Silva,Criciúma/SC
-"",,,Motivo: A1.2.  Dar ou tentar dar uma rasteira ou um calço em um adversário de maneira temerária na disputa da bola  - Por calçar o,
-"",,,seu adversário de forma temerária na disputa de bola.,
-"",,,,Cartões Vermelhos
-Tempo 1T/2T,No,,Nome do Jogador,
-31:00 2T,11,,Edilsom Borba de Aquino - Ponte Preta/SP,
-Cartão Vermelho Direto,,,"Motivo: V2.  For culpado de conduta violenta - Aos 31 minutos do segundo tempo, expulsei do campo de jogo com cartão vermelho",
-"",,,"direto o sr. edilson borba de aquino, número 11 da equipe a.a. ponte preta, por dar uma cotovelada no rosto do seu adversário, sr.",
-"",,,"sueliton pereira de aguiar, número 02 da equipe do criciúma e.c, com o uso de força excessiva fora da disputa de bola, próximo da",
-"",,,"área penal de ataque da equipe do criciúma. o atleta atingido foi atendido no campo de jogo e continuou na partida normalmente, o",
-"",,,atleta expulso saiu de campo em direção ao seu vestiário.,
-"",,,,Substituições,
+20:00,1T,15,Jean Mangabeira da Silva,CriciÃºma/SC
+"",,,Motivo: A1.2.  Dar ou tentar dar uma rasteira ou um calÃ§o em um adversÃ¡rio de maneira temerÃ¡ria na disputa da bola  - Por calÃ§ar o,
+"",,,seu adversÃ¡rio de forma temerÃ¡ria na disputa de bola.,
+"",,,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,,Equipe,Entrou,Saiu
-19:00,1T,Criciúma/SC,,15 - Jean Mangabeira da Silva,5 - Gustavo Bonatto Barreto
+19:00,1T,CriciÃºma/SC,,15 - Jean Mangabeira da Silva,5 - Gustavo Bonatto Barreto
 11:00,2T,Ponte Preta/SP,,16 - Lucas da Silva Izidoro,10 - Tiago Real do Prado
-16:00,2T,Criciúma/SC,,20 - Alexsandro Carvalho Lopes,27 - Nicolas Godinho Johann
+16:00,2T,CriciÃºma/SC,,20 - Alexsandro Carvalho Lopes,27 - Nicolas Godinho Johann
 24:00,2T,Ponte Preta/SP,,14 - Reynaldo Cesar Moraes,8 - Paulo Sergio de Oliveira
 26:00,2T,Ponte Preta/SP,,17 - Felipe Saraiva de Souza Silva,7 - Andre Luis da Costa Alfredo
-32:00,2T,Criciúma/SC,,17 - Andrew Lucas Balbino Drummond,15 - Jean Mangabeira da Silva
+32:00,2T,CriciÃºma/SC,,17 - Andrew Lucas Balbino Drummond,15 - Jean Mangabeira da Silva

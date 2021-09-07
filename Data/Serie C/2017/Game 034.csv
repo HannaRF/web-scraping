@@ -6,77 +6,58 @@ Quarto Arbitro:,Diego da Silva (CD / SE)
 Analista de Campo:,Edmo Oliveira Santos (CBF / SE)
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,20:50Atraso:,,Não Houve Entrada do mandante: 21:57,Atraso:,,Não Houve
-Entrada do visitante:,20:50Atraso:,,Não Houve Entrada do visitante: 21:57,Atraso:,,Não Houve
-Início 1o Tempo:,21:00 Atraso:,,Não Houve Início do 2o Tempo: 22:02,Atraso:,,Não Houve
-Término do 1o Tempo:,21:47 Acréscimo:,,2 min Término do 2o Tempo: 22:51,Acréscimo:,,4 min
+Entrada do mandante:,20:50Atraso:,,NÃ£o Houve Entrada do mandante: 21:57,Atraso:,,NÃ£o Houve
+Entrada do visitante:,20:50Atraso:,,NÃ£o Houve Entrada do visitante: 21:57,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,21:00 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 22:02,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,21:47 AcrÃ©scimo:,,2 min TÃ©rmino do 2o Tempo: 22:51,AcrÃ©scimo:,,4 min
 Resultado do 1o Tempo: 0 X 00,,,Resultado Final: 0 X 1,,,
-"",,,,Relação de Jogadores,,,
-"",,Confiança / SE,,,Remo / PA,,
-No,Apelido,Nome Completo T/R P/A,,CBF No Apelido,Nome Completo,T/R P/A,CBF
-1,Henrique,Henrique Teixeira Ma ... T(g),P,313174 1 Vinicius,Damiao Vinicius Silv...,T(g) P,165699
-2,Felipe,Felipe Cordeiro de A ... T,P,299823 2 Leonardo,Leonardo Sousa Porte...,T P,171712
-3,Gabriel,Gabriel Francisco Ma ... T,P,190331 3 Henrique,Henrique Moura Perillo,T P,302195
-4,Anderson,Anderson de Jesus Santos T,P,366405 4 Joãozinho,Igor João Alves,T P,321457
-5,Flavio,Flavio Jose de Olive ... T,P,341683 5 Joao Paulo,Joao Paulo Dias Silva,T P,182890
-6,Radar,Radamezio Goncalves Lima T,P,178985 6 Gerson,Wagerson Ramos dos S...,T P,157281
-7,Everton,Everton Amador dos S ... T,P,174930 7 Mikael,Mikael Severo Burkatt,T P,348458
-8,Rafael,Rafael Oliveira Silva T,P,368089 8 Wenderson,Wenderson de Freitas...,T P,447683
-9,Tito,Tito Fernando da Sil ... T,P,293685 9 Nino Guerr ...,Ederson da Silva Lima,T P,161233
-10,Alvaro,Alvaro Rodrigues Vie ... T,P,315074 10 Eduardo Ra ...,Eduardo Ramos Martins,T P,173504
-11,Thiago,Thiago Silvy Coelho T,P,160336 11 Edgar,Gladson do Nascimento,T P,178848
-12,Silvio,Silvio Silas da Silv ... R(g),P,172168 12 Andre,Andre Luiz Gomes da ...,R(g) P,191478
-13,Mimica,Ademilson Silva Marques R,P,172741 13 Marcelo,Marcelo Martini Labarthe,R P,154968
-14,Matheus,Matheus Salustiano Pires R,P,316480 14 Jeferson C ...,Jeferson Carlos Silv...,R P,516944
-15,Arlan,Arlan Monteiro Leocadio R,P,175231 16 Flamel,Arlisson Sousa Cardoso,R P,164677
-16,Jardel,Jardel Pereira de Souza R,P,144430 17 Gabriel,Gabriel Farias de Lima,R P,539022
-17,Andre,Andre Oliveira de Li ... R,P,162610 18 Jayme,Jayme Juan Alves da ...,R P,369409
-18,Jailton,Jailton Barros Capela R,P,292382 20 Fininho,Joelson Amorim Guedes,R P,156761
-19,Almir,Almir Rogerio da Silva R,P,162753,,,
-20,Jussimar,Jussimar Lima R,P,343575,,,
-21,Rômulo,Romulo Oliveira Amorim R,P,341465,,,
-22,Leonardo,Leonardo de Sousa Pe ... R,P,367343,,,
-"",,Comissão Técnica
-"",Confiança / SE,Remo / PA
-Técnico:,Leandro Ribeiro Sena - 002922G-RN,Técnico: Josue Amaral Teixeira - RG 340406-M DF
-Auxiliar Técnico:,Audemir Sebastião Da Silva - 6150841 PE,Auxiliar Técnico: Marcio Roberto Damasceno - 08292055-4 RJ
-Médico:,Jose Ardeval Aragao  - 1320 SE,Médico: Jorge Roberto Costa Da Silva - 0914
-Preparador Físico:,Rodolfo Jusus De Oliveira - 125943-GSP,Preparador Físico: Walter Antonio Justos Grassmann Bobbo - 025111 GPR
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,20:50,Atraso:,NÃ£o Houve Entrada do mandante:,21:57,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,21:00,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,22:02,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+1,Henrique,Henrique Teixeira Ma ...,T(g) P,313174,1,Vinicius,Damiao Vinicius Silv...,T(g) P,165699
+"",,ComissÃ£o TÃ©cnica
+"",ConfianÃ§a / SE,Remo / PA
+TÃ©cnico:,Leandro Ribeiro Sena - 002922G-RN,TÃ©cnico: Josue Amaral Teixeira - RG 340406-M DF
+Auxiliar TÃ©cnico:,Audemir SebastiÃ£o Da Silva - 6150841 PE,Auxiliar TÃ©cnico: Marcio Roberto Damasceno - 08292055-4 RJ
+MÃ©dico:,Jose Ardeval Aragao  - 1320 SE,MÃ©dico: Jorge Roberto Costa Da Silva - 0914
+Preparador FÃ­sico:,Rodolfo Jusus De Oliveira - 125943-GSP,Preparador FÃ­sico: Walter Antonio Justos Grassmann Bobbo - 025111 GPR
 Massagista:,Eraldo Feitosa Filho - 1553246 SE,Massagista: Amarildo Santos Ferreira  - 028567482004-6
-Preparador De GoleiroS:e rgio Alves Bertolagi - 6138364 MG,,Preparador De GoleiroJo: se Carlos Gonçalves Junior - 118309327 RJ
+Preparador De GoleiroS:e rgio Alves Bertolagi - 6138364 MG,,Preparador De GoleiroJo: se Carlos GonÃ§alves Junior - 118309327 RJ
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 06:00,2T,11,NR,Gladson do Nascimento,,Remo/PA
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:ACRÉSCIMOS DEVIDO RETIRADA DE JOGADORES LESIONADOS E SUBSTITUIÇÕES.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTRemo/PA13 - Marcelo Martini Labarthe5 - Joao Paulo Dias Silva12:002TConfiança/SE17 - Andre Oliveira de Lima Co ...6 - Radamezio Goncalves Lima14:002TRemo/PA14 - Jeferson Carlos Silva dos ...3 - Henrique Moura Perillo19:002TConfiança/SE20 - Jussimar Lima8 - Rafael Oliveira Silva26:002TRemo/PA18 - Jayme Juan Alves da Silva ...11 - Gladson do Nascimento28:002TConfiança/SE22 - Leonardo de Sousa Pereira ...10 - Alvaro Rodrigues Vieira J ..."
-"Motivo de atraso no início e/ou reinício, e de acréscimos:"
-ACRÉSCIMOS DEVIDO RETIRADA DE JOGADORES LESIONADOS E SUBSTITUIÇÕES.
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:ACRÉSCIMOS DEVIDO RETIRADA DE JOGADORES LESIONADOS E SUBSTITUIÇÕES.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTRemo/PA13 - Marcelo Martini Labarthe5 - Joao Paulo Dias Silva12:002TConfiança/SE17 - Andre Oliveira de Lima Co ...6 - Radamezio Goncalves Lima14:002TRemo/PA14 - Jeferson Carlos Silva dos ...3 - Henrique Moura Perillo19:002TConfiança/SE20 - Jussimar Lima8 - Rafael Oliveira Silva26:002TRemo/PA18 - Jayme Juan Alves da Silva ...11 - Gladson do Nascimento28:002TConfiança/SE22 - Leonardo de Sousa Pereira ...10 - Alvaro Rodrigues Vieira J ...",,,,
-Ocorrências / Observações,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:ACRÃ‰SCIMOS DEVIDO RETIRADA DE JOGADORES LESIONADOS E SUBSTITUIÃ‡Ã•ES.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTRemo/PA13 - Marcelo Martini Labarthe5 - Joao Paulo Dias Silva12:002TConfianÃ§a/SE17 - Andre Oliveira de Lima Co ...6 - Radamezio Goncalves Lima14:002TRemo/PA14 - Jeferson Carlos Silva dos ...3 - Henrique Moura Perillo19:002TConfianÃ§a/SE20 - Jussimar Lima8 - Rafael Oliveira Silva26:002TRemo/PA18 - Jayme Juan Alves da Silva ...11 - Gladson do Nascimento28:002TConfianÃ§a/SE22 - Leonardo de Sousa Pereira ...10 - Alvaro Rodrigues Vieira J ..."
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:"
+ACRÃ‰SCIMOS DEVIDO RETIRADA DE JOGADORES LESIONADOS E SUBSTITUIÃ‡Ã•ES.
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:ACRÃ‰SCIMOS DEVIDO RETIRADA DE JOGADORES LESIONADOS E SUBSTITUIÃ‡Ã•ES.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTRemo/PA13 - Marcelo Martini Labarthe5 - Joao Paulo Dias Silva12:002TConfianÃ§a/SE17 - Andre Oliveira de Lima Co ...6 - Radamezio Goncalves Lima14:002TRemo/PA14 - Jeferson Carlos Silva dos ...3 - Henrique Moura Perillo19:002TConfianÃ§a/SE20 - Jussimar Lima8 - Rafael Oliveira Silva26:002TRemo/PA18 - Jayme Juan Alves da Silva ...11 - Gladson do Nascimento28:002TConfianÃ§a/SE22 - Leonardo de Sousa Pereira ...10 - Alvaro Rodrigues Vieira J ...",,,,
+OcorrÃªncias / ObservaÃ§Ãµes,,,,
 Nada houve de anormal,,,,
-"Motivo de atraso no início e/ou reinício, e de acréscimos:",,,,
-ACRÉSCIMOS DEVIDO RETIRADA DE JOGADORES LESIONADOS E SUBSTITUIÇÕES.,,,,
-Observações Eventuais,,,,
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:",,,,
+ACRÃ‰SCIMOS DEVIDO RETIRADA DE JOGADORES LESIONADOS E SUBSTITUIÃ‡Ã•ES.,,,,
+ObservaÃ§Ãµes Eventuais,,,,
 NADA HOUVE DE ANORMAL,,,,
-Substituições,,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 45:00,INT,Remo/PA,13 - Marcelo Martini Labarthe,5 - Joao Paulo Dias Silva
-12:00,2T,Confiança/SE,17 - Andre Oliveira de Lima Co ...,6 - Radamezio Goncalves Lima
+12:00,2T,ConfianÃ§a/SE,17 - Andre Oliveira de Lima Co ...,6 - Radamezio Goncalves Lima
 14:00,2T,Remo/PA,14 - Jeferson Carlos Silva dos ...,3 - Henrique Moura Perillo
-19:00,2T,Confiança/SE,20 - Jussimar Lima,8 - Rafael Oliveira Silva
+19:00,2T,ConfianÃ§a/SE,20 - Jussimar Lima,8 - Rafael Oliveira Silva
 26:00,2T,Remo/PA,18 - Jayme Juan Alves da Silva ...,11 - Gladson do Nascimento
-28:00,2T,Confiança/SE,22 - Leonardo de Sousa Pereira ...,10 - Alvaro Rodrigues Vieira J ...
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:ACRÉSCIMOS DEVIDO RETIRADA DE JOGADORES LESIONADOS E SUBSTITUIÇÕES.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTRemo/PA13 - Marcelo Martini Labarthe5 - Joao Paulo Dias Silva12:002TConfiança/SE17 - Andre Oliveira de Lima Co ...6 - Radamezio Goncalves Lima14:002TRemo/PA14 - Jeferson Carlos Silva dos ...3 - Henrique Moura Perillo19:002TConfiança/SE20 - Jussimar Lima8 - Rafael Oliveira Silva26:002TRemo/PA18 - Jayme Juan Alves da Silva ...11 - Gladson do Nascimento28:002TConfiança/SE22 - Leonardo de Sousa Pereira ...10 - Alvaro Rodrigues Vieira J ...",,,,
-Substituições,,,,
+28:00,2T,ConfianÃ§a/SE,22 - Leonardo de Sousa Pereira ...,10 - Alvaro Rodrigues Vieira J ...
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:ACRÃ‰SCIMOS DEVIDO RETIRADA DE JOGADORES LESIONADOS E SUBSTITUIÃ‡Ã•ES.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTRemo/PA13 - Marcelo Martini Labarthe5 - Joao Paulo Dias Silva12:002TConfianÃ§a/SE17 - Andre Oliveira de Lima Co ...6 - Radamezio Goncalves Lima14:002TRemo/PA14 - Jeferson Carlos Silva dos ...3 - Henrique Moura Perillo19:002TConfianÃ§a/SE20 - Jussimar Lima8 - Rafael Oliveira Silva26:002TRemo/PA18 - Jayme Juan Alves da Silva ...11 - Gladson do Nascimento28:002TConfianÃ§a/SE22 - Leonardo de Sousa Pereira ...10 - Alvaro Rodrigues Vieira J ...",,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 45:00,INT,Remo/PA,13 - Marcelo Martini Labarthe,5 - Joao Paulo Dias Silva
-12:00,2T,Confiança/SE,17 - Andre Oliveira de Lima Co ...,6 - Radamezio Goncalves Lima
+12:00,2T,ConfianÃ§a/SE,17 - Andre Oliveira de Lima Co ...,6 - Radamezio Goncalves Lima
 14:00,2T,Remo/PA,14 - Jeferson Carlos Silva dos ...,3 - Henrique Moura Perillo
-19:00,2T,Confiança/SE,20 - Jussimar Lima,8 - Rafael Oliveira Silva
+19:00,2T,ConfianÃ§a/SE,20 - Jussimar Lima,8 - Rafael Oliveira Silva
 26:00,2T,Remo/PA,18 - Jayme Juan Alves da Silva ...,11 - Gladson do Nascimento
-28:00,2T,Confiança/SE,22 - Leonardo de Sousa Pereira ...,10 - Alvaro Rodrigues Vieira J ...
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:ACRÉSCIMOS DEVIDO RETIRADA DE JOGADORES LESIONADOS E SUBSTITUIÇÕES.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTRemo/PA13 - Marcelo Martini Labarthe5 - Joao Paulo Dias Silva12:002TConfiança/SE17 - Andre Oliveira de Lima Co ...6 - Radamezio Goncalves Lima14:002TRemo/PA14 - Jeferson Carlos Silva dos ...3 - Henrique Moura Perillo19:002TConfiança/SE20 - Jussimar Lima8 - Rafael Oliveira Silva26:002TRemo/PA18 - Jayme Juan Alves da Silva ...11 - Gladson do Nascimento28:002TConfiança/SE22 - Leonardo de Sousa Pereira ...10 - Alvaro Rodrigues Vieira J ..."
-Observações Eventuais
+28:00,2T,ConfianÃ§a/SE,22 - Leonardo de Sousa Pereira ...,10 - Alvaro Rodrigues Vieira J ...
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:ACRÃ‰SCIMOS DEVIDO RETIRADA DE JOGADORES LESIONADOS E SUBSTITUIÃ‡Ã•ES.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTRemo/PA13 - Marcelo Martini Labarthe5 - Joao Paulo Dias Silva12:002TConfianÃ§a/SE17 - Andre Oliveira de Lima Co ...6 - Radamezio Goncalves Lima14:002TRemo/PA14 - Jeferson Carlos Silva dos ...3 - Henrique Moura Perillo19:002TConfianÃ§a/SE20 - Jussimar Lima8 - Rafael Oliveira Silva26:002TRemo/PA18 - Jayme Juan Alves da Silva ...11 - Gladson do Nascimento28:002TConfianÃ§a/SE22 - Leonardo de Sousa Pereira ...10 - Alvaro Rodrigues Vieira J ..."
+ObservaÃ§Ãµes Eventuais
 NADA HOUVE DE ANORMAL
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:ACRÉSCIMOS DEVIDO RETIRADA DE JOGADORES LESIONADOS E SUBSTITUIÇÕES.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTRemo/PA13 - Marcelo Martini Labarthe5 - Joao Paulo Dias Silva12:002TConfiança/SE17 - Andre Oliveira de Lima Co ...6 - Radamezio Goncalves Lima14:002TRemo/PA14 - Jeferson Carlos Silva dos ...3 - Henrique Moura Perillo19:002TConfiança/SE20 - Jussimar Lima8 - Rafael Oliveira Silva26:002TRemo/PA18 - Jayme Juan Alves da Silva ...11 - Gladson do Nascimento28:002TConfiança/SE22 - Leonardo de Sousa Pereira ...10 - Alvaro Rodrigues Vieira J ..."
-Ocorrências / Observações
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:ACRÃ‰SCIMOS DEVIDO RETIRADA DE JOGADORES LESIONADOS E SUBSTITUIÃ‡Ã•ES.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTRemo/PA13 - Marcelo Martini Labarthe5 - Joao Paulo Dias Silva12:002TConfianÃ§a/SE17 - Andre Oliveira de Lima Co ...6 - Radamezio Goncalves Lima14:002TRemo/PA14 - Jeferson Carlos Silva dos ...3 - Henrique Moura Perillo19:002TConfianÃ§a/SE20 - Jussimar Lima8 - Rafael Oliveira Silva26:002TRemo/PA18 - Jayme Juan Alves da Silva ...11 - Gladson do Nascimento28:002TConfianÃ§a/SE22 - Leonardo de Sousa Pereira ...10 - Alvaro Rodrigues Vieira J ..."
+OcorrÃªncias / ObservaÃ§Ãµes
 Nada houve de anormal

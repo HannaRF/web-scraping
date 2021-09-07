@@ -7,56 +7,37 @@ Assessor:,Eberval Lodetti (ASS / SC)
 Delegado Local:,Cristiano Graf (000 / )
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,21:20Atraso:,,Não Houve Entrada do mandante: 22:31,Atraso:,,Não Houve
-Entrada do visitante:,21:20Atraso:,,Não Houve Entrada do visitante: 22:30,Atraso:,,Não Houve
-Início 1o Tempo:,21:30 Atraso:,,Não Houve Início do 2o Tempo: 22:32,Atraso:,,Não Houve
-Término do 1o Tempo:,22:17 Acréscimo:,,2 min Término do 2o Tempo: 23:21,Acréscimo:,,4 min
+Entrada do mandante:,21:20Atraso:,,NÃ£o Houve Entrada do mandante: 22:31,Atraso:,,NÃ£o Houve
+Entrada do visitante:,21:20Atraso:,,NÃ£o Houve Entrada do visitante: 22:30,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,21:30 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 22:32,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,22:17 AcrÃ©scimo:,,2 min TÃ©rmino do 2o Tempo: 23:21,AcrÃ©scimo:,,4 min
 Resultado do 1o Tempo: 2 X 0,,,Resultado Final: 3 X 1,,,
-"",,,,Relação de Jogadores,,,
-"",,Criciúma / SC,,,Goiás / GO,,
-No,Apelido,Nome Completo T/R P/A,,CBF No Apelido,Nome Completo,T/R P/A,CBF
-1,Luiz Silva ...,Luiz Silva Filho,T P,155426 1 Renan,Renan Brito Soares,T P,155703
-2,Ezequiel,Ezequiel Jacinto de  ...,T P,302436 2 Sueliton,Sueliton Pereira de ...,T P,171745
-3,Raphael,Raphael da Silva Arruda,T P,308305 3 David,David de Duarte Macedo,T P,348537
-4,Nathan,Nathan Raphael Pelae ...,T P,317706 4 Anderson,Anderson Aparecido S...,T P,178500
-5,Barreto,Gustavo Bonatto Barreto,T P,360443 5 David França,David Franca Oliveir...,T P,150731
-6,Marlon,Marlon Rodrigues Xavier,T P,364054 6 Jefferson,Jefferson Junio Anto...,T P,400906
-7,Eduardo,Eduardo Jose Barbosa ...,T P,321012 7 Leonardo d ...,Leonardo de Souza Sena,T P,352625
-8,Douglas,Douglas Moreira Fagundes,T P,354201 8 Patrick,Patrick Bezerra do N...,T P,315585
-9,Gustavo,Gustavo Henrique da  ...,T P,453172 9 Cleo,Cleverson Gabriel Co...,T P,160606
-10,Elvis,Elvis Vieira Araujo,T P,183975 10 Leo Lima,Leonardo Lima da Silva,T P,136729
-11,Niltinho,Nilton Soares Rodrigues,T P,329055 11 Wagner,Wagner Ricardo Silva...,T P,344955
-12,Edson,Edson Mardden Alves  ...,R P,296573 12 Ivan,Gilsivan Soares da Silva,R P,169226
-13,Diego,Diego da Silva Giaretta,R P,158675 13 Wesley,Wesley Ladeira Matos,R P,306551
-14,Ferron,Luiz Antonio Linhare ...,R P,170571 14 Alex,Alex Alves Cardoso,R P,300744
-15,Lucas,Lucas Taylor Maia Reis,R P,351207 15 Ramires,Ramires dos Anjos Alves,R P,186557
-16,Joao Afonso,Joao Afonso Crispim,R P,374486 16 Willian,Willian Osmar de Oli...,R P,334881
-17,Ricardo,Ricardo Ribeiro de Lima,R P,179100 17 Thalles,Thalles Gabriel Mora...,R P,428831
-18,Roberto,Roberto Cesar Zardin ...,R P,159419 18 Rafhael,Rafhael Lucas Olivei...,R P,309723
-19,Helinho,Helio Alves da Slva  ...,R P,305776 19 Cassiano,Cassiano Dias Moreira,R P,181681
-20,Alexsandro,Alexsandro Carvalho  ...,R P,160326 20 Rossi,Rosicley Pereira da ...,R P,314059
-21,Gabriel Bo ...,Gabriel Leite Borges,R P,346410,,,
-23,Andrew,Andrew Lucas Balbino ...,R P,310804,,,
-"",,Comissão Técnica
-"",Criciúma / SC,Goiás / GO
-Técnico:,Roberto Fernando Schneiger - 3324441,Fisioterapeuta: Bruno De Souza Baldo - 3517866601
-Auxiliar Técnico:,Robelios José Schneiger - 2485150,Médico: Dalton Siqueira Filho - 56810318100
-Médico:,Raphaei Villatore Dias - 19616/SC,Técnico: Enderson Alves Moreira - 80911064672
-Preparador Físico:,William César Hauptmam - 004244G/SP,Preparador Físico: Gerson Oliveira Rocha - 94138168672
-Massagista:,Marcelo José Da Silva - 26713464-2,Massagista: Jeova Francisco Do Nascimento Bibiano - 26192888191
-Preparador De GoleiroM:a uricio Gustavo Thó Dacoregio - 008673,,Auxiliar Técnico: Luis Fernando Rosa Flores - 39299490082
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,21:20,Atraso:,NÃ£o Houve Entrada do mandante:,22:31,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,21:30,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,22:32,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+1,Luiz Silva ...,Luiz Silva Filho,T P,155426,1,Renan,Renan Brito Soares,T P,155703
+"",,ComissÃ£o TÃ©cnica
+"",CriciÃºma / SC,GoiÃ¡s / GO
+TÃ©cnico:,Roberto Fernando Schneiger - 3324441,Fisioterapeuta: Bruno De Souza Baldo - 3517866601
+Auxiliar TÃ©cnico:,Robelios JosÃ© Schneiger - 2485150,MÃ©dico: Dalton Siqueira Filho - 56810318100
+MÃ©dico:,Raphaei Villatore Dias - 19616/SC,TÃ©cnico: Enderson Alves Moreira - 80911064672
+Preparador FÃ­sico:,William CÃ©sar Hauptmam - 004244G/SP,Preparador FÃ­sico: Gerson Oliveira Rocha - 94138168672
+Massagista:,Marcelo JosÃ© Da Silva - 26713464-2,Massagista: Jeova Francisco Do Nascimento Bibiano - 26192888191
+Preparador De GoleiroM:a uricio Gustavo ThÃ³ Dacoregio - 008673,,Auxiliar TÃ©cnico: Luis Fernando Rosa Flores - 39299490082
 "",,Preparador De GoleiroM:a rcio Antonio Defendi - 6254465850
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
-22:00,1T,9,NR,Gustavo Henrique da Silva Sousa,,Criciúma/SC
-39:00,1T,4,NR,Nathan Raphael Pelae Cardoso,,Criciúma/SC
-33:00,2T,10,NR,Elvis Vieira Araujo,,Criciúma/SC
-43:00,2T,19,NR,Cassiano Dias Moreira,,Goiás/GO
-"",,,,Substituições,
+22:00,1T,9,NR,Gustavo Henrique da Silva Sousa,,CriciÃºma/SC
+39:00,1T,4,NR,Nathan Raphael Pelae Cardoso,,CriciÃºma/SC
+33:00,2T,10,NR,Elvis Vieira Araujo,,CriciÃºma/SC
+43:00,2T,19,NR,Cassiano Dias Moreira,,GoiÃ¡s/GO
+"",,,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,,Equipe,Entrou,Saiu
-45:00,INT,Goiás/GO,,15 - Ramires dos Anjos Alves,5 - David Franca Oliveira E S ...
-45:00,INT,Goiás/GO,,19 - Cassiano Dias Moreira,11 - Wagner Ricardo Silva da S ...
-20:00,1T,Criciúma/SC,,18 - Roberto Cesar Zardin Rodr ...,6 - Marlon Rodrigues Xavier
-16:00,2T,Goiás/GO,,20 - Rosicley Pereira da Silva ...,10 - Leonardo Lima da Silva
-29:00,2T,Criciúma/SC,,21 - Gabriel Leite Borges,7 - Eduardo Jose Barbosa da S ...
-33:00,2T,Criciúma/SC,,19 - Helio Alves da Slva Junio ...,9 - Gustavo Henrique da Silva ...
+45:00,INT,GoiÃ¡s/GO,,15 - Ramires dos Anjos Alves,5 - David Franca Oliveira E S ...
+45:00,INT,GoiÃ¡s/GO,,19 - Cassiano Dias Moreira,11 - Wagner Ricardo Silva da S ...
+20:00,1T,CriciÃºma/SC,,18 - Roberto Cesar Zardin Rodr ...,6 - Marlon Rodrigues Xavier
+16:00,2T,GoiÃ¡s/GO,,20 - Rosicley Pereira da Silva ...,10 - Leonardo Lima da Silva
+29:00,2T,CriciÃºma/SC,,21 - Gabriel Leite Borges,7 - Eduardo Jose Barbosa da S ...
+33:00,2T,CriciÃºma/SC,,19 - Helio Alves da Slva Junio ...,9 - Gustavo Henrique da Silva ...

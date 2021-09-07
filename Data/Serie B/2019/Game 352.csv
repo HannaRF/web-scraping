@@ -1,6 +1,6 @@
-Campeonato:,Campeonato Brasileiro - Série B/2019,,Rodada:,36
-Jogo:,Bragantino / SP X Criciúma / SC,,,
-Data:,15/11/2019 Horário: 19:15 Estádio:,Nabi Abi Chedid / Braganca Paulista,,
+Campeonato:,Campeonato Brasileiro - SÃ©rie B/2019,,Rodada:,36
+Jogo:,Bragantino / SP X CriciÃºma / SC,,,
+Data:,15/11/2019 HorÃ¡rio: 19:15 EstÃ¡dio:,Nabi Abi Chedid / Braganca Paulista,,
 "",Arbitragem
 Arbitro:,Wagner do Nascimento Magalhaes (FIFA / RJ)
 Arbitro Assistente 1:,Carlos Henrique Alves de Lima Filho (AB / RJ)
@@ -10,13 +10,13 @@ Delegado Local:,Wilson Roberto Santoro (CBF / SP)
 Analista de Campo:,Philippe Lombard (CBF / SP)
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,19:05Atraso:,,Não Houve Entrada do mandante: 20:14,,Atraso:,Não Houve
-Entrada do visitante:,19:05Atraso:,,Não Houve Entrada do visitante: 20:14,,Atraso:,Não Houve
-Início 1o Tempo:,19:15Atraso:,,Não Houve Início do 2o Tempo: 20:17,,Atraso:,Não Houve
-Término do 1o Tempo:,20:02Acréscimo:,,2 min Término do 2o Tempo: 21:07,Acréscimo:,,5 min
+Entrada do mandante:,19:05Atraso:,,NÃ£o Houve Entrada do mandante: 20:14,,Atraso:,NÃ£o Houve
+Entrada do visitante:,19:05Atraso:,,NÃ£o Houve Entrada do visitante: 20:14,,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,19:15Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 20:17,,Atraso:,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,20:02AcrÃ©scimo:,,2 min TÃ©rmino do 2o Tempo: 21:07,AcrÃ©scimo:,,5 min
 Resultado do 1o Tempo: 1 X 1,,,Resultado Final: 1 X 1,,,
-"",,,,,Relação de Jogadores,,,,
-"",,Bragantino / SP,,,,Criciúma / SC,,,
+"",,,,,RelaÃ§Ã£o de Jogadores,,,,
+"",,Bragantino / SP,,,,CriciÃºma / SC,,,
 No,Apelido,Nome Completo,T/R,P/A,CBF No Apelido,Nome Completo T/R,,P/A,CBF
 1,Julio Cesar,Julio Cesar de Souza ...,T(g),P,150963 91 Paulo Henr ...,Paulo Henrique Gianezini T(g),,P,308021
 3,Ortiz,Leonardo Rech Ortiz,T,P,422469 3 Sandro,Sandro Silva de Souza T,,P,172036
@@ -41,28 +41,23 @@ No,Apelido,Nome Completo,T/R,P/A,CBF No Apelido,Nome Completo T/R,,P/A,CBF
 30,Pio,Francisco Hercules d ...,R,P,169274,,,,
 31,Vitinho,Victor Hugo Santana  ...,R,P,409125,,,,
 33,Anderson,Anderson Marques de  ...,R,P,154089,,,,
-"",,Comissão Técnica,
-"",Bragantino / SP,,Criciúma / SC
-Técnico:,Antonio Carlos Zago,Técnico:,Roberto Fernando Schneiger
-Auxiliar Técnico:,Carlos Eduardo Pacheco Silva,Auxiliar Técnico:,Wilson Vaterkemper
-Médico:,Thiago Simoes Miyasato,Médico:,Ricardo Koerich Furtado
+"",,ComissÃ£o TÃ©cnica,
+"",Bragantino / SP,,CriciÃºma / SC
+TÃ©cnico:,Antonio Carlos Zago,TÃ©cnico:,Roberto Fernando Schneiger
+Auxiliar TÃ©cnico:,Carlos Eduardo Pacheco Silva,Auxiliar TÃ©cnico:,Wilson Vaterkemper
+MÃ©dico:,Thiago Simoes Miyasato,MÃ©dico:,Ricardo Koerich Furtado
 Treinador De Goleiros:,Rodrigo Guido Bruns,Treinador De Goleiros:,Mauricio Gustavo Tho Dacoregio
-Preparador Físico:,Reverson Bastos Pimentel,Preparador Físico:,Wiliam Cesar Hauptmam
+Preparador FÃ­sico:,Reverson Bastos Pimentel,Preparador FÃ­sico:,Wiliam Cesar Hauptmam
 Massagista:,Augusto Luis Boschi Riboldi,Massagista:,Welliton Marcilio Martins
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
-26:00,1T,17,NR,Andrew Lucas Balbino Drummond,,Criciúma/SC
+26:00,1T,17,NR,Andrew Lucas Balbino Drummond,,CriciÃºma/SC
 38:00,1T,38,NR,Andrew Erik Feitosa,,Bragantino/SP
-"",,,,Cartões Vermelhos
-Tempo 1T/2T,No,,Nome do Jogador,
-39:00 2T,23,,Rayan Poltronieri Pereira - Bragantino/SP,
-2o Cartão Amarelo,,,"Motivo: V2.8.  Outro motivo (detalhar no campo expulsões) - Expulso por, após advertido com cartão amarelo anteriormente, empurrar",
-"",,,seu adversário de maneira temerária com a partida paralisada.,
-"",,,Substituições,
+"",,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 +1:00,2T,Bragantino/SP,9 - Matheus Vieira Campos Peixoto,15 - Ytalo Jose Oliveira dos Santos
-45:00,INT,Criciúma/SC,5 - Jean Mangabeira da Silva,16 - Thales Natanael Lira de Matos
-22:00,2T,Criciúma/SC,18 - Lucas Antonio da Silva Soares,17 - Andrew Lucas Balbino Drummond
+45:00,INT,CriciÃºma/SC,5 - Jean Mangabeira da Silva,16 - Thales Natanael Lira de Matos
+22:00,2T,CriciÃºma/SC,18 - Lucas Antonio da Silva Soares,17 - Andrew Lucas Balbino Drummond
 26:00,2T,Bragantino/SP,28 - Robson Jose Brilhante Martins,38 - Andrew Erik Feitosa
-36:00,2T,Criciúma/SC,22 - Vinicius Santos Silva,7 - Isnairo Reis Silva Morais
+36:00,2T,CriciÃºma/SC,22 - Vinicius Santos Silva,7 - Isnairo Reis Silva Morais
 41:00,2T,Bragantino/SP,19 - Pedro Henrique Naressi Machado,27 - Wesley Pionteck Souza

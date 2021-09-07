@@ -8,37 +8,18 @@ Arbitro Assist Adic 2:,Bruno Arleu de Araujo (CBF-2 / ),
 Assessor:,Roberto Perassi (  / ),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,18:22Atraso:,,Não Houve Entrada do mandante: 19:30,Atraso:,,Não Houve
-Entrada do visitante:,18:23Atraso:,,Não Houve Entrada do visitante: 19:30,Atraso:,,Não Houve
-Início 1o Tempo:,18:30 Atraso:,,Não Houve Início do 2o Tempo: 19:32,Atraso:,,Não Houve
-Término do 1o Tempo:,19:17 Acréscimo:,,2 min Término do 2o Tempo: 20:23,Acréscimo:,,3 min
+Entrada do mandante:,18:22Atraso:,,NÃ£o Houve Entrada do mandante: 19:30,Atraso:,,NÃ£o Houve
+Entrada do visitante:,18:23Atraso:,,NÃ£o Houve Entrada do visitante: 19:30,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,18:30 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 19:32,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,19:17 AcrÃ©scimo:,,2 min TÃ©rmino do 2o Tempo: 20:23,AcrÃ©scimo:,,3 min
 Resultado do 1o Tempo: 1 X 1,,,Resultado do 2o Tempo: 1 X 3,,,
-"",,,,Relação de Jogadores,,,
-"",,Ponte Preta / SP,,,Internacional / RS,,
-No,Apelido,Nome Completo,T/R P/A,CBF No Apelido,Nome Completo,T/R P/A,CBF
-1,Volpato,Roberto Volpato Netto,T P,135494 22 Alisson,Alisson Ramses Becker,T P,293033
-2,Sousa,Regis Ribeiro de Sousa,T P,190286 2 Gabriel,Gabriel Rodrigues do...,T P,145180
-3,Ebert Will ...,Ebert Willian Amancio,T P,144059 3 Indio,Marcos Antonio de Lima,T P,123208
-4,Diego,Diego Alessandro Apa ...,T P,162757 4 Juan,Juan Silveira dos Santos,T P,123816
-5,Andres,Andres Fernandes Gon ...,T P,180842 8 Willians,Willians Domingos Fe...,T P,182246
-6,Uendel,Uendel Pereira Goncalves,T P,175320 9 Leandro Da ...,Leandro Damiao da Si...,T P,291866
-7,Fellipe,Fellipe Ramos Ignez  ...,T P,357424 10 Dalessandro,Andres Nicolas Dales...,T P,299481
-8,Magal,Sidnei da Silva,T P,146581 14 Fabricio,Fabricio dos Santos ...,T P,172408
-9,William,William Junior Salle ...,T P,141880 21 Ygor,Ygor Maciel Santiago,T P,156045
-10,Adriano,Adriano Laaber,T P,133023 32 Scocco,Ignacio Martin Scocco,T P,447258
-11,Leonardo,Leonardo Goncalves Silva,T P,156140 33 Otavio,Otavio Edmilson da S...,T P,348196
-12,Eduardo,Eduardo Ezequiel de  ...,R P,352795 6 Kleber,Kleber de Carvalho C...,R P,132420
-13,Artur,Jose Artur Barbosa d ...,R P,184507 11 Rafael Moura,Rafael Martiniano de...,R P,151437
-14,Cesar,Cesar Henrique Martins,R P,312663 12 Alex,Alex Raphael Meschini,R P,141158
-15,Fernando,Fernando Paixao da Silva,R P,172039 13 Alemao,Agenor Detofol,R P,182631
-16,Alef,Alef dos Santos Saldanha,R P,351749 17 Caio,Caio Canedo Correia,R P,292179
-17,Fernando,Jose Fernando Olivei ...,R P,308434 19 Alan Patrick,Alan Patrick Lourenço,R P,305976
-18,Brian,Brian Oscar Sarmiento,R P,446015 27 Josimar,Josimar Rosado da Si...,R P,168939
-19,Rafael,Rafael Diniz Alves e ...,R P,321556 29 Jorge Henr ...,Jorge Henrique de Souza,R P,153189
-20,Dennis,Dennis Murillo Skrzypiec,R P,295884 35 Bolatti,Mario Ariel Bolatti,R P,371631
-21,Everton Sa ...,Everton Leandro dos  ...,R P,165064 36 Alan,Alan Henrique Costa,R P,188990
-22,Giovanni,Giovanni Piccolomo,R P,318493,,,
-"",,Comissão Técnica,
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,18:22,Atraso:,NÃ£o Houve Entrada do mandante:,19:30,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,18:30,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,19:32,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+1,Volpato,Roberto Volpato Netto,T P,135494,22,Alisson,Alisson Ramses Becker,T P,293033
+"",,ComissÃ£o TÃ©cnica,
 "",Ponte Preta / SP,,Internacional / RS
 Tecnico:,Jorge De Amorim Campos - 362250005,Tecnico:,Carlos Caetano Bledorn Verri - 011848
 Auxiliar Tecnico:,Marcelo Ribeiro Cabo - 023847,Auxiliar Tecnico:,Andrey Lopes Dos Santos - 1659
@@ -51,7 +32,7 @@ Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 29:00,1T,4,NR,Juan Silveira dos Santos,,Internacional
 16:00,2T,10,PN,Andres Nicolas Dalessandro,,Internacional
 26:00,2T,32,NR,Ignacio Martin Scocco,,Internacional
-"",,,,Substituições,
+"",,,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,,Equipe,Entrou,Saiu
 42:00,1T,Ponte Preta,,22 - Giovanni Piccolomo,11 - Leonardo Goncalves Silva
 24:00,2T,Ponte Preta,,21 - Everton Leandro dos Santo ...,8 - Sidnei da Silva

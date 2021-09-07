@@ -1,6 +1,6 @@
-Campeonato:,Campeonato Brasileiro - Série B/2018,,Rodada:,37
-Jogo:,Oeste / SP X Goiás / GO,,,
-Data:,17/11/2018 Horário: 21:00 Estádio:,Arena Barueri / Barueri,,
+Campeonato:,Campeonato Brasileiro - SÃ©rie B/2018,,Rodada:,37
+Jogo:,Oeste / SP X GoiÃ¡s / GO,,,
+Data:,17/11/2018 HorÃ¡rio: 21:00 EstÃ¡dio:,Arena Barueri / Barueri,,
 "",Arbitragem
 Arbitro:,Emerson de Almeida Ferreira (AB / MG)
 Arbitro Assistente 1:,Celso Luiz da Silva (AB / MG)
@@ -9,13 +9,13 @@ Quarto Arbitro:,Lucas Canetto Bellote (INT / SP)
 Inspetor:,Hilton Moutinho Rodrigues (CBF / BRA)
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,20:50Atraso:,,Não Houve Entrada do mandante: 22:00,,Atraso:,Não Houve
-Entrada do visitante:,20:50Atraso:,,Não Houve Entrada do visitante: 22:01,,Atraso:,Não Houve
-Início 1o Tempo:,21:00Atraso:,,Não Houve Início do 2o Tempo: 22:03,,Atraso:,Não Houve
-Término do 1o Tempo:,21:48Acréscimo:,,3 min Término do 2o Tempo: 22:53,Acréscimo:,,5 min
+Entrada do mandante:,20:50Atraso:,,NÃ£o Houve Entrada do mandante: 22:00,,Atraso:,NÃ£o Houve
+Entrada do visitante:,20:50Atraso:,,NÃ£o Houve Entrada do visitante: 22:01,,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,21:00Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 22:03,,Atraso:,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,21:48AcrÃ©scimo:,,3 min TÃ©rmino do 2o Tempo: 22:53,AcrÃ©scimo:,,5 min
 Resultado do 1o Tempo: 0 X 0,,,Resultado Final: 1 X 3,,,
-"",,,,,Relação de Jogadores,,,,
-"",,Oeste / SP,,,,Goiás / GO,,,
+"",,,,,RelaÃ§Ã£o de Jogadores,,,,
+"",,Oeste / SP,,,,GoiÃ¡s / GO,,,
 No,Apelido,Nome Completo T/R,,P/A,CBF No Apelido,Nome Completo T/R,,P/A,CBF
 1,Airton,Airton Moraes Michellon T(g),,P,332840 12 Tiago Cardoso,Tiago Cardoso dos Santos T(g),,P,160028
 2,Adriano,Adriano Alves dos Santos T,,P,154599 2 Alex,Alex da Silva T,,P,345933
@@ -35,62 +35,62 @@ No,Apelido,Nome Completo T/R,,P/A,CBF No Apelido,Nome Completo T/R,,P/A,CBF
 16,Guilherme,Guilherme Kennedy Romao R,,P,419442 16 Breno,Breno Lorran da Silv... R,,P,345720
 17,Indio,Raphael Luz Pessoa R,,P,181334 17 Tiago Luis,Tiago Luis Martins R,,P,175323
 18,Pedro,Pedro Gabriel Pereir ... R,,P,542491 18 Robson Jos ...,Robson Jose Brilhant... R,,P,456114
-19,Ceará,Jose Leonardo Veriss ... R,,P,540826 19 Gedoz,Felipe Gedoz da Conceicao R,,P,346890
+19,CearÃ¡,Jose Leonardo Veriss ... R,,P,540826 19 Gedoz,Felipe Gedoz da Conceicao R,,P,346890
 20,Felipe Cruz,Felipe Ferreira da Cruz R,,P,507727 20 Leonardo d ...,Leonardo de Souza Sena R,,P,352625
-21,Edilson,Edilson Tavares dos  ... R,,P,315056 21 Maranhão,Francinilson Santos ... R,,P,303766
+21,Edilson,Edilson Tavares dos  ... R,,P,315056 21 MaranhÃ£o,Francinilson Santos ... R,,P,303766
 23,Luiz,Luiz Carlos Paulino  ... R,,P,588999 23 Renato Caja,Renato Adriano Jaco ... R,,P,158893
-"",,Comissão Técnica,
-"",Oeste / SP,,Goiás / GO
-Técnico:,ROBERTO FERNANDO SCHNEIGER,Técnico:,NEY FRANCO DA SILVEIRA JUNIOR
-Auxiliar Técnico:,RENAN ROBERTO DE FREITAS,Auxiliar Técnico:,RODNEY BORGES GONCALVES
-Médico:,DAVI RIBEIRO DO PRADO,Médico:,DALTON SIQUEIRA FILHO
+"",,ComissÃ£o TÃ©cnica,
+"",Oeste / SP,,GoiÃ¡s / GO
+TÃ©cnico:,ROBERTO FERNANDO SCHNEIGER,TÃ©cnico:,NEY FRANCO DA SILVEIRA JUNIOR
+Auxiliar TÃ©cnico:,RENAN ROBERTO DE FREITAS,Auxiliar TÃ©cnico:,RODNEY BORGES GONCALVES
+MÃ©dico:,DAVI RIBEIRO DO PRADO,MÃ©dico:,DALTON SIQUEIRA FILHO
 Treinador De Goleiros:,CLEVERSON FERNANDO LOPES,Treinador De Goleiros:,MARLOS GOMES SANTOS
-Preparador Físico:,WILIAM CESAR HAUPTMAM,Preparador Físico:,ALEXANDRE LOPES
+Preparador FÃ­sico:,WILIAM CESAR HAUPTMAM,Preparador FÃ­sico:,ALEXANDRE LOPES
 Massagista:,FERNANDO ROBERTO SILVA,Fisioterapeuta:,MARCOS VINICIUS DE SOUZA DUARTE
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 19:00,2T,10,NR,Anderson Soares da Silva,,Oeste/SP
-20:00,2T,2,NR,Alex da Silva,,Goiás/GO
-32:00,2T,2,NR,Alex da Silva,,Goiás/GO
-+4,2T,10,NR,Giovanni Piccolomo,,Goiás/GO
-"",,,,Cartões Amarelos
+20:00,2T,2,NR,Alex da Silva,,GoiÃ¡s/GO
+32:00,2T,2,NR,Alex da Silva,,GoiÃ¡s/GO
++4,2T,10,NR,Giovanni Piccolomo,,GoiÃ¡s/GO
+"",,,,CartÃµes Amarelos
 Tempo,1T/2T,No,Nome do Jogador,Equipe
-08:00,1T,7,Rafael Diniz Alves E Silva,Goiás/GO
-"",,,Motivo: A1.2.  Dar ou tentar dar uma rasteira ou um calço em um adversário de maneira temerária na disputa da bola  - Calçar seu,
-"",,,adversário de maneira temerária na disputa da bola.,
-"Ocorrências / ObservaçõesInformo que foi realizado 1 minuto de silencio antes do inicio da partida em homenagem póstuma ao sr. ronaldo ribeiro pai do árbitro ricardomarques ribeiro.Motivo de atraso no início e/ou reinício, e de acréscimos:Acréscimos devido a atendimento médico, retirada de jogadores lesionados e substituições.Observações EventuaisNada houve de anormal.Relatório do AssistenteNada a relatar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu14:002TOeste/SP17 - Raphael Luz Pessoa4 - Jomar Herculano Lourenco18:002TOeste/SP18 - Pedro Gabriel Pereira Lopés9 - Bruno Henrique Lopes21:002TGoiás/GO20 - Leonardo de Souza Sena8 - Joao Afonso Crispim22:002TGoiás/GO21 - Francinilson Santos Meireles7 - Rafael Diniz Alves E Silva33:002TOeste/SP19 - Jose Leonardo Verissimo do N...11 - Marcio Barbosa Vieira Junior37:002TGoiás/GO14 - Caique Silva Sa2 - Alex da Silva"
-Ocorrências / Observações
-"Informo que foi realizado 1 minuto de silencio antes do inicio da partida em homenagem póstuma ao sr. ronaldo ribeiro pai do árbitro ricardomarques ribeiro."
-"Ocorrências / ObservaçõesInformo que foi realizado 1 minuto de silencio antes do inicio da partida em homenagem póstuma ao sr. ronaldo ribeiro pai do árbitro ricardomarques ribeiro.Motivo de atraso no início e/ou reinício, e de acréscimos:Acréscimos devido a atendimento médico, retirada de jogadores lesionados e substituições.Observações EventuaisNada houve de anormal.Relatório do AssistenteNada a relatar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu14:002TOeste/SP17 - Raphael Luz Pessoa4 - Jomar Herculano Lourenco18:002TOeste/SP18 - Pedro Gabriel Pereira Lopés9 - Bruno Henrique Lopes21:002TGoiás/GO20 - Leonardo de Souza Sena8 - Joao Afonso Crispim22:002TGoiás/GO21 - Francinilson Santos Meireles7 - Rafael Diniz Alves E Silva33:002TOeste/SP19 - Jose Leonardo Verissimo do N...11 - Marcio Barbosa Vieira Junior37:002TGoiás/GO14 - Caique Silva Sa2 - Alex da Silva",,,,
-Substituições,,,,
+08:00,1T,7,Rafael Diniz Alves E Silva,GoiÃ¡s/GO
+"",,,Motivo: A1.2.  Dar ou tentar dar uma rasteira ou um calÃ§o em um adversÃ¡rio de maneira temerÃ¡ria na disputa da bola  - CalÃ§ar seu,
+"",,,adversÃ¡rio de maneira temerÃ¡ria na disputa da bola.,
+"OcorrÃªncias / ObservaÃ§ÃµesInformo que foi realizado 1 minuto de silencio antes do inicio da partida em homenagem pÃ³stuma ao sr. ronaldo ribeiro pai do Ã¡rbitro ricardomarques ribeiro.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:AcrÃ©scimos devido a atendimento mÃ©dico, retirada de jogadores lesionados e substituiÃ§Ãµes.ObservaÃ§Ãµes EventuaisNada houve de anormal.RelatÃ³rio do AssistenteNada a relatar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu14:002TOeste/SP17 - Raphael Luz Pessoa4 - Jomar Herculano Lourenco18:002TOeste/SP18 - Pedro Gabriel Pereira LopÃ©s9 - Bruno Henrique Lopes21:002TGoiÃ¡s/GO20 - Leonardo de Souza Sena8 - Joao Afonso Crispim22:002TGoiÃ¡s/GO21 - Francinilson Santos Meireles7 - Rafael Diniz Alves E Silva33:002TOeste/SP19 - Jose Leonardo Verissimo do N...11 - Marcio Barbosa Vieira Junior37:002TGoiÃ¡s/GO14 - Caique Silva Sa2 - Alex da Silva"
+OcorrÃªncias / ObservaÃ§Ãµes
+"Informo que foi realizado 1 minuto de silencio antes do inicio da partida em homenagem pÃ³stuma ao sr. ronaldo ribeiro pai do Ã¡rbitro ricardomarques ribeiro."
+"OcorrÃªncias / ObservaÃ§ÃµesInformo que foi realizado 1 minuto de silencio antes do inicio da partida em homenagem pÃ³stuma ao sr. ronaldo ribeiro pai do Ã¡rbitro ricardomarques ribeiro.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:AcrÃ©scimos devido a atendimento mÃ©dico, retirada de jogadores lesionados e substituiÃ§Ãµes.ObservaÃ§Ãµes EventuaisNada houve de anormal.RelatÃ³rio do AssistenteNada a relatar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu14:002TOeste/SP17 - Raphael Luz Pessoa4 - Jomar Herculano Lourenco18:002TOeste/SP18 - Pedro Gabriel Pereira LopÃ©s9 - Bruno Henrique Lopes21:002TGoiÃ¡s/GO20 - Leonardo de Souza Sena8 - Joao Afonso Crispim22:002TGoiÃ¡s/GO21 - Francinilson Santos Meireles7 - Rafael Diniz Alves E Silva33:002TOeste/SP19 - Jose Leonardo Verissimo do N...11 - Marcio Barbosa Vieira Junior37:002TGoiÃ¡s/GO14 - Caique Silva Sa2 - Alex da Silva",,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 14:00,2T,Oeste/SP,17 - Raphael Luz Pessoa,4 - Jomar Herculano Lourenco
-18:00,2T,Oeste/SP,18 - Pedro Gabriel Pereira Lopés,9 - Bruno Henrique Lopes
-21:00,2T,Goiás/GO,20 - Leonardo de Souza Sena,8 - Joao Afonso Crispim
-22:00,2T,Goiás/GO,21 - Francinilson Santos Meireles,7 - Rafael Diniz Alves E Silva
+18:00,2T,Oeste/SP,18 - Pedro Gabriel Pereira LopÃ©s,9 - Bruno Henrique Lopes
+21:00,2T,GoiÃ¡s/GO,20 - Leonardo de Souza Sena,8 - Joao Afonso Crispim
+22:00,2T,GoiÃ¡s/GO,21 - Francinilson Santos Meireles,7 - Rafael Diniz Alves E Silva
 33:00,2T,Oeste/SP,19 - Jose Leonardo Verissimo do N...,11 - Marcio Barbosa Vieira Junior
-37:00,2T,Goiás/GO,14 - Caique Silva Sa,2 - Alex da Silva
-"Ocorrências / ObservaçõesInformo que foi realizado 1 minuto de silencio antes do inicio da partida em homenagem póstuma ao sr. ronaldo ribeiro pai do árbitro ricardomarques ribeiro.Motivo de atraso no início e/ou reinício, e de acréscimos:Acréscimos devido a atendimento médico, retirada de jogadores lesionados e substituições.Observações EventuaisNada houve de anormal.Relatório do AssistenteNada a relatar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu14:002TOeste/SP17 - Raphael Luz Pessoa4 - Jomar Herculano Lourenco18:002TOeste/SP18 - Pedro Gabriel Pereira Lopés9 - Bruno Henrique Lopes21:002TGoiás/GO20 - Leonardo de Souza Sena8 - Joao Afonso Crispim22:002TGoiás/GO21 - Francinilson Santos Meireles7 - Rafael Diniz Alves E Silva33:002TOeste/SP19 - Jose Leonardo Verissimo do N...11 - Marcio Barbosa Vieira Junior37:002TGoiás/GO14 - Caique Silva Sa2 - Alex da Silva"
-"Motivo de atraso no início e/ou reinício, e de acréscimos:Acréscimos devido a atendimento médico, retirada de jogadores lesionados e substituições."
-"Ocorrências / ObservaçõesInformo que foi realizado 1 minuto de silencio antes do inicio da partida em homenagem póstuma ao sr. ronaldo ribeiro pai do árbitro ricardomarques ribeiro.Motivo de atraso no início e/ou reinício, e de acréscimos:Acréscimos devido a atendimento médico, retirada de jogadores lesionados e substituições.Observações EventuaisNada houve de anormal.Relatório do AssistenteNada a relatar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu14:002TOeste/SP17 - Raphael Luz Pessoa4 - Jomar Herculano Lourenco18:002TOeste/SP18 - Pedro Gabriel Pereira Lopés9 - Bruno Henrique Lopes21:002TGoiás/GO20 - Leonardo de Souza Sena8 - Joao Afonso Crispim22:002TGoiás/GO21 - Francinilson Santos Meireles7 - Rafael Diniz Alves E Silva33:002TOeste/SP19 - Jose Leonardo Verissimo do N...11 - Marcio Barbosa Vieira Junior37:002TGoiás/GO14 - Caique Silva Sa2 - Alex da Silva",,,,
-Ocorrências / Observações,,,,
-"Informo que foi realizado 1 minuto de silencio antes do inicio da partida em homenagem póstuma ao sr. ronaldo ribeiro pai do árbitro ricardomarques ribeiro.",,,,
-"Motivo de atraso no início e/ou reinício, e de acréscimos:Acréscimos devido a atendimento médico, retirada de jogadores lesionados e substituições.",,,,
-Observações Eventuais,,,,
+37:00,2T,GoiÃ¡s/GO,14 - Caique Silva Sa,2 - Alex da Silva
+"OcorrÃªncias / ObservaÃ§ÃµesInformo que foi realizado 1 minuto de silencio antes do inicio da partida em homenagem pÃ³stuma ao sr. ronaldo ribeiro pai do Ã¡rbitro ricardomarques ribeiro.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:AcrÃ©scimos devido a atendimento mÃ©dico, retirada de jogadores lesionados e substituiÃ§Ãµes.ObservaÃ§Ãµes EventuaisNada houve de anormal.RelatÃ³rio do AssistenteNada a relatar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu14:002TOeste/SP17 - Raphael Luz Pessoa4 - Jomar Herculano Lourenco18:002TOeste/SP18 - Pedro Gabriel Pereira LopÃ©s9 - Bruno Henrique Lopes21:002TGoiÃ¡s/GO20 - Leonardo de Souza Sena8 - Joao Afonso Crispim22:002TGoiÃ¡s/GO21 - Francinilson Santos Meireles7 - Rafael Diniz Alves E Silva33:002TOeste/SP19 - Jose Leonardo Verissimo do N...11 - Marcio Barbosa Vieira Junior37:002TGoiÃ¡s/GO14 - Caique Silva Sa2 - Alex da Silva"
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:AcrÃ©scimos devido a atendimento mÃ©dico, retirada de jogadores lesionados e substituiÃ§Ãµes."
+"OcorrÃªncias / ObservaÃ§ÃµesInformo que foi realizado 1 minuto de silencio antes do inicio da partida em homenagem pÃ³stuma ao sr. ronaldo ribeiro pai do Ã¡rbitro ricardomarques ribeiro.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:AcrÃ©scimos devido a atendimento mÃ©dico, retirada de jogadores lesionados e substituiÃ§Ãµes.ObservaÃ§Ãµes EventuaisNada houve de anormal.RelatÃ³rio do AssistenteNada a relatar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu14:002TOeste/SP17 - Raphael Luz Pessoa4 - Jomar Herculano Lourenco18:002TOeste/SP18 - Pedro Gabriel Pereira LopÃ©s9 - Bruno Henrique Lopes21:002TGoiÃ¡s/GO20 - Leonardo de Souza Sena8 - Joao Afonso Crispim22:002TGoiÃ¡s/GO21 - Francinilson Santos Meireles7 - Rafael Diniz Alves E Silva33:002TOeste/SP19 - Jose Leonardo Verissimo do N...11 - Marcio Barbosa Vieira Junior37:002TGoiÃ¡s/GO14 - Caique Silva Sa2 - Alex da Silva",,,,
+OcorrÃªncias / ObservaÃ§Ãµes,,,,
+"Informo que foi realizado 1 minuto de silencio antes do inicio da partida em homenagem pÃ³stuma ao sr. ronaldo ribeiro pai do Ã¡rbitro ricardomarques ribeiro.",,,,
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:AcrÃ©scimos devido a atendimento mÃ©dico, retirada de jogadores lesionados e substituiÃ§Ãµes.",,,,
+ObservaÃ§Ãµes Eventuais,,,,
 Nada houve de anormal.,,,,
-Relatório do Assistente,,,,
+RelatÃ³rio do Assistente,,,,
 Nada a relatar.,,,,
-Substituições,,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 14:00,2T,Oeste/SP,17 - Raphael Luz Pessoa,4 - Jomar Herculano Lourenco
-18:00,2T,Oeste/SP,18 - Pedro Gabriel Pereira Lopés,9 - Bruno Henrique Lopes
-21:00,2T,Goiás/GO,20 - Leonardo de Souza Sena,8 - Joao Afonso Crispim
-22:00,2T,Goiás/GO,21 - Francinilson Santos Meireles,7 - Rafael Diniz Alves E Silva
+18:00,2T,Oeste/SP,18 - Pedro Gabriel Pereira LopÃ©s,9 - Bruno Henrique Lopes
+21:00,2T,GoiÃ¡s/GO,20 - Leonardo de Souza Sena,8 - Joao Afonso Crispim
+22:00,2T,GoiÃ¡s/GO,21 - Francinilson Santos Meireles,7 - Rafael Diniz Alves E Silva
 33:00,2T,Oeste/SP,19 - Jose Leonardo Verissimo do N...,11 - Marcio Barbosa Vieira Junior
-37:00,2T,Goiás/GO,14 - Caique Silva Sa,2 - Alex da Silva
-"Ocorrências / ObservaçõesInformo que foi realizado 1 minuto de silencio antes do inicio da partida em homenagem póstuma ao sr. ronaldo ribeiro pai do árbitro ricardomarques ribeiro.Motivo de atraso no início e/ou reinício, e de acréscimos:Acréscimos devido a atendimento médico, retirada de jogadores lesionados e substituições.Observações EventuaisNada houve de anormal.Relatório do AssistenteNada a relatar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu14:002TOeste/SP17 - Raphael Luz Pessoa4 - Jomar Herculano Lourenco18:002TOeste/SP18 - Pedro Gabriel Pereira Lopés9 - Bruno Henrique Lopes21:002TGoiás/GO20 - Leonardo de Souza Sena8 - Joao Afonso Crispim22:002TGoiás/GO21 - Francinilson Santos Meireles7 - Rafael Diniz Alves E Silva33:002TOeste/SP19 - Jose Leonardo Verissimo do N...11 - Marcio Barbosa Vieira Junior37:002TGoiás/GO14 - Caique Silva Sa2 - Alex da Silva"
-Relatório do Assistente
+37:00,2T,GoiÃ¡s/GO,14 - Caique Silva Sa,2 - Alex da Silva
+"OcorrÃªncias / ObservaÃ§ÃµesInformo que foi realizado 1 minuto de silencio antes do inicio da partida em homenagem pÃ³stuma ao sr. ronaldo ribeiro pai do Ã¡rbitro ricardomarques ribeiro.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:AcrÃ©scimos devido a atendimento mÃ©dico, retirada de jogadores lesionados e substituiÃ§Ãµes.ObservaÃ§Ãµes EventuaisNada houve de anormal.RelatÃ³rio do AssistenteNada a relatar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu14:002TOeste/SP17 - Raphael Luz Pessoa4 - Jomar Herculano Lourenco18:002TOeste/SP18 - Pedro Gabriel Pereira LopÃ©s9 - Bruno Henrique Lopes21:002TGoiÃ¡s/GO20 - Leonardo de Souza Sena8 - Joao Afonso Crispim22:002TGoiÃ¡s/GO21 - Francinilson Santos Meireles7 - Rafael Diniz Alves E Silva33:002TOeste/SP19 - Jose Leonardo Verissimo do N...11 - Marcio Barbosa Vieira Junior37:002TGoiÃ¡s/GO14 - Caique Silva Sa2 - Alex da Silva"
+RelatÃ³rio do Assistente
 Nada a relatar.
-"Ocorrências / ObservaçõesInformo que foi realizado 1 minuto de silencio antes do inicio da partida em homenagem póstuma ao sr. ronaldo ribeiro pai do árbitro ricardomarques ribeiro.Motivo de atraso no início e/ou reinício, e de acréscimos:Acréscimos devido a atendimento médico, retirada de jogadores lesionados e substituições.Observações EventuaisNada houve de anormal.Relatório do AssistenteNada a relatar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu14:002TOeste/SP17 - Raphael Luz Pessoa4 - Jomar Herculano Lourenco18:002TOeste/SP18 - Pedro Gabriel Pereira Lopés9 - Bruno Henrique Lopes21:002TGoiás/GO20 - Leonardo de Souza Sena8 - Joao Afonso Crispim22:002TGoiás/GO21 - Francinilson Santos Meireles7 - Rafael Diniz Alves E Silva33:002TOeste/SP19 - Jose Leonardo Verissimo do N...11 - Marcio Barbosa Vieira Junior37:002TGoiás/GO14 - Caique Silva Sa2 - Alex da Silva"
-Observações Eventuais
+"OcorrÃªncias / ObservaÃ§ÃµesInformo que foi realizado 1 minuto de silencio antes do inicio da partida em homenagem pÃ³stuma ao sr. ronaldo ribeiro pai do Ã¡rbitro ricardomarques ribeiro.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:AcrÃ©scimos devido a atendimento mÃ©dico, retirada de jogadores lesionados e substituiÃ§Ãµes.ObservaÃ§Ãµes EventuaisNada houve de anormal.RelatÃ³rio do AssistenteNada a relatar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu14:002TOeste/SP17 - Raphael Luz Pessoa4 - Jomar Herculano Lourenco18:002TOeste/SP18 - Pedro Gabriel Pereira LopÃ©s9 - Bruno Henrique Lopes21:002TGoiÃ¡s/GO20 - Leonardo de Souza Sena8 - Joao Afonso Crispim22:002TGoiÃ¡s/GO21 - Francinilson Santos Meireles7 - Rafael Diniz Alves E Silva33:002TOeste/SP19 - Jose Leonardo Verissimo do N...11 - Marcio Barbosa Vieira Junior37:002TGoiÃ¡s/GO14 - Caique Silva Sa2 - Alex da Silva"
+ObservaÃ§Ãµes Eventuais
 Nada houve de anormal.

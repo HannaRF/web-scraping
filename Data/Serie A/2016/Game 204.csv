@@ -6,56 +6,36 @@ Quarto Arbitro:,Rodrigo Batista Raposo (ASP-FIFA / DF),
 Inspetor:,Alicio Pena Junior (000 / MG),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,10:50Atraso:,,Não Houve Entrada do mandante: 11:59,Atraso:,,Não Houve
-Entrada do visitante:,10:50Atraso:,,Não Houve Entrada do visitante: 11:59,Atraso:,,Não Houve
-Início 1o Tempo:,11:00 Atraso:,,Não Houve Início do 2o Tempo: 12:01,Atraso:,,Não Houve
-Término do 1o Tempo:,11:46 Acréscimo:,,1 min Término do 2o Tempo: 12:50,Acréscimo:,,4 min
+Entrada do mandante:,10:50Atraso:,,NÃ£o Houve Entrada do mandante: 11:59,Atraso:,,NÃ£o Houve
+Entrada do visitante:,10:50Atraso:,,NÃ£o Houve Entrada do visitante: 11:59,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,11:00 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 12:01,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,11:46 AcrÃ©scimo:,,1 min TÃ©rmino do 2o Tempo: 12:50,AcrÃ©scimo:,,4 min
 Resultado do 1o Tempo: 1 X 0,,,Resultado Final: 2 X 1,,,
-"",,,,Relação de Jogadores,,,
-"",,Flamengo / RJ,,,Grêmio / RS,,
-No,Apelido,Nome Completo,T/R P/A,CBF No Apelido,Nome Completo,T/R P/A,CBF
-38,Alex Muralha,Alex Roberto Santana ...,T(g) P,177010 1 M. Grohe,Marcelo Grohe,T(g) P,168351
-6,Jorge,Jorge Marco de Olive ...,T P,320593 2 W. Oliveira,Wallace Oliveira dos...,T P,307605
-8,Marcio Ara ...,Marcio Rodrigues Araujo,T P,162907 3 Geromel,Pedro Tonon Geromel,T P,165322
-15,Rever,Rever Humberto Alves ...,T P,167509 10 Douglas,Douglas dos Santos,T P,146817
-17,Gabriel,Gabriel Santana Pinto,T P,335611 11 Everton,Everton Sousa Soares,T P,379065
-18,Leandro Da ...,Leandro Damião da Si ...,T P,291866 14 Wallace Reis,Wallace Reis Silva,T P,166649
-21,Pará,Marcos Rogerio Ricci ...,T P,165065 17 Ramiro,Ramiro Moschen Benetti,T P,295418
-22,Everton,Everton Cardoso Silva,T P,178361 19 Maicon,Maicon Thiago Pereir...,T P,166603
-26,Cuellar,Gustavo Leonardo Cue ...,T P,541232 23 Miller,Miler Alejandro Bola...,T P,541503
-33,Rafael Vaz,Rafael Vaz dos Santos,T P,171406 26 M. Oliveira,Marcelo Oliveira Fer...,T P,172123
-35,Diego Riba ...,Diego Ribas da Cunha,T P,152138 32 Pedro Rocha,Pedro Rocha Neves,T P,379462
-2,Rodinei,Rodinei Marcelo de A ...,R P,353568 4 Kannemann,Walter Kannemann,R P,554626
-7,Marcelo,Marcelo Cirino da Silva,R P,293440 6 Fred,Frederico Burgel Xavier,R P,172404
-19,Alan Patrick,Alan Patrick Lourenço,R P,305976 15 Rafael Thy ...,Rafael Thyere de Alb...,R P,313474
-23,Mancuello,Federico Andres Manc ...,R P,541197 20 Leo,Leonardo Cesar Jardim,R P,323637
-25,Donatti,Alejandro Cesar Donatti,R P,554372 27 Lincoln,Lincoln Henrique Oli...,R P,421665
-30,Chiquinho,Francisco Sousa dos  ...,R P,175503 28 Kaio,Kaio Silva Mendes,R P,359493
-31,Fernandinho,Luiz Fernando Pereir ...,R P,173277 29 Tilica,Leonardo Costa Silva,R P,345823
-37,Adryan,Adryan Oliveira Tavares,R P,307097 30 Bruno Grassi,Bruno Medeiros Grassi,R P,172342
-41,Ronaldo,Ronaldo da Silva Souza,R P,405698 34 Iago,Iago Sampaio Silva,R P,308774
-43,Leonardo,Leonardo Campos Duar ...,R P,355960 38 Guilherme,Guilherme Augusto Vi...,R P,410547
-47,Felipe,Felipe dos Reis Pere ...,R P,399284 91 H. Almeida,Henrique Almeida Cai...,R P,178303
-48,Paulo Victor,Paulo Victor Mileo V ...,R P,175411,,,
-"",,Comissão Técnica
-"",Flamengo / RJ,Grêmio / RS
-Técnico:,Jose Ricardo Mannarino - cref5064,Massagista: Anderson Machado Meurer - fj472901
-Auxiliar Técnico:,Jayme De Almeida Filho - cref 037258-g,Auxiliar Técnico: James Francisco Freitas  - fp056371
-Médico:,Marcio A. Tannure - 5277379-4,Médico: Marcio Augusto Bolzoni - 12567
-Preparador Físico:,Daniel Soares Gonçalves  - 09952-g,Técnico: Roger Machado Marques - fp056134
-Massagista:,Frederico De Sá Manhaes - crefito 31097f,Treinador De GoleirosR: ogerio Augusto Godoy Da Silva - 51650320000
-Preparador De GoleiroV:i ctor Hugo Marinho Signorelli - cref 5605-g,,Preparador Físico: Rogerio Dias Luiz - 003934-g
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,10:50,Atraso:,NÃ£o Houve Entrada do mandante:,11:59,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,11:00,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,12:01,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+38,Alex Muralha,Alex Roberto Santana ...,T(g) P,177010,1,M. Grohe,Marcelo Grohe,T(g) P,168351
+"",,ComissÃ£o TÃ©cnica
+"",Flamengo / RJ,GrÃªmio / RS
+TÃ©cnico:,Jose Ricardo Mannarino - cref5064,Massagista: Anderson Machado Meurer - fj472901
+Auxiliar TÃ©cnico:,Jayme De Almeida Filho - cref 037258-g,Auxiliar TÃ©cnico: James Francisco Freitas  - fp056371
+MÃ©dico:,Marcio A. Tannure - 5277379-4,MÃ©dico: Marcio Augusto Bolzoni - 12567
+Preparador FÃ­sico:,Daniel Soares GonÃ§alves  - 09952-g,TÃ©cnico: Roger Machado Marques - fp056134
+Massagista:,Frederico De SÃ¡ Manhaes - crefito 31097f,Treinador De GoleirosR: ogerio Augusto Godoy Da Silva - 51650320000
+Preparador De GoleiroV:i ctor Hugo Marinho Signorelli - cref 5605-g,,Preparador FÃ­sico: Rogerio Dias Luiz - 003934-g
 "",,Preparador De GoleiroR:o gerio A. Godoy Da Silva - fg513012
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
-29:00,1T,18,PN,Leandro Damião da Silva dos Santos,,Flamengo/RJ
+29:00,1T,18,PN,Leandro DamiÃ£o da Silva dos Santos,,Flamengo/RJ
 25:00,2T,35,NR,Diego Ribas da Cunha,,Flamengo/RJ
-26:00,2T,91,NR,Henrique Almeida Caixeta Nascentes,,Grêmio/RS
-"",,,,Substituições,
+26:00,2T,91,NR,Henrique Almeida Caixeta Nascentes,,GrÃªmio/RS
+"",,,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,,Equipe,Entrou,Saiu
-45:00,INT,Grêmio/RS,,27 - Lincoln Henrique Oliveira ...,2 - Wallace Oliveira dos Sant ...
-12:00,2T,Flamengo/RJ,,47 - Felipe dos Reis Pereira V ...,18 - Leandro Damião da Silva d ...
-16:00,2T,Flamengo/RJ,,19 - Alan Patrick Lourenço,17 - Gabriel Santana Pinto
-19:00,2T,Grêmio/RS,,91 - Henrique Almeida Caixeta  ...,23 - Miler Alejandro Bolanos R ...
-34:00,2T,Grêmio/RS,,38 - Guilherme Augusto Vieira  ...,11 - Everton Sousa Soares
+45:00,INT,GrÃªmio/RS,,27 - Lincoln Henrique Oliveira ...,2 - Wallace Oliveira dos Sant ...
+12:00,2T,Flamengo/RJ,,47 - Felipe dos Reis Pereira V ...,18 - Leandro DamiÃ£o da Silva d ...
+16:00,2T,Flamengo/RJ,,19 - Alan Patrick LourenÃ§o,17 - Gabriel Santana Pinto
+19:00,2T,GrÃªmio/RS,,91 - Henrique Almeida Caixeta  ...,23 - Miler Alejandro Bolanos R ...
+34:00,2T,GrÃªmio/RS,,38 - Guilherme Augusto Vieira  ...,11 - Everton Sousa Soares
 35:00,2T,Flamengo/RJ,,23 - Federico Andres Mancuello ...,35 - Diego Ribas da Cunha

@@ -6,36 +6,19 @@ Quarto Arbitro:,Vinicius Goncalves Dias Araujo (CBF-2 / SP),
 Delegado  Especial:,Dionisio Roberto Domingos (000 / BRA),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,20:48Atraso:,,Não Houve Entrada do mandante: 22:00,Atraso:,,Não Houve
-Entrada do visitante:,20:50Atraso:,,Não Houve Entrada do visitante: 22:02,Atraso:,,1 min
-Início 1o Tempo:,21:00 Atraso:,,Não Houve Início do 2o Tempo: 22:02,Atraso:,,1 min
-Término do 1o Tempo:,21:46 Acréscimo:,,1 min Término do 2o Tempo: 22:50,Acréscimo:,,3 min
+Entrada do mandante:,20:48Atraso:,,NÃ£o Houve Entrada do mandante: 22:00,Atraso:,,NÃ£o Houve
+Entrada do visitante:,20:50Atraso:,,NÃ£o Houve Entrada do visitante: 22:02,Atraso:,,1 min
+InÃ­cio 1o Tempo:,21:00 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 22:02,Atraso:,,1 min
+TÃ©rmino do 1o Tempo:,21:46 AcrÃ©scimo:,,1 min TÃ©rmino do 2o Tempo: 22:50,AcrÃ©scimo:,,3 min
 Resultado do 1o Tempo: 0 x 1,,,Resultado Final: 0 x 3,,,
-"",,,,Relação de Jogadores,,,
-"",,Bragantino / SP,,,Criciúma / SC,,
-No,Apelido,Nome Completo,T/R P/A,CBF No Apelido,Nome Completo T/R P/A,,CBF
-1,Lauro,Lauro Junior Batista ...,T P,139461 1 Luiz Silva ...,Luiz Silva Filho,T P,155426
-3,Antonio,Antonio Ferreira de  ...,T P,159790 2 Maicon,Maicon da Silva Macedo,T P,295087
-4,Fernando,Fernando Fernandes R ...,T P,307295 3 Rafael,Rafael Pereira dos S...,T P,170563
-5,Dilsinho,Adilson Carlos Tavar ...,T P,291874 4 Iago,Iago Justen Maidana ...,T P,412852
-6,Pará,Erinaldo Santos Rabelo,T P,170254 5 Ruan,Ruan Luiz Santos da ...,T P,417475
-7,Joao,Joao Vitor Pereira d ...,T P,339385 6 Romulo,Romulo Rafael da Silva,T P,366885
-8,Leo Gago,Leonardo David de Moura,T P,162945 7 Barreto,Gustavo Bonatto Barreto,T P,360443
-9,Diego,Diego Mauricio Macha ...,T P,291614 8 Douglas,Douglas Moreira Fagundes,T P,354201
-10,Caio,Antonio Caio Silva Sousa,T P,144165 9 Paulinho,Paulo Sergio Luiz de...,T P,178294
-11,Erick,Erick Luis Palma dos ...,T P,333705 10 Vitor,Vitor Michels Geremias,T P,369608
-22,Bruno,Bruno Ferreira dos S ...,T P,355297 11 Bruno,Bruno Henrique Lopes,T P,310101
-12,Gilson,Gilson Rodrigo Franc ...,R P,140020 12 Edson,Edson Mardden Alves ...,R P,296573
-13,Wellington,Wellington Oliveira  ...,R P,183713 13 Ianson,Ianson Acosta Soares,R P,311522
-14,Francisco,Francisco Lisvaldo D ...,R P,364594 14 Tarracha,Danilo Vettori Amaro,R P,173602
-15,Graciano,Graciano Junior Gonç ...,R P,351450 15 Ezequiel,Ezequiel Jacinto de ...,R P,302436
-16,Welton,Welton Heleno dos Santos,R P,366913 16 Roger,Roger Krug Guedes,R P,389307
-17,Uchoa,Anderson Uchoa dos S ...,R P,183385 17 Jefferson,Jefferson Victor Mac...,R P,404823
-18,Guilherme,Guilherme Costa Mach ...,R P,308880 18 Neto,Edy Bueno de Menezes...,R P,361724
-19,Pedro,Pedro Henrique Bueno,R P,331838,,,
-20,Wilker,Wilker Henrique da Silva,R P,327724,,,
-"",,Comissão Técnica,
-"",Bragantino / SP,,Criciúma / SC
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,20:48,Atraso:,NÃ£o Houve Entrada do mandante:,22:00,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,21:00,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,22:02,Atraso:,1 min
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+1,Lauro,Lauro Junior Batista ...,T P,139461,1,Luiz Silva ...,Luiz Silva Filho,T P,155426
+"",,ComissÃ£o TÃ©cnica,
+"",Bragantino / SP,,CriciÃºma / SC
 Tecnico:,Osmar Loss Vieira - 2062442138,Tecnico:,Moacir Vieira De Araujo Junior  - 2932001
 Auxiliar Tecnico:,Thiago Gomes Pacheco - 4086423516,Auxiliar Tecnico:,Altair Coimbra - 2590095
 Medico:,Andre Paraiso Forti - 86903,Medico:,Manoel Robson Damin Monteiro - 14279
@@ -43,14 +26,14 @@ Preparador Fisico:,Leandro Serafim Da Silva - 084103,Preparador Fisico:,Leonardo
 Massagista:,Marcus Vinicius Braga Do Espirito Santo - 37790714-5,Massagista:,Fabio Cristhian Jansen  - 3394903
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
-13:00,1T,11,NR,Bruno Henrique Lopes,,Criciúma/SC
-34:00,2T,9,NR,Paulo Sergio Luiz de Souza,,Criciúma/SC
-+2,2T,17,NR,Jefferson Victor Machado Ambrosio,,Criciúma/SC
-"",,,Substituições,
+13:00,1T,11,NR,Bruno Henrique Lopes,,CriciÃºma/SC
+34:00,2T,9,NR,Paulo Sergio Luiz de Souza,,CriciÃºma/SC
++2,2T,17,NR,Jefferson Victor Machado Ambrosio,,CriciÃºma/SC
+"",,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 09:00,2T,Bragantino/SP,20 - Wilker Henrique da Silva,7 - Joao Vitor Pereira de Alc ...
-17:00,2T,Criciúma/SC,17 - Jefferson Victor Machado  ...,10 - Vitor Michels Geremias
-30:00,2T,Criciúma/SC,15 - Ezequiel Jacinto de Biasi ...,11 - Bruno Henrique Lopes
+17:00,2T,CriciÃºma/SC,17 - Jefferson Victor Machado  ...,10 - Vitor Michels Geremias
+30:00,2T,CriciÃºma/SC,15 - Ezequiel Jacinto de Biasi ...,11 - Bruno Henrique Lopes
 33:00,2T,Bragantino/SP,14 - Francisco Lisvaldo Daniel ...,9 - Diego Mauricio Machado de ...
 40:00,2T,Bragantino/SP,18 - Guilherme Costa Machado S ...,5 - Adilson Carlos Tavares Fi ...
-44:00,2T,Criciúma/SC,16 - Roger Krug Guedes,8 - Douglas Moreira Fagundes
+44:00,2T,CriciÃºma/SC,16 - Roger Krug Guedes,8 - Douglas Moreira Fagundes

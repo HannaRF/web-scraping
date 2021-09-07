@@ -1,6 +1,6 @@
-Campeonato:,Campeonato Brasileiro - Série A/2019,,Rodada:,20
-Jogo:,Botafogo / RJ X São Paulo / SP,,,
-Data:,21/09/2019 Horário: 11:00 Estádio:,Nilton Santos / Rio de Janeiro,,
+Campeonato:,Campeonato Brasileiro - SÃ©rie A/2019,,Rodada:,20
+Jogo:,Botafogo / RJ X SÃ£o Paulo / SP,,,
+Data:,21/09/2019 HorÃ¡rio: 11:00 EstÃ¡dio:,Nilton Santos / Rio de Janeiro,,
 "",Arbitragem
 Arbitro:,Jean Pierre Goncalves Lima (AB / RS)
 Arbitro Assistente 1:,Jorge Eduardo Bernardi (AB / RS)
@@ -13,13 +13,13 @@ AVAR1:,Jonathan Benkenstein Pinheiro (CD / RS)
 AVAR2:,Jose Eduardo Calza (AB / RS)
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,10:50Atraso:,,Não Houve Entrada do mandante: 12:00,,Atraso:,Não Houve
-Entrada do visitante:,10:50Atraso:,,Não Houve Entrada do visitante: 12:00,,Atraso:,Não Houve
-Início 1o Tempo:,11:00Atraso:,,Não Houve Início do 2o Tempo: 12:03,,Atraso:,Não Houve
-Término do 1o Tempo:,11:48Acréscimo:,,3 min Término do 2o Tempo: 12:54,Acréscimo:,,6 min
+Entrada do mandante:,10:50Atraso:,,NÃ£o Houve Entrada do mandante: 12:00,,Atraso:,NÃ£o Houve
+Entrada do visitante:,10:50Atraso:,,NÃ£o Houve Entrada do visitante: 12:00,,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,11:00Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 12:03,,Atraso:,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,11:48AcrÃ©scimo:,,3 min TÃ©rmino do 2o Tempo: 12:54,AcrÃ©scimo:,,6 min
 Resultado do 1o Tempo: 1 X 1,,,Resultado Final: 1 X 2,,,
-"",,,,,Relação de Jogadores,,,,
-"",,Botafogo / RJ,,,,São Paulo / SP,,,
+"",,,,,RelaÃ§Ã£o de Jogadores,,,,
+"",,Botafogo / RJ,,,,SÃ£o Paulo / SP,,,
 No,Apelido,Nome Completo T/R,,P/A,CBF No Apelido,Nome Completo T/R,,P/A,CBF
 1,Gatito Fer ...,Roberto Junior Ferna ... T(g),,P,511533 23 Tiago Volpi,Tiago Luis Volpi T(g),,P,291584
 2,Gabriel Co ...,Gabriel Costa Franca T,,P,318309 3 Bruno Alves,Bruno Fabiano Alves T,,P,312015
@@ -30,15 +30,15 @@ No,Apelido,Nome Completo T/R,,P/A,CBF No Apelido,Nome Completo T/R,,P/A,CBF
 9,Luiz Fernando,Luiz Fernando Moraes ... T,,P,451607 13 Luan Silva,Luan Vinicius da Sil ... T,,P,432222
 11,Gustavo,Gustavo Costa da Sil ... T,,P,308427 15 Hernanes,Anderson Hernanes de ... T,,P,173861
 13,Fernando,Fernando Peixoto Costanza T,,P,308413 20 Juanfran,Juan Francisco Torre ... T,,P,677535
-14,Marcelo,Marcelo da Conceiçao ... T,,P,402719 28 Tche Tche,Danilo das Neves Pinheiro T,,P,308348
-29,Victor Rangel,Victor Neves Rangel T,,P,359362 44 Jonas Toró,Jonas Gabriel da Sil ... T,,P,551154
+14,Marcelo,Marcelo da ConceiÃ§ao ... T,,P,402719 28 Tche Tche,Danilo das Neves Pinheiro T,,P,308348
+29,Victor Rangel,Victor Neves Rangel T,,P,359362 44 Jonas TorÃ³,Jonas Gabriel da Sil ... T,,P,551154
 12,Diego Cava ...,Diego Cavalieri R(g),,P,137990 1 Jean,Jean Paulo Fernandes ... R(g),,P,420409
 17,Pimpao,Rodrigo Pimpao Vianna R,,P,291732 2 Igor,Igor Vinicius de Souza R,,P,355675
 19,Alan Santos,Alan Santos da Silva R,,P,186142 4 Anderson,Anderson Vieira Martins R,,P,166258
-20,Leo Valencia,Leonardo Felipe Vale ... R,,P,598963 11 Hélio Junio,Helio Junio Nunes de ... R,,P,464258
+20,Leo Valencia,Leonardo Felipe Vale ... R,,P,598963 11 HÃ©lio Junio,Helio Junio Nunes de ... R,,P,464258
 21,Lucas,Lucas da Silva Ribei ... R,,P,421719 12 Vitor Bueno,Vitor Frezarin Bueno R,,P,322748
 23,Victor,Victor Hugo Soares d ... R,,P,355418 14 Igor,Igor Matheus Liziero ... R,,P,344934
-25,Wenderson,Wenderson da Silva C ... R,,P,442409 16 Léo,Leonardo Pinheiro da ... R,,P,346294
+25,Wenderson,Wenderson da Silva C ... R,,P,442409 16 LÃ©o,Leonardo Pinheiro da ... R,,P,346294
 26,Lucas,Lucas Barros da Cunha R,,P,459988 21 Raniel,Raniel Santana de Va ... R,,P,447783
 27,Rickson,Rickson Barbosa Sa d ... R,,P,317454 22 Everton,Everton Cardoso da Silva R,,P,178361
 30,Vinicius,Vinicius Rodolfo de  ... R,,P,387150 25 Hudson,Hudson Rodrigues dos ... R,,P,176729
@@ -54,66 +54,66 @@ No,Apelido,Nome Completo T/R,,P/A,CBF,No,Apelido,Nome Completo T/R,,P/A,CBF
 9,Luiz Fernando,Luiz Fernando Moraes ... T,,P,451607,13,Luan Silva,Luan Vinicius da Sil ... T,,P,432222
 11,Gustavo,Gustavo Costa da Sil ... T,,P,308427,15,Hernanes,Anderson Hernanes de ... T,,P,173861
 13,Fernando,Fernando Peixoto Costanza T,,P,308413,20,Juanfran,Juan Francisco Torre ... T,,P,677535
-14,Marcelo,Marcelo da Conceiçao ... T,,P,402719,28,Tche Tche,Danilo das Neves Pinheiro T,,P,308348
-29,Victor Rangel,Victor Neves Rangel T,,P,359362,44,Jonas Toró,Jonas Gabriel da Sil ... T,,P,551154
+14,Marcelo,Marcelo da ConceiÃ§ao ... T,,P,402719,28,Tche Tche,Danilo das Neves Pinheiro T,,P,308348
+29,Victor Rangel,Victor Neves Rangel T,,P,359362,44,Jonas TorÃ³,Jonas Gabriel da Sil ... T,,P,551154
 12,Diego Cava ...,Diego Cavalieri R(g),,P,137990,1,Jean,Jean Paulo Fernandes ... R(g),,P,420409
 17,Pimpao,Rodrigo Pimpao Vianna R,,P,291732,2,Igor,Igor Vinicius de Souza R,,P,355675
 19,Alan Santos,Alan Santos da Silva R,,P,186142,4,Anderson,Anderson Vieira Martins R,,P,166258
-20,Leo Valencia,Leonardo Felipe Vale ... R,,P,598963,11,Hélio Junio,Helio Junio Nunes de ... R,,P,464258
+20,Leo Valencia,Leonardo Felipe Vale ... R,,P,598963,11,HÃ©lio Junio,Helio Junio Nunes de ... R,,P,464258
 21,Lucas,Lucas da Silva Ribei ... R,,P,421719,12,Vitor Bueno,Vitor Frezarin Bueno R,,P,322748
 23,Victor,Victor Hugo Soares d ... R,,P,355418,14,Igor,Igor Matheus Liziero ... R,,P,344934
-25,Wenderson,Wenderson da Silva C ... R,,P,442409,16,Léo,Leonardo Pinheiro da ... R,,P,346294
+25,Wenderson,Wenderson da Silva C ... R,,P,442409,16,LÃ©o,Leonardo Pinheiro da ... R,,P,346294
 26,Lucas,Lucas Barros da Cunha R,,P,459988,21,Raniel,Raniel Santana de Va ... R,,P,447783
 27,Rickson,Rickson Barbosa Sa d ... R,,P,317454,22,Everton,Everton Cardoso da Silva R,,P,178361
 30,Vinicius,Vinicius Rodolfo de  ... R,,P,387150,25,Hudson,Hudson Rodrigues dos ... R,,P,176729
 33,Marcos Vin ...,Marcos Vinicius de J ... R,,P,370756,26,Igor,Igor Silveira Gomes R,,P,337713
 34,Luiz Henrique,Luiz Henrique Pachu Lira R,,P,402852,39,Antony,Antony Matheus dos Santos R,,P,442146
-"",,Comissão Técnica,
-"",Botafogo / RJ,,São Paulo / SP
-Técnico:,Eduardo De Souza Barroca,Técnico:,Alexi Stival
-Auxiliar Técnico:,Bruno Amorim Lazaroni,Auxiliar Técnico:,Avlamir Dirceo Stival
-Médico:,Salvio Lucio De Almeida Magalhaes,Médico:,Carlos Tadeu Moreno
+"",,ComissÃ£o TÃ©cnica,
+"",Botafogo / RJ,,SÃ£o Paulo / SP
+TÃ©cnico:,Eduardo De Souza Barroca,TÃ©cnico:,Alexi Stival
+Auxiliar TÃ©cnico:,Bruno Amorim Lazaroni,Auxiliar TÃ©cnico:,Avlamir Dirceo Stival
+MÃ©dico:,Salvio Lucio De Almeida Magalhaes,MÃ©dico:,Carlos Tadeu Moreno
 Treinador De Goleiros:,Flavio De Britto Pereira Tenius,Treinador De Goleiros:,Marco Antonio Trocourt
-Preparador Físico:,Anderson Leal Gomes,Preparador Físico:,Pedro Augusto Biccari Franco De Campos
+Preparador FÃ­sico:,Anderson Leal Gomes,Preparador FÃ­sico:,Pedro Augusto Biccari Franco De Campos
 Massagista:,Wagner Carvalho De Oliveira,Massagista:,Almir Rosano De Oliveira Lima
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
-36:00,1T,15,NR,Anderson Hernanes de Carvalho Viana Lima,,São Paulo/SP
+36:00,1T,15,NR,Anderson Hernanes de Carvalho Viana Lima,,SÃ£o Paulo/SP
 45:00,1T,5,NR,Joao Paulo Mior,,Botafogo/RJ
-+1,2T,9,NR,Pablo Felipe Teixeira,,São Paulo/SP
-"Ocorrências / ObservaçõesAntes do início da partida, foi realizada uma homenagem póstuma aos senhores: tarssis mesquita da motta farias, policial e sócio-torcedormorto em ação; rafael teixeira rocha, sócio-proprietário do clube botafogo; paulo sergio felix cardoso, sócio-proprietário do botafogo; marcosvalerio da silva proença; marco aurelio benevenuto malaquias, pai do atleta marcelo benevenuto e josely almeida dos santos, mão do atletareydson das categorias de base do clube botafogo.Motivo de atraso no início e/ou reinício, e de acréscimos:Não houve atraso no início e reinício da partida. houve acréscimos de 3 (três) e 6 (seis) minutos no primeiro e segundo tempo, respectivamente, devido aparalisações para substituições, reposições de bola em jogo, atendimentos médicos.Observações EventuaisNada houve.Relatório do AssistenteNada a declarar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu13:002TSão Paulo/SP22 - Everton Cardoso da Silva15 - Anderson Hernanes de Carvalh...13:002TSão Paulo/SP39 - Antony Matheus dos Santos44 - Jonas Gabriel da Silva Nunes20:002TBotafogo/RJ20 - Leonardo Felipe Valencia Ros...11 - Gustavo Costa da Silva Machado29:002TBotafogo/RJ17 - Rodrigo Pimpao Vianna29 - Victor Neves Rangel40:002TSão Paulo/SP26 - Igor Silveira Gomes13 - Luan Vinicius da Silva Santos43:002TBotafogo/RJ19 - Alan Santos da Silva9 - Luiz Fernando Moraes dos San...",,,,
-Substituições,,,,
++1,2T,9,NR,Pablo Felipe Teixeira,,SÃ£o Paulo/SP
+"OcorrÃªncias / ObservaÃ§ÃµesAntes do inÃ­cio da partida, foi realizada uma homenagem pÃ³stuma aos senhores: tarssis mesquita da motta farias, policial e sÃ³cio-torcedormorto em aÃ§Ã£o; rafael teixeira rocha, sÃ³cio-proprietÃ¡rio do clube botafogo; paulo sergio felix cardoso, sÃ³cio-proprietÃ¡rio do botafogo; marcosvalerio da silva proenÃ§a; marco aurelio benevenuto malaquias, pai do atleta marcelo benevenuto e josely almeida dos santos, mÃ£o do atletareydson das categorias de base do clube botafogo.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:NÃ£o houve atraso no inÃ­cio e reinÃ­cio da partida. houve acrÃ©scimos de 3 (trÃªs) e 6 (seis) minutos no primeiro e segundo tempo, respectivamente, devido aparalisaÃ§Ãµes para substituiÃ§Ãµes, reposiÃ§Ãµes de bola em jogo, atendimentos mÃ©dicos.ObservaÃ§Ãµes EventuaisNada houve.RelatÃ³rio do AssistenteNada a declarar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu13:002TSÃ£o Paulo/SP22 - Everton Cardoso da Silva15 - Anderson Hernanes de Carvalh...13:002TSÃ£o Paulo/SP39 - Antony Matheus dos Santos44 - Jonas Gabriel da Silva Nunes20:002TBotafogo/RJ20 - Leonardo Felipe Valencia Ros...11 - Gustavo Costa da Silva Machado29:002TBotafogo/RJ17 - Rodrigo Pimpao Vianna29 - Victor Neves Rangel40:002TSÃ£o Paulo/SP26 - Igor Silveira Gomes13 - Luan Vinicius da Silva Santos43:002TBotafogo/RJ19 - Alan Santos da Silva9 - Luiz Fernando Moraes dos San...",,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
-13:00,2T,São Paulo/SP,22 - Everton Cardoso da Silva,15 - Anderson Hernanes de Carvalh...
-13:00,2T,São Paulo/SP,39 - Antony Matheus dos Santos,44 - Jonas Gabriel da Silva Nunes
+13:00,2T,SÃ£o Paulo/SP,22 - Everton Cardoso da Silva,15 - Anderson Hernanes de Carvalh...
+13:00,2T,SÃ£o Paulo/SP,39 - Antony Matheus dos Santos,44 - Jonas Gabriel da Silva Nunes
 20:00,2T,Botafogo/RJ,20 - Leonardo Felipe Valencia Ros...,11 - Gustavo Costa da Silva Machado
 29:00,2T,Botafogo/RJ,17 - Rodrigo Pimpao Vianna,29 - Victor Neves Rangel
-40:00,2T,São Paulo/SP,26 - Igor Silveira Gomes,13 - Luan Vinicius da Silva Santos
+40:00,2T,SÃ£o Paulo/SP,26 - Igor Silveira Gomes,13 - Luan Vinicius da Silva Santos
 43:00,2T,Botafogo/RJ,19 - Alan Santos da Silva,9 - Luiz Fernando Moraes dos San...
-"Ocorrências / ObservaçõesAntes do início da partida, foi realizada uma homenagem póstuma aos senhores: tarssis mesquita da motta farias, policial e sócio-torcedormorto em ação; rafael teixeira rocha, sócio-proprietário do clube botafogo; paulo sergio felix cardoso, sócio-proprietário do botafogo; marcosvalerio da silva proença; marco aurelio benevenuto malaquias, pai do atleta marcelo benevenuto e josely almeida dos santos, mão do atletareydson das categorias de base do clube botafogo.Motivo de atraso no início e/ou reinício, e de acréscimos:Não houve atraso no início e reinício da partida. houve acréscimos de 3 (três) e 6 (seis) minutos no primeiro e segundo tempo, respectivamente, devido aparalisações para substituições, reposições de bola em jogo, atendimentos médicos.Observações EventuaisNada houve.Relatório do AssistenteNada a declarar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu13:002TSão Paulo/SP22 - Everton Cardoso da Silva15 - Anderson Hernanes de Carvalh...13:002TSão Paulo/SP39 - Antony Matheus dos Santos44 - Jonas Gabriel da Silva Nunes20:002TBotafogo/RJ20 - Leonardo Felipe Valencia Ros...11 - Gustavo Costa da Silva Machado29:002TBotafogo/RJ17 - Rodrigo Pimpao Vianna29 - Victor Neves Rangel40:002TSão Paulo/SP26 - Igor Silveira Gomes13 - Luan Vinicius da Silva Santos43:002TBotafogo/RJ19 - Alan Santos da Silva9 - Luiz Fernando Moraes dos San..."
-Observações Eventuais
+"OcorrÃªncias / ObservaÃ§ÃµesAntes do inÃ­cio da partida, foi realizada uma homenagem pÃ³stuma aos senhores: tarssis mesquita da motta farias, policial e sÃ³cio-torcedormorto em aÃ§Ã£o; rafael teixeira rocha, sÃ³cio-proprietÃ¡rio do clube botafogo; paulo sergio felix cardoso, sÃ³cio-proprietÃ¡rio do botafogo; marcosvalerio da silva proenÃ§a; marco aurelio benevenuto malaquias, pai do atleta marcelo benevenuto e josely almeida dos santos, mÃ£o do atletareydson das categorias de base do clube botafogo.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:NÃ£o houve atraso no inÃ­cio e reinÃ­cio da partida. houve acrÃ©scimos de 3 (trÃªs) e 6 (seis) minutos no primeiro e segundo tempo, respectivamente, devido aparalisaÃ§Ãµes para substituiÃ§Ãµes, reposiÃ§Ãµes de bola em jogo, atendimentos mÃ©dicos.ObservaÃ§Ãµes EventuaisNada houve.RelatÃ³rio do AssistenteNada a declarar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu13:002TSÃ£o Paulo/SP22 - Everton Cardoso da Silva15 - Anderson Hernanes de Carvalh...13:002TSÃ£o Paulo/SP39 - Antony Matheus dos Santos44 - Jonas Gabriel da Silva Nunes20:002TBotafogo/RJ20 - Leonardo Felipe Valencia Ros...11 - Gustavo Costa da Silva Machado29:002TBotafogo/RJ17 - Rodrigo Pimpao Vianna29 - Victor Neves Rangel40:002TSÃ£o Paulo/SP26 - Igor Silveira Gomes13 - Luan Vinicius da Silva Santos43:002TBotafogo/RJ19 - Alan Santos da Silva9 - Luiz Fernando Moraes dos San..."
+ObservaÃ§Ãµes Eventuais
 Nada houve.
-"Ocorrências / ObservaçõesAntes do início da partida, foi realizada uma homenagem póstuma aos senhores: tarssis mesquita da motta farias, policial e sócio-torcedormorto em ação; rafael teixeira rocha, sócio-proprietário do clube botafogo; paulo sergio felix cardoso, sócio-proprietário do botafogo; marcosvalerio da silva proença; marco aurelio benevenuto malaquias, pai do atleta marcelo benevenuto e josely almeida dos santos, mão do atletareydson das categorias de base do clube botafogo.Motivo de atraso no início e/ou reinício, e de acréscimos:Não houve atraso no início e reinício da partida. houve acréscimos de 3 (três) e 6 (seis) minutos no primeiro e segundo tempo, respectivamente, devido aparalisações para substituições, reposições de bola em jogo, atendimentos médicos.Observações EventuaisNada houve.Relatório do AssistenteNada a declarar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu13:002TSão Paulo/SP22 - Everton Cardoso da Silva15 - Anderson Hernanes de Carvalh...13:002TSão Paulo/SP39 - Antony Matheus dos Santos44 - Jonas Gabriel da Silva Nunes20:002TBotafogo/RJ20 - Leonardo Felipe Valencia Ros...11 - Gustavo Costa da Silva Machado29:002TBotafogo/RJ17 - Rodrigo Pimpao Vianna29 - Victor Neves Rangel40:002TSão Paulo/SP26 - Igor Silveira Gomes13 - Luan Vinicius da Silva Santos43:002TBotafogo/RJ19 - Alan Santos da Silva9 - Luiz Fernando Moraes dos San..."
-Ocorrências / Observações
-"Antes do início da partida, foi realizada uma homenagem póstuma aos senhores: tarssis mesquita da motta farias, policial e sócio-torcedormorto em ação; rafael teixeira rocha, sócio-proprietário do clube botafogo; paulo sergio felix cardoso, sócio-proprietário do botafogo; marcosvalerio da silva proença; marco aurelio benevenuto malaquias, pai do atleta marcelo benevenuto e josely almeida dos santos, mão do atletareydson das categorias de base do clube botafogo."
-"Ocorrências / ObservaçõesAntes do início da partida, foi realizada uma homenagem póstuma aos senhores: tarssis mesquita da motta farias, policial e sócio-torcedormorto em ação; rafael teixeira rocha, sócio-proprietário do clube botafogo; paulo sergio felix cardoso, sócio-proprietário do botafogo; marcosvalerio da silva proença; marco aurelio benevenuto malaquias, pai do atleta marcelo benevenuto e josely almeida dos santos, mão do atletareydson das categorias de base do clube botafogo.Motivo de atraso no início e/ou reinício, e de acréscimos:Não houve atraso no início e reinício da partida. houve acréscimos de 3 (três) e 6 (seis) minutos no primeiro e segundo tempo, respectivamente, devido aparalisações para substituições, reposições de bola em jogo, atendimentos médicos.Observações EventuaisNada houve.Relatório do AssistenteNada a declarar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu13:002TSão Paulo/SP22 - Everton Cardoso da Silva15 - Anderson Hernanes de Carvalh...13:002TSão Paulo/SP39 - Antony Matheus dos Santos44 - Jonas Gabriel da Silva Nunes20:002TBotafogo/RJ20 - Leonardo Felipe Valencia Ros...11 - Gustavo Costa da Silva Machado29:002TBotafogo/RJ17 - Rodrigo Pimpao Vianna29 - Victor Neves Rangel40:002TSão Paulo/SP26 - Igor Silveira Gomes13 - Luan Vinicius da Silva Santos43:002TBotafogo/RJ19 - Alan Santos da Silva9 - Luiz Fernando Moraes dos San...",,,,
-Ocorrências / Observações,,,,
-"Antes do início da partida, foi realizada uma homenagem póstuma aos senhores: tarssis mesquita da motta farias, policial e sócio-torcedormorto em ação; rafael teixeira rocha, sócio-proprietário do clube botafogo; paulo sergio felix cardoso, sócio-proprietário do botafogo; marcosvalerio da silva proença; marco aurelio benevenuto malaquias, pai do atleta marcelo benevenuto e josely almeida dos santos, mão do atletareydson das categorias de base do clube botafogo.",,,,
-"Motivo de atraso no início e/ou reinício, e de acréscimos:Não houve atraso no início e reinício da partida. houve acréscimos de 3 (três) e 6 (seis) minutos no primeiro e segundo tempo, respectivamente, devido aparalisações para substituições, reposições de bola em jogo, atendimentos médicos.",,,,
-Observações Eventuais,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesAntes do inÃ­cio da partida, foi realizada uma homenagem pÃ³stuma aos senhores: tarssis mesquita da motta farias, policial e sÃ³cio-torcedormorto em aÃ§Ã£o; rafael teixeira rocha, sÃ³cio-proprietÃ¡rio do clube botafogo; paulo sergio felix cardoso, sÃ³cio-proprietÃ¡rio do botafogo; marcosvalerio da silva proenÃ§a; marco aurelio benevenuto malaquias, pai do atleta marcelo benevenuto e josely almeida dos santos, mÃ£o do atletareydson das categorias de base do clube botafogo.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:NÃ£o houve atraso no inÃ­cio e reinÃ­cio da partida. houve acrÃ©scimos de 3 (trÃªs) e 6 (seis) minutos no primeiro e segundo tempo, respectivamente, devido aparalisaÃ§Ãµes para substituiÃ§Ãµes, reposiÃ§Ãµes de bola em jogo, atendimentos mÃ©dicos.ObservaÃ§Ãµes EventuaisNada houve.RelatÃ³rio do AssistenteNada a declarar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu13:002TSÃ£o Paulo/SP22 - Everton Cardoso da Silva15 - Anderson Hernanes de Carvalh...13:002TSÃ£o Paulo/SP39 - Antony Matheus dos Santos44 - Jonas Gabriel da Silva Nunes20:002TBotafogo/RJ20 - Leonardo Felipe Valencia Ros...11 - Gustavo Costa da Silva Machado29:002TBotafogo/RJ17 - Rodrigo Pimpao Vianna29 - Victor Neves Rangel40:002TSÃ£o Paulo/SP26 - Igor Silveira Gomes13 - Luan Vinicius da Silva Santos43:002TBotafogo/RJ19 - Alan Santos da Silva9 - Luiz Fernando Moraes dos San..."
+OcorrÃªncias / ObservaÃ§Ãµes
+"Antes do inÃ­cio da partida, foi realizada uma homenagem pÃ³stuma aos senhores: tarssis mesquita da motta farias, policial e sÃ³cio-torcedormorto em aÃ§Ã£o; rafael teixeira rocha, sÃ³cio-proprietÃ¡rio do clube botafogo; paulo sergio felix cardoso, sÃ³cio-proprietÃ¡rio do botafogo; marcosvalerio da silva proenÃ§a; marco aurelio benevenuto malaquias, pai do atleta marcelo benevenuto e josely almeida dos santos, mÃ£o do atletareydson das categorias de base do clube botafogo."
+"OcorrÃªncias / ObservaÃ§ÃµesAntes do inÃ­cio da partida, foi realizada uma homenagem pÃ³stuma aos senhores: tarssis mesquita da motta farias, policial e sÃ³cio-torcedormorto em aÃ§Ã£o; rafael teixeira rocha, sÃ³cio-proprietÃ¡rio do clube botafogo; paulo sergio felix cardoso, sÃ³cio-proprietÃ¡rio do botafogo; marcosvalerio da silva proenÃ§a; marco aurelio benevenuto malaquias, pai do atleta marcelo benevenuto e josely almeida dos santos, mÃ£o do atletareydson das categorias de base do clube botafogo.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:NÃ£o houve atraso no inÃ­cio e reinÃ­cio da partida. houve acrÃ©scimos de 3 (trÃªs) e 6 (seis) minutos no primeiro e segundo tempo, respectivamente, devido aparalisaÃ§Ãµes para substituiÃ§Ãµes, reposiÃ§Ãµes de bola em jogo, atendimentos mÃ©dicos.ObservaÃ§Ãµes EventuaisNada houve.RelatÃ³rio do AssistenteNada a declarar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu13:002TSÃ£o Paulo/SP22 - Everton Cardoso da Silva15 - Anderson Hernanes de Carvalh...13:002TSÃ£o Paulo/SP39 - Antony Matheus dos Santos44 - Jonas Gabriel da Silva Nunes20:002TBotafogo/RJ20 - Leonardo Felipe Valencia Ros...11 - Gustavo Costa da Silva Machado29:002TBotafogo/RJ17 - Rodrigo Pimpao Vianna29 - Victor Neves Rangel40:002TSÃ£o Paulo/SP26 - Igor Silveira Gomes13 - Luan Vinicius da Silva Santos43:002TBotafogo/RJ19 - Alan Santos da Silva9 - Luiz Fernando Moraes dos San...",,,,
+OcorrÃªncias / ObservaÃ§Ãµes,,,,
+"Antes do inÃ­cio da partida, foi realizada uma homenagem pÃ³stuma aos senhores: tarssis mesquita da motta farias, policial e sÃ³cio-torcedormorto em aÃ§Ã£o; rafael teixeira rocha, sÃ³cio-proprietÃ¡rio do clube botafogo; paulo sergio felix cardoso, sÃ³cio-proprietÃ¡rio do botafogo; marcosvalerio da silva proenÃ§a; marco aurelio benevenuto malaquias, pai do atleta marcelo benevenuto e josely almeida dos santos, mÃ£o do atletareydson das categorias de base do clube botafogo.",,,,
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:NÃ£o houve atraso no inÃ­cio e reinÃ­cio da partida. houve acrÃ©scimos de 3 (trÃªs) e 6 (seis) minutos no primeiro e segundo tempo, respectivamente, devido aparalisaÃ§Ãµes para substituiÃ§Ãµes, reposiÃ§Ãµes de bola em jogo, atendimentos mÃ©dicos.",,,,
+ObservaÃ§Ãµes Eventuais,,,,
 Nada houve.,,,,
-Relatório do Assistente,,,,
+RelatÃ³rio do Assistente,,,,
 Nada a declarar.,,,,
-Substituições,,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
-13:00,2T,São Paulo/SP,22 - Everton Cardoso da Silva,15 - Anderson Hernanes de Carvalh...
-13:00,2T,São Paulo/SP,39 - Antony Matheus dos Santos,44 - Jonas Gabriel da Silva Nunes
+13:00,2T,SÃ£o Paulo/SP,22 - Everton Cardoso da Silva,15 - Anderson Hernanes de Carvalh...
+13:00,2T,SÃ£o Paulo/SP,39 - Antony Matheus dos Santos,44 - Jonas Gabriel da Silva Nunes
 20:00,2T,Botafogo/RJ,20 - Leonardo Felipe Valencia Ros...,11 - Gustavo Costa da Silva Machado
 29:00,2T,Botafogo/RJ,17 - Rodrigo Pimpao Vianna,29 - Victor Neves Rangel
-40:00,2T,São Paulo/SP,26 - Igor Silveira Gomes,13 - Luan Vinicius da Silva Santos
+40:00,2T,SÃ£o Paulo/SP,26 - Igor Silveira Gomes,13 - Luan Vinicius da Silva Santos
 43:00,2T,Botafogo/RJ,19 - Alan Santos da Silva,9 - Luiz Fernando Moraes dos San...
-"Ocorrências / ObservaçõesAntes do início da partida, foi realizada uma homenagem póstuma aos senhores: tarssis mesquita da motta farias, policial e sócio-torcedormorto em ação; rafael teixeira rocha, sócio-proprietário do clube botafogo; paulo sergio felix cardoso, sócio-proprietário do botafogo; marcosvalerio da silva proença; marco aurelio benevenuto malaquias, pai do atleta marcelo benevenuto e josely almeida dos santos, mão do atletareydson das categorias de base do clube botafogo.Motivo de atraso no início e/ou reinício, e de acréscimos:Não houve atraso no início e reinício da partida. houve acréscimos de 3 (três) e 6 (seis) minutos no primeiro e segundo tempo, respectivamente, devido aparalisações para substituições, reposições de bola em jogo, atendimentos médicos.Observações EventuaisNada houve.Relatório do AssistenteNada a declarar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu13:002TSão Paulo/SP22 - Everton Cardoso da Silva15 - Anderson Hernanes de Carvalh...13:002TSão Paulo/SP39 - Antony Matheus dos Santos44 - Jonas Gabriel da Silva Nunes20:002TBotafogo/RJ20 - Leonardo Felipe Valencia Ros...11 - Gustavo Costa da Silva Machado29:002TBotafogo/RJ17 - Rodrigo Pimpao Vianna29 - Victor Neves Rangel40:002TSão Paulo/SP26 - Igor Silveira Gomes13 - Luan Vinicius da Silva Santos43:002TBotafogo/RJ19 - Alan Santos da Silva9 - Luiz Fernando Moraes dos San..."
-Relatório do Assistente
+"OcorrÃªncias / ObservaÃ§ÃµesAntes do inÃ­cio da partida, foi realizada uma homenagem pÃ³stuma aos senhores: tarssis mesquita da motta farias, policial e sÃ³cio-torcedormorto em aÃ§Ã£o; rafael teixeira rocha, sÃ³cio-proprietÃ¡rio do clube botafogo; paulo sergio felix cardoso, sÃ³cio-proprietÃ¡rio do botafogo; marcosvalerio da silva proenÃ§a; marco aurelio benevenuto malaquias, pai do atleta marcelo benevenuto e josely almeida dos santos, mÃ£o do atletareydson das categorias de base do clube botafogo.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:NÃ£o houve atraso no inÃ­cio e reinÃ­cio da partida. houve acrÃ©scimos de 3 (trÃªs) e 6 (seis) minutos no primeiro e segundo tempo, respectivamente, devido aparalisaÃ§Ãµes para substituiÃ§Ãµes, reposiÃ§Ãµes de bola em jogo, atendimentos mÃ©dicos.ObservaÃ§Ãµes EventuaisNada houve.RelatÃ³rio do AssistenteNada a declarar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu13:002TSÃ£o Paulo/SP22 - Everton Cardoso da Silva15 - Anderson Hernanes de Carvalh...13:002TSÃ£o Paulo/SP39 - Antony Matheus dos Santos44 - Jonas Gabriel da Silva Nunes20:002TBotafogo/RJ20 - Leonardo Felipe Valencia Ros...11 - Gustavo Costa da Silva Machado29:002TBotafogo/RJ17 - Rodrigo Pimpao Vianna29 - Victor Neves Rangel40:002TSÃ£o Paulo/SP26 - Igor Silveira Gomes13 - Luan Vinicius da Silva Santos43:002TBotafogo/RJ19 - Alan Santos da Silva9 - Luiz Fernando Moraes dos San..."
+RelatÃ³rio do Assistente
 Nada a declarar.
-"Ocorrências / ObservaçõesAntes do início da partida, foi realizada uma homenagem póstuma aos senhores: tarssis mesquita da motta farias, policial e sócio-torcedormorto em ação; rafael teixeira rocha, sócio-proprietário do clube botafogo; paulo sergio felix cardoso, sócio-proprietário do botafogo; marcosvalerio da silva proença; marco aurelio benevenuto malaquias, pai do atleta marcelo benevenuto e josely almeida dos santos, mão do atletareydson das categorias de base do clube botafogo.Motivo de atraso no início e/ou reinício, e de acréscimos:Não houve atraso no início e reinício da partida. houve acréscimos de 3 (três) e 6 (seis) minutos no primeiro e segundo tempo, respectivamente, devido aparalisações para substituições, reposições de bola em jogo, atendimentos médicos.Observações EventuaisNada houve.Relatório do AssistenteNada a declarar.SubstituiçõesTempo1T/2TEquipeEntrouSaiu13:002TSão Paulo/SP22 - Everton Cardoso da Silva15 - Anderson Hernanes de Carvalh...13:002TSão Paulo/SP39 - Antony Matheus dos Santos44 - Jonas Gabriel da Silva Nunes20:002TBotafogo/RJ20 - Leonardo Felipe Valencia Ros...11 - Gustavo Costa da Silva Machado29:002TBotafogo/RJ17 - Rodrigo Pimpao Vianna29 - Victor Neves Rangel40:002TSão Paulo/SP26 - Igor Silveira Gomes13 - Luan Vinicius da Silva Santos43:002TBotafogo/RJ19 - Alan Santos da Silva9 - Luiz Fernando Moraes dos San..."
-"Motivo de atraso no início e/ou reinício, e de acréscimos:Não houve atraso no início e reinício da partida. houve acréscimos de 3 (três) e 6 (seis) minutos no primeiro e segundo tempo, respectivamente, devido aparalisações para substituições, reposições de bola em jogo, atendimentos médicos."
+"OcorrÃªncias / ObservaÃ§ÃµesAntes do inÃ­cio da partida, foi realizada uma homenagem pÃ³stuma aos senhores: tarssis mesquita da motta farias, policial e sÃ³cio-torcedormorto em aÃ§Ã£o; rafael teixeira rocha, sÃ³cio-proprietÃ¡rio do clube botafogo; paulo sergio felix cardoso, sÃ³cio-proprietÃ¡rio do botafogo; marcosvalerio da silva proenÃ§a; marco aurelio benevenuto malaquias, pai do atleta marcelo benevenuto e josely almeida dos santos, mÃ£o do atletareydson das categorias de base do clube botafogo.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:NÃ£o houve atraso no inÃ­cio e reinÃ­cio da partida. houve acrÃ©scimos de 3 (trÃªs) e 6 (seis) minutos no primeiro e segundo tempo, respectivamente, devido aparalisaÃ§Ãµes para substituiÃ§Ãµes, reposiÃ§Ãµes de bola em jogo, atendimentos mÃ©dicos.ObservaÃ§Ãµes EventuaisNada houve.RelatÃ³rio do AssistenteNada a declarar.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu13:002TSÃ£o Paulo/SP22 - Everton Cardoso da Silva15 - Anderson Hernanes de Carvalh...13:002TSÃ£o Paulo/SP39 - Antony Matheus dos Santos44 - Jonas Gabriel da Silva Nunes20:002TBotafogo/RJ20 - Leonardo Felipe Valencia Ros...11 - Gustavo Costa da Silva Machado29:002TBotafogo/RJ17 - Rodrigo Pimpao Vianna29 - Victor Neves Rangel40:002TSÃ£o Paulo/SP26 - Igor Silveira Gomes13 - Luan Vinicius da Silva Santos43:002TBotafogo/RJ19 - Alan Santos da Silva9 - Luiz Fernando Moraes dos San..."
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:NÃ£o houve atraso no inÃ­cio e reinÃ­cio da partida. houve acrÃ©scimos de 3 (trÃªs) e 6 (seis) minutos no primeiro e segundo tempo, respectivamente, devido aparalisaÃ§Ãµes para substituiÃ§Ãµes, reposiÃ§Ãµes de bola em jogo, atendimentos mÃ©dicos."

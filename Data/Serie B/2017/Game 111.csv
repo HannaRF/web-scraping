@@ -7,53 +7,34 @@ Delegado Local:,Rubem Martins Neto (CBF / ),
 Analista de Campo:,Aldeilma Luzia da Silva (CBF / RN),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,21:20Atraso:,,Não Houve Entrada do mandante: 22:27,Atraso:,,Não Houve
-Entrada do visitante:,21:20Atraso:,,Não Houve Entrada do visitante: 22:28,Atraso:,,Não Houve
-Início 1o Tempo:,21:30 Atraso:,,Não Houve Início do 2o Tempo: 22:30,Atraso:,,Não Houve
-Término do 1o Tempo:,22:15 Acréscimo:,,Não Houve Término do 2o Tempo: 23:20,Acréscimo:,,5 min
+Entrada do mandante:,21:20Atraso:,,NÃ£o Houve Entrada do mandante: 22:27,Atraso:,,NÃ£o Houve
+Entrada do visitante:,21:20Atraso:,,NÃ£o Houve Entrada do visitante: 22:28,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,21:30 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 22:30,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,22:15 AcrÃ©scimo:,,NÃ£o Houve TÃ©rmino do 2o Tempo: 23:20,AcrÃ©scimo:,,5 min
 Resultado do 1o Tempo: 0 X 0,,,Resultado Final: 0 X 1,,,
-"",,,,Relação de Jogadores,,,
-"",,Abc / RN,,,Náutico / PE,,
-No,Apelido,Nome Completo,T/R P/A,CBF No Apelido,Nome Completo T/R P/A,,CBF
-1,Edson,Edson Pereira Lisboa,T(g) P,160650 1 Tiago Card ...,Tiago Cardoso dos Santos T(g),P,160028
-2,Jonathan,Jonathan Ferreira da ...,T P,343392 4 Leonardo,Leonardo Moreira de ... T,P,171970
-3,Oswaldo,Oswaldo Alfredo de L ...,T P,341959 5 Amaral,Anderson Omar Lima d... T,P,292274
-4,Filipe,Filipe da Costa Figuero,T P,165107 6 Jeanderson,Jeanderson Salvador ... T,P,306136
-5,Anderson,Anderson Carvalho Tr ...,T P,160150 10 Giovanni,Giovanni Piccolomo T,P,318493
-6,Eltinho,Elton Divino Celio,T P,171945 33 Erick,Erick de Arruda Serafim T,P,441070
-7,Erivelton,Marcos Erivelton Ara ...,T P,313930 35 Breno,Carlos Breno Barroso... T,P,328765
-8,Echeverria,Eduardo Alberto Eche ...,T P,541203 52 Sueliton,Sueliton Pereira de ... T,P,171745
-9,Caio,Caio Danilo Laursen  ...,T P,341962 72 Felipe,Feliphe Gabriel Silv... T,P,425928
-10,Jenner,Jenner Zottele,T P,167128 84 Gilmar,Gilmar Silva Santos T,P,155065
-11,Guedes,Felipe Duarte Guedes,T P,189991 88 Darlan,Darlan Bispo Damasceno T,P,367406
-12,Juninho,Aparecido Beliato Junior,R(g) P,177605 32 Jefferson,Jefferson Adelino da... R(g),P,324879
-13,Tonhão,Antonio Josenildo Ro ...,R P,434738 13 Joao,Joao Ananias Jordao ... R,P,337194
-14,Leonardo,Leonardo Fortunato d ...,R P,155864 29 Aislan,Aislan Paulo Lotici Back R,P,180866
-15,Marcio,Marcio Henrique Maia ...,R P,165353 70 Jobson Souza,Jobson Souza Santos R,P,529172
-16,Marcos,Marcos Antonio Guima ...,R P,302660 71 Iago,Iago Antonio Silva S... R,P,316561
-17,Herbton,Herbton Ferreira da  ...,R P,313762 85 Esquerdinha,Rubens Raimundo da Silva R,P,298531
-18,Geirton,Geirton Marques Aires,R P,310627 95 Alison,Alison Henrique Mira R,P,375562
-19,Nando,Luis Fernando Batista,R P,177626 96 Manoel,Manoel Ferreira Lima... R,P,448273
-20,Luan,Dalberto Luan Belo,R P,389256 97 Geronimo,Geronimo da Silva Lopes R,P,411528
-21,John,John Lennon Marques  ...,R P,334314,,,
-22,Tulio,Tulio Renan Souza Xavier,R P,291978,,,
-"",,Comissão Técnica
-"",Abc / RN,Náutico / PE
-Técnico:,Eugenio Machado Souto - 3823023-SP,Técnico: Gilberto Cirilo De Campos - 3026834758-RS
-Médico:,Fabio Ferreira Freire - 5804-RN,Auxiliar Técnico: Darley Costa Pires - 1157496-GO
-Preparador Físico:,Flavio Paiva De Oliveira - 368-G/RN,Médico: Marcio Jose Torres Rafael Medeiros - 020566-PE
-Massagista:,Janilson Ribeiro Dos Santos - 713137-RN,Preparador Físico: Rafael Santos Dias - 012698-G/RS
-Auxiliar Técnico:,Ranielle Damasceno Ribeiro - 1480337-RN,Massagista: Marcelo Jorge Lins Smolianinoff - 6155681-PE
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,21:20,Atraso:,NÃ£o Houve Entrada do mandante:,22:27,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,21:30,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,22:30,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo T/R P/A,,CBF
+1,Edson,Edson Pereira Lisboa,T(g) P,160650,1,Tiago Card ...,Tiago Cardoso dos Santos T(g),P,160028
+"",,ComissÃ£o TÃ©cnica
+"",Abc / RN,NÃ¡utico / PE
+TÃ©cnico:,Eugenio Machado Souto - 3823023-SP,TÃ©cnico: Gilberto Cirilo De Campos - 3026834758-RS
+MÃ©dico:,Fabio Ferreira Freire - 5804-RN,Auxiliar TÃ©cnico: Darley Costa Pires - 1157496-GO
+Preparador FÃ­sico:,Flavio Paiva De Oliveira - 368-G/RN,MÃ©dico: Marcio Jose Torres Rafael Medeiros - 020566-PE
+Massagista:,Janilson Ribeiro Dos Santos - 713137-RN,Preparador FÃ­sico: Rafael Santos Dias - 012698-G/RS
+Auxiliar TÃ©cnico:,Ranielle Damasceno Ribeiro - 1480337-RN,Massagista: Marcelo Jorge Lins Smolianinoff - 6155681-PE
 Treinador De GoleirosW: lamir Ney Machado - 76477851091,,Preparador De GoleiroW: ashington Paulino De Araujo - 1927664-PE
 Preparador De GoleiroW: lamir Ney Machado - 34642674-SP,,
 "",,Gols
 Tempo 1T/2T,No Tipo Nome do Jogador,Equipe
-22:00 2T,84 NR Gilmar Silva Santos,Náutico/PE
-"",,,,Substituições,
+22:00 2T,84 NR Gilmar Silva Santos,NÃ¡utico/PE
+"",,,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,,Equipe,Entrou,Saiu
-20:00,2T,Náutico/PE,,96 - Manoel Ferreira Lima Neto ...,6 - Jeanderson Salvador Perei ...
+20:00,2T,NÃ¡utico/PE,,96 - Manoel Ferreira Lima Neto ...,6 - Jeanderson Salvador Perei ...
 20:00,2T,Abc/RN,,21 - John Lennon Marques Silva ...,8 - Eduardo Alberto Echeverri ...
-23:00,2T,Abc/RN,,20 - Dalberto Luan Belo,7 - Marcos Erivelton Araújo d ...
+23:00,2T,Abc/RN,,20 - Dalberto Luan Belo,7 - Marcos Erivelton AraÃºjo d ...
 28:00,2T,Abc/RN,,18 - Geirton Marques Aires,5 - Anderson Carvalho Trindad ...
-42:00,2T,Náutico/PE,,29 - Aislan Paulo Lotici Back,4 - Leonardo Moreira de Carva ...
-42:00,2T,Náutico/PE,,70 - Jobson Souza Santos,10 - Giovanni Piccolomo
+42:00,2T,NÃ¡utico/PE,,29 - Aislan Paulo Lotici Back,4 - Leonardo Moreira de Carva ...
+42:00,2T,NÃ¡utico/PE,,70 - Jobson Souza Santos,10 - Giovanni Piccolomo

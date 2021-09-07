@@ -6,36 +6,19 @@ Quarto Arbitro:,Jose Claudio Rocha Filho (CBF-2 / SP)
 Delegado  Especial:,Wilson Luiz Seneme (ASS / SP)
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,21:52Atraso:,,Não Houve Entrada do mandante: 22:59,Atraso:,,Não Houve
-Entrada do visitante:,21:52Atraso:,,Não Houve Entrada do visitante: 22:58,Atraso:,,Não Houve
-Início 1o Tempo:,22:01 Atraso:,,1 min Início do 2o Tempo: 23:01,Atraso:,,Não Houve
-Término do 1o Tempo:,22:46 Acréscimo:,,Não Houve Término do 2o Tempo: 23:50,Acréscimo:,,4 min
+Entrada do mandante:,21:52Atraso:,,NÃ£o Houve Entrada do mandante: 22:59,Atraso:,,NÃ£o Houve
+Entrada do visitante:,21:52Atraso:,,NÃ£o Houve Entrada do visitante: 22:58,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,22:01 Atraso:,,1 min InÃ­cio do 2o Tempo: 23:01,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,22:46 AcrÃ©scimo:,,NÃ£o Houve TÃ©rmino do 2o Tempo: 23:50,AcrÃ©scimo:,,4 min
 Resultado do 1o Tempo: 1 X 0,,,Resultado Final: 2 X 0,,,
-"",,,,Relação de Jogadores,,,
-"",,São Paulo / SP,,,Grêmio / RS,,
-No,Apelido,Nome Completo,T/R P/A,CBF No Apelido,Nome Completo,T/R P/A,CBF
-1,Rogerio,Rogerio Ceni,T P,107639 12 Tiago,Tiago Machowski,T P,296640
-3,Rodrigo,Rodrigo Caio Coquett ...,T P,316645 3 Geromel,Pedro Tonon Geromel,T P,165322
-5,Souza,Josef de Souza Dias,T P,178096 4 Rhodolfo,Luiz Rhodolfo Dini G...,T P,169286
-6,Carlinhos,Carlos Andrade Souza,T P,173760 6 Fellipe,Fellipe Ramos Ignez ...,T P,357424
-7,Michel Bas ...,Michel Fernandes Bastos,T P,155330 7 Luan,Luan Guilherme de Je...,T P,409960
-9,Luis Fabiano,Luis Fabiano Clemente,T P,135687 8 Giuliano,Giuliano Victor de Paula,T P,178486
-10,Paulo Henr ...,Paulo Henrique Chaga ...,T P,184364 11 Yuri Mamute,Yuri Souza Almeida,T P,349171
-15,Denilson,Denilson Pereira Neves,T P,165831 16 Teo,Teodoro Junio Barbos...,T P,346555
-19,Wesley,Wesley Lopes Beltrame,T P,170540 19 Maicon,Maicon Thiago Pereir...,T P,166603
-22,Bruno,Bruno Vieira do Nasc ...,T P,172996 26 Marcelo Ol ...,Marcelo Oliveira Fer...,T P,172123
-26,Matheus,Matheus Doria Macedo,T P,317379 32 Pedro,Pedro Rocha Neves,T P,379462
-16,Reinaldo,Reinaldo Manoel da Silva,R P,332318 9 Braian Rod ...,Braian Damian Rodrig...,R P,522895
-20,Centurion,Ricardo Adrian Centurion,R P,522233 14 Carlos,Carlos Eugenio Junio...,R P,384984
-21,Edson,Edson Jose da Silva,R P,166943 21 Gabriel,Gabriel Teixeira da ...,R P,391487
-23,Thiago Men ...,Thiago Henrique Mend ...,R P,353262 22 Marcelo,Marcelo Hermes,R P,363926
-25,Hudson,Hudson Rodrigues dos ...,R P,176729 23 Everton,Everton Sousa Soares,R P,379065
-28,Renan,Renan Ribeiro,R P,176915 27 Lincoln,Lincoln Henrique Oli...,R P,421665
-37,Joao Paulo,Joao Paulo Queiroz d ...,R P,337178 29 Victor,Victor Neves Rangel,R P,359362
-"",,,,30 Bruno,Bruno Medeiros Grassi,R P,172342
-"",,,,37 Moises,Moises Wolschick,R P,346833
-"",,Comissão Técnica,
-"",São Paulo / SP,,Grêmio / RS
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,21:52,Atraso:,NÃ£o Houve Entrada do mandante:,22:59,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,22:01,Atraso:,1 min,InÃ­cio do 2o Tempo:,23:01,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+1,Rogerio,Rogerio Ceni,T P,107639,12,Tiago,Tiago Machowski,T P,296640
+"",,ComissÃ£o TÃ©cnica,
+"",SÃ£o Paulo / SP,,GrÃªmio / RS
 Tecnico:,Juan Carlos Osorio Arbelaez - RNE-G150961-1,Tecnico:,Roger Machado Marques - 1056345505
 Auxiliar Tecnico:,Milton Da Cruz - 63465577,Auxiliar Tecnico:,James Francisco Freitas - 1045257704
 Medico:,Jose Sanchez De Aquino - 45392,Medico:,Felipe Wildt Do Canto - 21008
@@ -43,13 +26,13 @@ Preparador Fisico:,Jose Mario Campeiz - 005279GSP,Preparador Fisico:,Rogerio Dia
 Massagista:,Ailton Rodrigues  - 18085787-3,Massagista:,Anderson Machado Meurer - 7069194392
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
-26:00,1T,9,NR,Luis Fabiano Clemente,,São Paulo/SP
-10:00,2T,1,PN,Rogerio Ceni,,São Paulo/SP
-"",,,,Substituições,
+26:00,1T,9,NR,Luis Fabiano Clemente,,SÃ£o Paulo/SP
+10:00,2T,1,PN,Rogerio Ceni,,SÃ£o Paulo/SP
+"",,,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,,Equipe,Entrou,Saiu
-12:00,2T,Grêmio/RS,,14 - Carlos Eugenio Junior Tav ...,16 - Teodoro Junio Barbosa de  ...
-12:00,2T,Grêmio/RS,,9 - BRAIAN DAMIAN RODRIGUEZ C ...,11 - Yuri Souza Almeida
-21:00,2T,São Paulo/SP,,25 - Hudson Rodrigues dos Sant ...,15 - Denilson Pereira Neves
-26:00,2T,São Paulo/SP,,23 - Thiago Henrique Mendes Ri ...,5 - Josef de Souza Dias
-29:00,2T,Grêmio/RS,,29 - Victor Neves Rangel,32 - Pedro Rocha Neves
-33:00,2T,São Paulo/SP,,16 - Reinaldo Manoel da Silva,7 - Michel Fernandes Bastos
+12:00,2T,GrÃªmio/RS,,14 - Carlos Eugenio Junior Tav ...,16 - Teodoro Junio Barbosa de  ...
+12:00,2T,GrÃªmio/RS,,9 - BRAIAN DAMIAN RODRIGUEZ C ...,11 - Yuri Souza Almeida
+21:00,2T,SÃ£o Paulo/SP,,25 - Hudson Rodrigues dos Sant ...,15 - Denilson Pereira Neves
+26:00,2T,SÃ£o Paulo/SP,,23 - Thiago Henrique Mendes Ri ...,5 - Josef de Souza Dias
+29:00,2T,GrÃªmio/RS,,29 - Victor Neves Rangel,32 - Pedro Rocha Neves
+33:00,2T,SÃ£o Paulo/SP,,16 - Reinaldo Manoel da Silva,7 - Michel Fernandes Bastos

@@ -1,6 +1,6 @@
-Campeonato:,Campeonato Brasileiro - Série A/2019,,Rodada:,22
-Jogo:,Fluminense / RJ X Grêmio / RS,,,
-Data:,29/09/2019 Horário: 16:00 Estádio:,Jornalista Mário Filho / Rio de Janeiro,,
+Campeonato:,Campeonato Brasileiro - SÃ©rie A/2019,,Rodada:,22
+Jogo:,Fluminense / RJ X GrÃªmio / RS,,,
+Data:,29/09/2019 HorÃ¡rio: 16:00 EstÃ¡dio:,Jornalista MÃ¡rio Filho / Rio de Janeiro,,
 "",,Arbitragem
 Arbitro:,Caio Max Augusto Vieira (AB / RN),
 Arbitro Assistente 1:,Alessandro Alvaro Rocha de Matos (FIFA / BA),
@@ -13,13 +13,13 @@ AVAR1:,Pablo Ramon Goncalves Pinheiro (AB / RN),
 AVAR2:,Celso Luiz da Silva (AB / MG),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,15:50Atraso:,,Não Houve Entrada do mandante: 17:00,,Atraso:,Não Houve
-Entrada do visitante:,15:50Atraso:,,Não Houve Entrada do visitante: 17:00,,Atraso:,Não Houve
-Início 1o Tempo:,16:00Atraso:,,Não Houve Início do 2o Tempo: 17:02,,Atraso:,Não Houve
-Término do 1o Tempo:,16:47Acréscimo:,,2 min Término do 2o Tempo: 17:56,Acréscimo:,,9 min
+Entrada do mandante:,15:50Atraso:,,NÃ£o Houve Entrada do mandante: 17:00,,Atraso:,NÃ£o Houve
+Entrada do visitante:,15:50Atraso:,,NÃ£o Houve Entrada do visitante: 17:00,,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,16:00Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 17:02,,Atraso:,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,16:47AcrÃ©scimo:,,2 min TÃ©rmino do 2o Tempo: 17:56,AcrÃ©scimo:,,9 min
 Resultado do 1o Tempo: 1 X 0,,,Resultado Final: 2 X 1,,,
-"",,,,,Relação de Jogadores,,,,
-"",,Fluminense / RJ,,,,Grêmio / RS,,,
+"",,,,,RelaÃ§Ã£o de Jogadores,,,,
+"",,Fluminense / RJ,,,,GrÃªmio / RS,,,
 No,Apelido,Nome Completo T/R,,P/A,CBF No Apelido,Nome Completo,T/R,P/A,CBF
 27,Muriel,Muriel Gustavo Becker T(g),,P,165925 22 Julio Cesar,Julio Cesar Jacobi,T(g),P,169978
 2,Gilberto,Gilberto Moraes Junior T,,P,307134 2 Leo Moura,Leonardo da Silva Moura,T,P,137644
@@ -31,15 +31,15 @@ No,Apelido,Nome Completo T/R,,P/A,CBF No Apelido,Nome Completo,T/R,P/A,CBF
 23,Joao Pedro,Joao Pedro Junqueira ... T,,P,540090 29 J. Capixaba,Luis Antonio da Roch ...,T,P,402681
 29,Allan,Allan Rodrigues de Souza T,,P,339266 37 Darlan,Darlan Pereira Mendes,T,P,422352
 33,NINO,Marcilio Florencio M ... T,,P,379386 38 Rodrigues,Antonio Josenildo Ro ...,T,P,434738
-77,Nenê,Anderson Luis de Carvalho T,,P,150986 90 Andre Felipe,Andre Felipe Ribeiro ...,T,P,292942
+77,NenÃª,Anderson Luis de Carvalho T,,P,150986 90 Andre Felipe,Andre Felipe Ribeiro ...,T,P,292942
 25,Agenor,Agenor Detofol R(g),,P,182631 24 Brenno,Brenno Oliveira Frag ...,R(g),P,433923
 4,Luccas Claro,Luccas Claro dos Santos R,,P,291708 30 Patrick,Patrick Machado Ferreira,R,P,423224
 5,Airton,Airton Ribeiro Santos R,,P,186870 39 Gui Azevedo,Guilherme da Silva A ...,R,P,521902
-12,Lucão,Lucas Vinicius Gonca ... R,,P,304035 40 Phelipe,Phelipe Megiolaro Alves,R,P,337483
+12,LucÃ£o,Lucas Vinicius Gonca ... R,,P,304035 40 Phelipe,Phelipe Megiolaro Alves,R,P,337483
 15,Dodi,Douglas Moreira Fagundes R,,P,354201 41 Da Silva,Rondinelli da Silva  ...,R,P,373518
 17,Evanilson,Francisco Evanilson  ... R,,P,416790 44 Ruan,Ruan Tressoldi Netto,R,P,462332
 18,Wellington ...,Wellington Silva San ... R,,P,293170 46 Isaque,Isaque Elias Brito,R,P,354923
-21,Igor Julião,Igor de Carvalho Juliao R,,P,307616 47 Ferreira,Aldemir dos Santos F ...,R,P,505058
+21,Igor JuliÃ£o,Igor de Carvalho Juliao R,,P,307616 47 Ferreira,Aldemir dos Santos F ...,R,P,505058
 22,Orinho,Edilsom Borba de Aquino R,,P,398393 48 Varela,Jhonata Varela da Silva,R,P,544138
 28,Guilherme,Guilherme Milhomem GusmaRo,,P,171975 49 Jhonata Ro ...,Jhonata Robert Alves ...,R,P,528449
 30,Brenner,Brenner Souza da Silva R,,P,434301,,,,
@@ -55,37 +55,37 @@ No,Apelido Nome Completo,T/R,,P/A,CBF,No,Apelido,Nome Completo,T/R,P/A,CBF
 23,Joao Pedro Joao Pedro Junqueira ...,T,,P,540090,29,J. Capixaba,Luis Antonio da Roch ...,T,P,402681
 29,Allan Allan Rodrigues de Souza,T,,P,339266,37,Darlan,Darlan Pereira Mendes,T,P,422352
 33,NINO Marcilio Florencio M ...,T,,P,379386,38,Rodrigues,Antonio Josenildo Ro ...,T,P,434738
-77,Nenê Anderson Luis de Carvalho,T,,P,150986,90,Andre Felipe,Andre Felipe Ribeiro ...,T,P,292942
+77,NenÃª Anderson Luis de Carvalho,T,,P,150986,90,Andre Felipe,Andre Felipe Ribeiro ...,T,P,292942
 25,Agenor Agenor Detofol,R(g),,P,182631,24,Brenno,Brenno Oliveira Frag ...,R(g),P,433923
 4,Luccas Claro Luccas Claro dos Santos,R,,P,291708,30,Patrick,Patrick Machado Ferreira,R,P,423224
 5,Airton Airton Ribeiro Santos,R,,P,186870,39,Gui Azevedo,Guilherme da Silva A ...,R,P,521902
-12,Lucão Lucas Vinicius Gonca ...,R,,P,304035,40,Phelipe,Phelipe Megiolaro Alves,R,P,337483
+12,LucÃ£o Lucas Vinicius Gonca ...,R,,P,304035,40,Phelipe,Phelipe Megiolaro Alves,R,P,337483
 15,Dodi Douglas Moreira Fagundes,R,,P,354201,41,Da Silva,Rondinelli da Silva  ...,R,P,373518
 17,Evanilson Francisco Evanilson  ...,R,,P,416790,44,Ruan,Ruan Tressoldi Netto,R,P,462332
 18,Wellington ... Wellington Silva San ...,R,,P,293170,46,Isaque,Isaque Elias Brito,R,P,354923
-21,Igor Julião Igor de Carvalho Juliao,R,,P,307616,47,Ferreira,Aldemir dos Santos F ...,R,P,505058
+21,Igor JuliÃ£o Igor de Carvalho Juliao,R,,P,307616,47,Ferreira,Aldemir dos Santos F ...,R,P,505058
 22,Orinho Edilsom Borba de Aquino,R,,P,398393,48,Varela,Jhonata Varela da Silva,R,P,544138
 28,Guilherme Guilherme Milhomem GusmaRo,,,P,171975,49,Jhonata Ro ...,Jhonata Robert Alves ...,R,P,528449
 30,Brenner Brenner Souza da Silva,R,,P,434301,,,,,,
 32,Marcos Paulo Marcos Paulo Costa d ...,R,,P,526048,,,,,,
-"",,Comissão Técnica,
-"",Fluminense / RJ,,Grêmio / RS
-Técnico:,Marco Aurelio De Oliveira,Técnico:,Renato Portaluppi
-Auxiliar Técnico:,Ailton Dos Santos Ferraz,Auxiliar Técnico:,Victor Hugo Marinho Signorelli
-Médico:,Arthur Da Rocha Nogueira Neto,Médico:,Marcio Marques Dornelles
+"",,ComissÃ£o TÃ©cnica,
+"",Fluminense / RJ,,GrÃªmio / RS
+TÃ©cnico:,Marco Aurelio De Oliveira,TÃ©cnico:,Renato Portaluppi
+Auxiliar TÃ©cnico:,Ailton Dos Santos Ferraz,Auxiliar TÃ©cnico:,Victor Hugo Marinho Signorelli
+MÃ©dico:,Arthur Da Rocha Nogueira Neto,MÃ©dico:,Marcio Marques Dornelles
 Treinador De Goleiros:,Andre Carvalho Da Silva,Treinador De Goleiros:,Enio De Souza Oliveira
-Preparador Físico:,Marcos De Seixas Correa,Preparador Físico:,Mario Antonio Barbosa Pereira
+Preparador FÃ­sico:,Marcos De Seixas Correa,Preparador FÃ­sico:,Mario Antonio Barbosa Pereira
 Massagista:,Pedro Carlos Antunes,Massagista:,Marco Aurelio Zeilmann
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 06:00,1T,77,NR,Anderson Luis de Carvalho,,Fluminense/RJ
 04:00,2T,19,NR,Caio Henrique Oliveira Silva,,Fluminense/RJ
-30:00,2T,30,NR,Patrick Machado Ferreira,,Grêmio/RS
-"",,,,Substituições,
+30:00,2T,30,NR,Patrick Machado Ferreira,,GrÃªmio/RS
+"",,,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,,Equipe,Entrou,Saiu
-10:00,2T,Grêmio/RS,,30 - Patrick Machado Ferreira,37 - Darlan Pereira Mendes
-22:00,2T,Grêmio/RS,,47 - Aldemir dos Santos Ferreira,18 - Luciano da Rocha Neves
+10:00,2T,GrÃªmio/RS,,30 - Patrick Machado Ferreira,37 - Darlan Pereira Mendes
+22:00,2T,GrÃªmio/RS,,47 - Aldemir dos Santos Ferreira,18 - Luciano da Rocha Neves
 29:00,2T,Fluminense/RJ,,22 - Edilsom Borba de Aquino,20 - Daniel Sampaio Simoes
-41:00,2T,Grêmio/RS,,39 - Guilherme da Silva Azevedo,2 - Leonardo da Silva Moura
+41:00,2T,GrÃªmio/RS,,39 - Guilherme da Silva Azevedo,2 - Leonardo da Silva Moura
 41:00,2T,Fluminense/RJ,,18 - Wellington Silva Sanches Agu...,77 - Anderson Luis de Carvalho
 45:00,2T,Fluminense/RJ,,32 - Marcos Paulo Costa do Nascim...,11 - Yony Alexander Gonzalez Copete

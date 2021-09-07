@@ -7,74 +7,55 @@ Assessor:,Jose Mocellin (ASS / RS),
 Delegado Local:,Ari Debenetti (000 / ),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,21:20Atraso:,,Não Houve Entrada do mandante: 22:29,Atraso:,,Não Houve
-Entrada do visitante:,21:20Atraso:,,Não Houve Entrada do visitante: 22:29,Atraso:,,Não Houve
-Início 1o Tempo:,21:30 Atraso:,,Não Houve Início do 2o Tempo: 22:30,Atraso:,,Não Houve
-Término do 1o Tempo:,22:15 Acréscimo:,,Não Houve Término do 2o Tempo: 23:18,Acréscimo:,,3 min
+Entrada do mandante:,21:20Atraso:,,NÃ£o Houve Entrada do mandante: 22:29,Atraso:,,NÃ£o Houve
+Entrada do visitante:,21:20Atraso:,,NÃ£o Houve Entrada do visitante: 22:29,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,21:30 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 22:30,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,22:15 AcrÃ©scimo:,,NÃ£o Houve TÃ©rmino do 2o Tempo: 23:18,AcrÃ©scimo:,,3 min
 Resultado do 1o Tempo: 0 X 0,,,Resultado Final: 0 X 0,,,
-"",,,,Relação de Jogadores,,,
-"",,Brasil / RS,,,Náutico / PE,,
-No,Apelido,Nome Completo T/R P/A,,CBF No Apelido,Nome Completo T/R P/A,,CBF
-1,Eduardo,Eduardo Martini T,P,133435 1 Julio Cesar,Julio Cesar de Souza... T,P,150963
-3,Leandro Ca ...,Leandro Camilo de Al ... T,P,172296 2 Joazi,Joazi Oliviera da Silva T,P,392907
-4,Wender,Wender Coelho da Silva T,P,160238 4 Leonardo,Leonardo Pereira R,P,310373
-5,Leandro,Leandro Leite Mateus T,P,146430 19 Gaston,Gaston Filgueira Mendez T,P,517393
-6,Marlon,Marlon Farias Castel ... T,P,183840 23 Renan,Renan Henrique Olive... R,P,178684
-7,Felipe,Felipe Garcia Goncalves T,P,311487 33 Rafael,Rafael Pereira dos S... T,P,170563
-8,Cezar,Cezar Washington Alv ... T,P,179012 38 Eduardo,Eduardo Gabriel dos ... T,P,304071
-9,Ramon,Ramon Machado de MacedoT,P,295017 69 Jefferson  ...,Jefferson Vasconcelo... T,P,417467
-16,Nathan,Nathan Athaydes Camp ... R,P,296334 71 Henrique,Henrique Gelain Custodio T,P,343787
-20,Clebson,Jose Clebson de Lima R,P,164221 92 Gustavo,Gustavo Henrique Bar... R,P,341672
-22,Welder,Welder da Silva Marcal R,P,293010 99 Tiago,Tiago Adan Fonseca T,P,176993
-2,Wender,Wender Almeida Silva T,P,142654 6 Muller,Mateus Muller de Sou... R,P,373728
-10,Diogo,Diogo Ribeiro de Oli ... T,P,160174 7 Roni,Ronielson da Silva B... T,P,427806
-11,Parana,Marcos dos Santos Ca ... T,P,164863 8 Rodrigo,Rodrigo de Souza Fonseca T,P,293529
-12,Luiz Carlos,Luiz Carlos Muller R,P,143759 12 Rodolpho,Rodolpho Henrique Al... R,P,142924
-13,Fernando,Fernando da Silva Ca ... R,P,129549 16 Igor,Igor Rabello da Costa R,P,307840
-14,Eduardo,Eduardo Schroeder Brock R,P,291997 21 Matheus Lu ...,Matheus Lucas Jacint... R,P,514089
-15,Nem,Rogisvaldo Joao dos  ... R,P,180884 66 Odilavio,Odilavio Jose da Sil... R,P,299609
-17,Marcos,Marcos Antonio Almei ... R,P,345210 74 Caique,Caique Ferreira da S... T,P,370426
-18,Ronilson,Ronilson Donizetti G ... R,P,171958 96 Cal,Carlos Alberto Matos... R,P,418036
-19,Nena,Ygor da Silva R,P,158841,,,
-21,Elias,Elias dos Santos Bueno R,P,362991,,,
-"",,Comissão Técnica
-"",Brasil / RS,Náutico / PE
-Técnico:,Rogério Garcia Zimmermann - 010892-RS,Técnico: Alexandre Tadeu Gallo - 045222 - SP
-Auxiliar Técnico:,José Ney Dutra Martins - 9024711633,Auxiliar Técnico: Valdir Benedito - 12672 - MG
-Médico:,Luiz Henrique Campos Da Motta - 26671 RS,Médico: Fabio Ribas Valença - 16650 - PE
-Preparador Físico:,João Francisco Beschorner - 3889 RS,Preparador Físico: Eliot Paes Alves Jr. - 52231 - SP
-Massagista:,Paulo Sérgio Gonçalves - 241166652,Massagista: Welington Rodrigues De Oliveira - 57687 - PE
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,21:20,Atraso:,NÃ£o Houve Entrada do mandante:,22:29,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,21:30,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,22:30,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+1,Eduardo,Eduardo Martini,T P,133435,1,Julio Cesar,Julio Cesar de Souza...,T P,150963
+"",,ComissÃ£o TÃ©cnica
+"",Brasil / RS,NÃ¡utico / PE
+TÃ©cnico:,RogÃ©rio Garcia Zimmermann - 010892-RS,TÃ©cnico: Alexandre Tadeu Gallo - 045222 - SP
+Auxiliar TÃ©cnico:,JosÃ© Ney Dutra Martins - 9024711633,Auxiliar TÃ©cnico: Valdir Benedito - 12672 - MG
+MÃ©dico:,Luiz Henrique Campos Da Motta - 26671 RS,MÃ©dico: Fabio Ribas ValenÃ§a - 16650 - PE
+Preparador FÃ­sico:,JoÃ£o Francisco Beschorner - 3889 RS,Preparador FÃ­sico: Eliot Paes Alves Jr. - 52231 - SP
+Massagista:,Paulo SÃ©rgio GonÃ§alves - 241166652,Massagista: Welington Rodrigues De Oliveira - 57687 - PE
 Preparador De GoleiroA:l ex Lessa Afonso - 6066791374,,Preparador De GoleiroE:d uardo Andrade Bahia - 2178 - BA
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:Acréscimos em virtude de substituições e entrada dos maqueiros para retirar atletas supostamente lesionados.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu+1:002TNáutico/PE4 - Leonardo Pereira7 - Ronielson da Silva Barbos ...16:002TNáutico/PE23 - Renan Henrique Oliveira V ...74 - Caique Ferreira da Silva  ...22:002TBrasil/RS16 - Nathan Athaydes Campos Fe ...11 - Marcos dos Santos Camargo ...24:002TNáutico/PE92 - Gustavo Henrique Barbosa  ...8 - Rodrigo de Souza Fonseca27:002TBrasil/RS22 - Welder da Silva Marcal2 - Wender Almeida Silva37:002TBrasil/RS20 - Jose Clebson de Lima10 - Diogo Ribeiro de Oliveira ..."
-"Motivo de atraso no início e/ou reinício, e de acréscimos:"
-Acréscimos em virtude de substituições e entrada dos maqueiros para retirar atletas supostamente lesionados.
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:Acréscimos em virtude de substituições e entrada dos maqueiros para retirar atletas supostamente lesionados.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu+1:002TNáutico/PE4 - Leonardo Pereira7 - Ronielson da Silva Barbos ...16:002TNáutico/PE23 - Renan Henrique Oliveira V ...74 - Caique Ferreira da Silva  ...22:002TBrasil/RS16 - Nathan Athaydes Campos Fe ...11 - Marcos dos Santos Camargo ...24:002TNáutico/PE92 - Gustavo Henrique Barbosa  ...8 - Rodrigo de Souza Fonseca27:002TBrasil/RS22 - Welder da Silva Marcal2 - Wender Almeida Silva37:002TBrasil/RS20 - Jose Clebson de Lima10 - Diogo Ribeiro de Oliveira ...",,,,
-Ocorrências / Observações,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:AcrÃ©scimos em virtude de substituiÃ§Ãµes e entrada dos maqueiros para retirar atletas supostamente lesionados.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu+1:002TNÃ¡utico/PE4 - Leonardo Pereira7 - Ronielson da Silva Barbos ...16:002TNÃ¡utico/PE23 - Renan Henrique Oliveira V ...74 - Caique Ferreira da Silva  ...22:002TBrasil/RS16 - Nathan Athaydes Campos Fe ...11 - Marcos dos Santos Camargo ...24:002TNÃ¡utico/PE92 - Gustavo Henrique Barbosa  ...8 - Rodrigo de Souza Fonseca27:002TBrasil/RS22 - Welder da Silva Marcal2 - Wender Almeida Silva37:002TBrasil/RS20 - Jose Clebson de Lima10 - Diogo Ribeiro de Oliveira ..."
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:"
+AcrÃ©scimos em virtude de substituiÃ§Ãµes e entrada dos maqueiros para retirar atletas supostamente lesionados.
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:AcrÃ©scimos em virtude de substituiÃ§Ãµes e entrada dos maqueiros para retirar atletas supostamente lesionados.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu+1:002TNÃ¡utico/PE4 - Leonardo Pereira7 - Ronielson da Silva Barbos ...16:002TNÃ¡utico/PE23 - Renan Henrique Oliveira V ...74 - Caique Ferreira da Silva  ...22:002TBrasil/RS16 - Nathan Athaydes Campos Fe ...11 - Marcos dos Santos Camargo ...24:002TNÃ¡utico/PE92 - Gustavo Henrique Barbosa  ...8 - Rodrigo de Souza Fonseca27:002TBrasil/RS22 - Welder da Silva Marcal2 - Wender Almeida Silva37:002TBrasil/RS20 - Jose Clebson de Lima10 - Diogo Ribeiro de Oliveira ...",,,,
+OcorrÃªncias / ObservaÃ§Ãµes,,,,
 Nada houve de anormal,,,,
-"Motivo de atraso no início e/ou reinício, e de acréscimos:",,,,
-Acréscimos em virtude de substituições e entrada dos maqueiros para retirar atletas supostamente lesionados.,,,,
-Observações Eventuais,,,,
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:",,,,
+AcrÃ©scimos em virtude de substituiÃ§Ãµes e entrada dos maqueiros para retirar atletas supostamente lesionados.,,,,
+ObservaÃ§Ãµes Eventuais,,,,
 NADA HOUVE DE ANORMAL,,,,
-Substituições,,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
-+1:00,2T,Náutico/PE,4 - Leonardo Pereira,7 - Ronielson da Silva Barbos ...
-16:00,2T,Náutico/PE,23 - Renan Henrique Oliveira V ...,74 - Caique Ferreira da Silva  ...
++1:00,2T,NÃ¡utico/PE,4 - Leonardo Pereira,7 - Ronielson da Silva Barbos ...
+16:00,2T,NÃ¡utico/PE,23 - Renan Henrique Oliveira V ...,74 - Caique Ferreira da Silva  ...
 22:00,2T,Brasil/RS,16 - Nathan Athaydes Campos Fe ...,11 - Marcos dos Santos Camargo ...
-24:00,2T,Náutico/PE,92 - Gustavo Henrique Barbosa  ...,8 - Rodrigo de Souza Fonseca
+24:00,2T,NÃ¡utico/PE,92 - Gustavo Henrique Barbosa  ...,8 - Rodrigo de Souza Fonseca
 27:00,2T,Brasil/RS,22 - Welder da Silva Marcal,2 - Wender Almeida Silva
 37:00,2T,Brasil/RS,20 - Jose Clebson de Lima,10 - Diogo Ribeiro de Oliveira ...
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:Acréscimos em virtude de substituições e entrada dos maqueiros para retirar atletas supostamente lesionados.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu+1:002TNáutico/PE4 - Leonardo Pereira7 - Ronielson da Silva Barbos ...16:002TNáutico/PE23 - Renan Henrique Oliveira V ...74 - Caique Ferreira da Silva  ...22:002TBrasil/RS16 - Nathan Athaydes Campos Fe ...11 - Marcos dos Santos Camargo ...24:002TNáutico/PE92 - Gustavo Henrique Barbosa  ...8 - Rodrigo de Souza Fonseca27:002TBrasil/RS22 - Welder da Silva Marcal2 - Wender Almeida Silva37:002TBrasil/RS20 - Jose Clebson de Lima10 - Diogo Ribeiro de Oliveira ...",,,,
-Substituições,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:AcrÃ©scimos em virtude de substituiÃ§Ãµes e entrada dos maqueiros para retirar atletas supostamente lesionados.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu+1:002TNÃ¡utico/PE4 - Leonardo Pereira7 - Ronielson da Silva Barbos ...16:002TNÃ¡utico/PE23 - Renan Henrique Oliveira V ...74 - Caique Ferreira da Silva  ...22:002TBrasil/RS16 - Nathan Athaydes Campos Fe ...11 - Marcos dos Santos Camargo ...24:002TNÃ¡utico/PE92 - Gustavo Henrique Barbosa  ...8 - Rodrigo de Souza Fonseca27:002TBrasil/RS22 - Welder da Silva Marcal2 - Wender Almeida Silva37:002TBrasil/RS20 - Jose Clebson de Lima10 - Diogo Ribeiro de Oliveira ...",,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
-+1:00,2T,Náutico/PE,4 - Leonardo Pereira,7 - Ronielson da Silva Barbos ...
-16:00,2T,Náutico/PE,23 - Renan Henrique Oliveira V ...,74 - Caique Ferreira da Silva  ...
++1:00,2T,NÃ¡utico/PE,4 - Leonardo Pereira,7 - Ronielson da Silva Barbos ...
+16:00,2T,NÃ¡utico/PE,23 - Renan Henrique Oliveira V ...,74 - Caique Ferreira da Silva  ...
 22:00,2T,Brasil/RS,16 - Nathan Athaydes Campos Fe ...,11 - Marcos dos Santos Camargo ...
-24:00,2T,Náutico/PE,92 - Gustavo Henrique Barbosa  ...,8 - Rodrigo de Souza Fonseca
+24:00,2T,NÃ¡utico/PE,92 - Gustavo Henrique Barbosa  ...,8 - Rodrigo de Souza Fonseca
 27:00,2T,Brasil/RS,22 - Welder da Silva Marcal,2 - Wender Almeida Silva
 37:00,2T,Brasil/RS,20 - Jose Clebson de Lima,10 - Diogo Ribeiro de Oliveira ...
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:Acréscimos em virtude de substituições e entrada dos maqueiros para retirar atletas supostamente lesionados.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu+1:002TNáutico/PE4 - Leonardo Pereira7 - Ronielson da Silva Barbos ...16:002TNáutico/PE23 - Renan Henrique Oliveira V ...74 - Caique Ferreira da Silva  ...22:002TBrasil/RS16 - Nathan Athaydes Campos Fe ...11 - Marcos dos Santos Camargo ...24:002TNáutico/PE92 - Gustavo Henrique Barbosa  ...8 - Rodrigo de Souza Fonseca27:002TBrasil/RS22 - Welder da Silva Marcal2 - Wender Almeida Silva37:002TBrasil/RS20 - Jose Clebson de Lima10 - Diogo Ribeiro de Oliveira ..."
-Observações Eventuais
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:AcrÃ©scimos em virtude de substituiÃ§Ãµes e entrada dos maqueiros para retirar atletas supostamente lesionados.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu+1:002TNÃ¡utico/PE4 - Leonardo Pereira7 - Ronielson da Silva Barbos ...16:002TNÃ¡utico/PE23 - Renan Henrique Oliveira V ...74 - Caique Ferreira da Silva  ...22:002TBrasil/RS16 - Nathan Athaydes Campos Fe ...11 - Marcos dos Santos Camargo ...24:002TNÃ¡utico/PE92 - Gustavo Henrique Barbosa  ...8 - Rodrigo de Souza Fonseca27:002TBrasil/RS22 - Welder da Silva Marcal2 - Wender Almeida Silva37:002TBrasil/RS20 - Jose Clebson de Lima10 - Diogo Ribeiro de Oliveira ..."
+ObservaÃ§Ãµes Eventuais
 NADA HOUVE DE ANORMAL
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:Acréscimos em virtude de substituições e entrada dos maqueiros para retirar atletas supostamente lesionados.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu+1:002TNáutico/PE4 - Leonardo Pereira7 - Ronielson da Silva Barbos ...16:002TNáutico/PE23 - Renan Henrique Oliveira V ...74 - Caique Ferreira da Silva  ...22:002TBrasil/RS16 - Nathan Athaydes Campos Fe ...11 - Marcos dos Santos Camargo ...24:002TNáutico/PE92 - Gustavo Henrique Barbosa  ...8 - Rodrigo de Souza Fonseca27:002TBrasil/RS22 - Welder da Silva Marcal2 - Wender Almeida Silva37:002TBrasil/RS20 - Jose Clebson de Lima10 - Diogo Ribeiro de Oliveira ..."
-Ocorrências / Observações
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:AcrÃ©scimos em virtude de substituiÃ§Ãµes e entrada dos maqueiros para retirar atletas supostamente lesionados.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu+1:002TNÃ¡utico/PE4 - Leonardo Pereira7 - Ronielson da Silva Barbos ...16:002TNÃ¡utico/PE23 - Renan Henrique Oliveira V ...74 - Caique Ferreira da Silva  ...22:002TBrasil/RS16 - Nathan Athaydes Campos Fe ...11 - Marcos dos Santos Camargo ...24:002TNÃ¡utico/PE92 - Gustavo Henrique Barbosa  ...8 - Rodrigo de Souza Fonseca27:002TBrasil/RS22 - Welder da Silva Marcal2 - Wender Almeida Silva37:002TBrasil/RS20 - Jose Clebson de Lima10 - Diogo Ribeiro de Oliveira ..."
+OcorrÃªncias / ObservaÃ§Ãµes
 Nada houve de anormal

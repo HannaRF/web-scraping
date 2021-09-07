@@ -1,34 +1,19 @@
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,19:20Atraso:,,Não Houve Entrada do mandante: 20:28,Atraso:,,Não Houve
-Entrada do visitante:,19:21Atraso:,,Não Houve Entrada do visitante: 20:29,Atraso:,,Não Houve
-Início 1o Tempo:,19:30 Atraso:,,Não Houve Início do 2o Tempo: 20:31,Atraso:,,Não Houve
-Término do 1o Tempo:,20:16 Acréscimo:,,1 min Término do 2o Tempo: 21:19,Acréscimo:,,3 min
+Entrada do mandante:,19:20Atraso:,,NÃ£o Houve Entrada do mandante: 20:28,Atraso:,,NÃ£o Houve
+Entrada do visitante:,19:21Atraso:,,NÃ£o Houve Entrada do visitante: 20:29,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,19:30 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 20:31,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,20:16 AcrÃ©scimo:,,1 min TÃ©rmino do 2o Tempo: 21:19,AcrÃ©scimo:,,3 min
 Resultado do 1o Tempo: 0 x 1,,,Resultado Final: 0 x 3,,,
-"",,,,Relação de Jogadores,,,
-"",,Sousa / PB,,,Coritiba / PR,,
-No,Apelido,Nome Completo,T/R P/A,CBF No Apelido,Nome Completo,T/R P/A,CBF
-1,Delmir,Delmir Alves de Santana,T(g) P,144102 12 Vanailson,Vanailson Luciano de...,T(g) P,190231
-2,Toty,Christofoly Acioly d ...,T P,299231 4 Pereira,Fabio Pereira da Cruz,T P,139889
-3,Eduardo,Eduardo Leandro do N ...,T P,302335 11 Julio Cesar,Julio Cesar da Silva...,T P,139091
-4,Alysson,Alysson Patricio Bar ...,T P,153000 22 Escudero,Sergio Daniel Escudero,T P,307037
-5,Israel,Israel Sobreira Quin ...,T P,179027 23 Junior Urso,Ocimar de Almeida Junior,T P,292357
-6,Jailton,Jailton Jose dos Santos,T P,177482 28 Emerson,Emerson Gustavo Pint...,T P,296302
-7,Edmilson,Edmilson Ferreira da ...,T P,331313 30 Djair,Djair Veiga Francisc...,T P,188328
-8,Alysson,Alysson Ferreira da  ...,T P,361352 34 Rafael Bon ...,Rafael de Jesus Bonfim,T P,312847
-9,Eduardo Rato,Eduardo Vieira do Na ...,T P,141876 35 Sergio Man ...,Sergio Manoel Barbos...,T P,184216
-10,Marcio Tar ...,Joao Marcio Arrais d ...,T P,170578 37 Jose,Jose Rafael Vivian,T P,330886
-11,Cleber,Cleber Alves Pordeus,T P,402314 77 Arthur,Arthur Caike do Nasc...,T P,292833
-12,Danilo,Danilo Nobrega de Al ...,R P,341792 16 Eltinho,Elton Divino Celio,R P,171945
-13,Toninho,Antonio Fernando de  ...,R P,147652 21 Luccas Claro,Luccas Claro dos Santos,R P,291708
-14,Camilo,Camilo Almeida do Couto,R P,161530 25 Chico,Luis Francisco Grando,R P,169890
-15,Ricardo,Ricardo Lopes de Oli ...,R P,131550 33 Bartola,Anderson Venâncio da...,R P,361386
-16,Wallison,Francisco Wallinson  ...,R P,361283 39 Rafael,Rafael Martins Claro...,R P,188241
-17,Roni,Jose Ronaldo Pereira ...,R P,163758 43 Luiz,Luiz Guilherme Dornelles,R P,300072
-18,Rodrigo,Rodrigo Ferreira de  ...,R P,361327 45 Geraldo,Hermenegildo da Cost...,R P,327121
-"",,Comissão Técnica,
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,19:20,Atraso:,NÃ£o Houve Entrada do mandante:,20:28,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,19:30,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,20:31,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+1,Delmir,Delmir Alves de Santana,T(g) P,144102,12,Vanailson,Vanailson Luciano de...,T(g) P,190231
+"",,ComissÃ£o TÃ©cnica,
 "",Sousa / PB,,Coritiba / PR
-Tecnico:,Jose De Almeida Neto  - 2394726,Tecnico:,Marcos Vinicius Santos Gonçalves - 013087-G/PR
+Tecnico:,Jose De Almeida Neto  - 2394726,Tecnico:,Marcos Vinicius Santos GonÃ§alves - 013087-G/PR
 Auxiliar Tecnico:,************************************************************** - ****A**u*x**il*i*a*r* *T*ecnico:,,***************************** - ***************
 Medico:,************************************************* - ***************,Medico:,Braulio Moreira Junior - 20.050
 Preparador Fisico:,Pedro Emidio Da Silva Neto - 000118-G/RN,Preparador Fisico:,Glydiston Egberto De Oliveira Ananias  - 023.141-G/SP
@@ -38,17 +23,17 @@ Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 38:00,1T,34,NR,Rafael de Jesus Bonfim,,Coritiba/PR
 20:00,2T,11,NR,Julio Cesar da Silva E Souza,,Coritiba/PR
 45:00,2T,43,NR,Luiz Guilherme Dornelles,,Coritiba/PR
-"Ocorrências / ObservaçõesNada houve de anormal.Motivo de atraso no início e/ou reinício, e de acréscimos:FOI ACRESCIDO 01 MINUTO NO 1° TEMPO E 3 MINUTOS NO 2° TEMPO , POR DEVIDOS SUBSTITUICÕES E REPOSIÇÕES DE BOLA.Observações EventuaisESTALAÇÕES SATISFATORIO , GRAMADO BOM .SubstituiçõesTempo1T/2TEquipeEntrouSaiu09:002TCoritiba/PR43 - Luiz Guilherme Dornelles30 - Djair Veiga Francisco Jun ...09:002TSousa/PB17 - Jose Ronaldo Pereira da S ...8 - Alysson Ferreira da Costa ...21:002TSousa/PB15 - Ricardo Lopes de Oliveira ...11 - Cleber Alves Pordeus27:002TSousa/PB18 - Rodrigo Ferreira de Sousa ...5 - Israel Sobreira Quintilia ...27:002TCoritiba/PR25 - Luis Francisco Grando35 - Sergio Manoel Barbosa San ...37:002TCoritiba/PR16 - Elton Divino Celio28 - Emerson Gustavo Pinto dos ..."
-"Motivo de atraso no início e/ou reinício, e de acréscimos:"
-"FOI ACRESCIDO 01 MINUTO NO 1° TEMPO E 3 MINUTOS NO 2° TEMPO , POR DEVIDOS SUBSTITUICÕES E REPOSIÇÕES DE BOLA."
-"Ocorrências / ObservaçõesNada houve de anormal.Motivo de atraso no início e/ou reinício, e de acréscimos:FOI ACRESCIDO 01 MINUTO NO 1° TEMPO E 3 MINUTOS NO 2° TEMPO , POR DEVIDOS SUBSTITUICÕES E REPOSIÇÕES DE BOLA.Observações EventuaisESTALAÇÕES SATISFATORIO , GRAMADO BOM .SubstituiçõesTempo1T/2TEquipeEntrouSaiu09:002TCoritiba/PR43 - Luiz Guilherme Dornelles30 - Djair Veiga Francisco Jun ...09:002TSousa/PB17 - Jose Ronaldo Pereira da S ...8 - Alysson Ferreira da Costa ...21:002TSousa/PB15 - Ricardo Lopes de Oliveira ...11 - Cleber Alves Pordeus27:002TSousa/PB18 - Rodrigo Ferreira de Sousa ...5 - Israel Sobreira Quintilia ...27:002TCoritiba/PR25 - Luis Francisco Grando35 - Sergio Manoel Barbosa San ...37:002TCoritiba/PR16 - Elton Divino Celio28 - Emerson Gustavo Pinto dos ...",,,,
-Ocorrências / Observações,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:FOI ACRESCIDO 01 MINUTO NO 1Â° TEMPO E 3 MINUTOS NO 2Â° TEMPO , POR DEVIDOS SUBSTITUICÃ•ES E REPOSIÃ‡Ã•ES DE BOLA.ObservaÃ§Ãµes EventuaisESTALAÃ‡Ã•ES SATISFATORIO , GRAMADO BOM .SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu09:002TCoritiba/PR43 - Luiz Guilherme Dornelles30 - Djair Veiga Francisco Jun ...09:002TSousa/PB17 - Jose Ronaldo Pereira da S ...8 - Alysson Ferreira da Costa ...21:002TSousa/PB15 - Ricardo Lopes de Oliveira ...11 - Cleber Alves Pordeus27:002TSousa/PB18 - Rodrigo Ferreira de Sousa ...5 - Israel Sobreira Quintilia ...27:002TCoritiba/PR25 - Luis Francisco Grando35 - Sergio Manoel Barbosa San ...37:002TCoritiba/PR16 - Elton Divino Celio28 - Emerson Gustavo Pinto dos ..."
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:"
+"FOI ACRESCIDO 01 MINUTO NO 1Â° TEMPO E 3 MINUTOS NO 2Â° TEMPO , POR DEVIDOS SUBSTITUICÃ•ES E REPOSIÃ‡Ã•ES DE BOLA."
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:FOI ACRESCIDO 01 MINUTO NO 1Â° TEMPO E 3 MINUTOS NO 2Â° TEMPO , POR DEVIDOS SUBSTITUICÃ•ES E REPOSIÃ‡Ã•ES DE BOLA.ObservaÃ§Ãµes EventuaisESTALAÃ‡Ã•ES SATISFATORIO , GRAMADO BOM .SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu09:002TCoritiba/PR43 - Luiz Guilherme Dornelles30 - Djair Veiga Francisco Jun ...09:002TSousa/PB17 - Jose Ronaldo Pereira da S ...8 - Alysson Ferreira da Costa ...21:002TSousa/PB15 - Ricardo Lopes de Oliveira ...11 - Cleber Alves Pordeus27:002TSousa/PB18 - Rodrigo Ferreira de Sousa ...5 - Israel Sobreira Quintilia ...27:002TCoritiba/PR25 - Luis Francisco Grando35 - Sergio Manoel Barbosa San ...37:002TCoritiba/PR16 - Elton Divino Celio28 - Emerson Gustavo Pinto dos ...",,,,
+OcorrÃªncias / ObservaÃ§Ãµes,,,,
 Nada houve de anormal.,,,,
-"Motivo de atraso no início e/ou reinício, e de acréscimos:",,,,
-"FOI ACRESCIDO 01 MINUTO NO 1° TEMPO E 3 MINUTOS NO 2° TEMPO , POR DEVIDOS SUBSTITUICÕES E REPOSIÇÕES DE BOLA.",,,,
-Observações Eventuais,,,,
-"ESTALAÇÕES SATISFATORIO , GRAMADO BOM .",,,,
-Substituições,,,,
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:",,,,
+"FOI ACRESCIDO 01 MINUTO NO 1Â° TEMPO E 3 MINUTOS NO 2Â° TEMPO , POR DEVIDOS SUBSTITUICÃ•ES E REPOSIÃ‡Ã•ES DE BOLA.",,,,
+ObservaÃ§Ãµes Eventuais,,,,
+"ESTALAÃ‡Ã•ES SATISFATORIO , GRAMADO BOM .",,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 09:00,2T,Coritiba/PR,43 - Luiz Guilherme Dornelles,30 - Djair Veiga Francisco Jun ...
 09:00,2T,Sousa/PB,17 - Jose Ronaldo Pereira da S ...,8 - Alysson Ferreira da Costa ...
@@ -56,8 +41,8 @@ Tempo,1T/2T,Equipe,Entrou,Saiu
 27:00,2T,Sousa/PB,18 - Rodrigo Ferreira de Sousa ...,5 - Israel Sobreira Quintilia ...
 27:00,2T,Coritiba/PR,25 - Luis Francisco Grando,35 - Sergio Manoel Barbosa San ...
 37:00,2T,Coritiba/PR,16 - Elton Divino Celio,28 - Emerson Gustavo Pinto dos ...
-"Ocorrências / ObservaçõesNada houve de anormal.Motivo de atraso no início e/ou reinício, e de acréscimos:FOI ACRESCIDO 01 MINUTO NO 1° TEMPO E 3 MINUTOS NO 2° TEMPO , POR DEVIDOS SUBSTITUICÕES E REPOSIÇÕES DE BOLA.Observações EventuaisESTALAÇÕES SATISFATORIO , GRAMADO BOM .SubstituiçõesTempo1T/2TEquipeEntrouSaiu09:002TCoritiba/PR43 - Luiz Guilherme Dornelles30 - Djair Veiga Francisco Jun ...09:002TSousa/PB17 - Jose Ronaldo Pereira da S ...8 - Alysson Ferreira da Costa ...21:002TSousa/PB15 - Ricardo Lopes de Oliveira ...11 - Cleber Alves Pordeus27:002TSousa/PB18 - Rodrigo Ferreira de Sousa ...5 - Israel Sobreira Quintilia ...27:002TCoritiba/PR25 - Luis Francisco Grando35 - Sergio Manoel Barbosa San ...37:002TCoritiba/PR16 - Elton Divino Celio28 - Emerson Gustavo Pinto dos ...",,,,
-Substituições,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:FOI ACRESCIDO 01 MINUTO NO 1Â° TEMPO E 3 MINUTOS NO 2Â° TEMPO , POR DEVIDOS SUBSTITUICÃ•ES E REPOSIÃ‡Ã•ES DE BOLA.ObservaÃ§Ãµes EventuaisESTALAÃ‡Ã•ES SATISFATORIO , GRAMADO BOM .SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu09:002TCoritiba/PR43 - Luiz Guilherme Dornelles30 - Djair Veiga Francisco Jun ...09:002TSousa/PB17 - Jose Ronaldo Pereira da S ...8 - Alysson Ferreira da Costa ...21:002TSousa/PB15 - Ricardo Lopes de Oliveira ...11 - Cleber Alves Pordeus27:002TSousa/PB18 - Rodrigo Ferreira de Sousa ...5 - Israel Sobreira Quintilia ...27:002TCoritiba/PR25 - Luis Francisco Grando35 - Sergio Manoel Barbosa San ...37:002TCoritiba/PR16 - Elton Divino Celio28 - Emerson Gustavo Pinto dos ...",,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 09:00,2T,Coritiba/PR,43 - Luiz Guilherme Dornelles,30 - Djair Veiga Francisco Jun ...
 09:00,2T,Sousa/PB,17 - Jose Ronaldo Pereira da S ...,8 - Alysson Ferreira da Costa ...
@@ -65,9 +50,9 @@ Tempo,1T/2T,Equipe,Entrou,Saiu
 27:00,2T,Sousa/PB,18 - Rodrigo Ferreira de Sousa ...,5 - Israel Sobreira Quintilia ...
 27:00,2T,Coritiba/PR,25 - Luis Francisco Grando,35 - Sergio Manoel Barbosa San ...
 37:00,2T,Coritiba/PR,16 - Elton Divino Celio,28 - Emerson Gustavo Pinto dos ...
-"Ocorrências / ObservaçõesNada houve de anormal.Motivo de atraso no início e/ou reinício, e de acréscimos:FOI ACRESCIDO 01 MINUTO NO 1° TEMPO E 3 MINUTOS NO 2° TEMPO , POR DEVIDOS SUBSTITUICÕES E REPOSIÇÕES DE BOLA.Observações EventuaisESTALAÇÕES SATISFATORIO , GRAMADO BOM .SubstituiçõesTempo1T/2TEquipeEntrouSaiu09:002TCoritiba/PR43 - Luiz Guilherme Dornelles30 - Djair Veiga Francisco Jun ...09:002TSousa/PB17 - Jose Ronaldo Pereira da S ...8 - Alysson Ferreira da Costa ...21:002TSousa/PB15 - Ricardo Lopes de Oliveira ...11 - Cleber Alves Pordeus27:002TSousa/PB18 - Rodrigo Ferreira de Sousa ...5 - Israel Sobreira Quintilia ...27:002TCoritiba/PR25 - Luis Francisco Grando35 - Sergio Manoel Barbosa San ...37:002TCoritiba/PR16 - Elton Divino Celio28 - Emerson Gustavo Pinto dos ..."
-Observações Eventuais
-"ESTALAÇÕES SATISFATORIO , GRAMADO BOM ."
-"Ocorrências / ObservaçõesNada houve de anormal.Motivo de atraso no início e/ou reinício, e de acréscimos:FOI ACRESCIDO 01 MINUTO NO 1° TEMPO E 3 MINUTOS NO 2° TEMPO , POR DEVIDOS SUBSTITUICÕES E REPOSIÇÕES DE BOLA.Observações EventuaisESTALAÇÕES SATISFATORIO , GRAMADO BOM .SubstituiçõesTempo1T/2TEquipeEntrouSaiu09:002TCoritiba/PR43 - Luiz Guilherme Dornelles30 - Djair Veiga Francisco Jun ...09:002TSousa/PB17 - Jose Ronaldo Pereira da S ...8 - Alysson Ferreira da Costa ...21:002TSousa/PB15 - Ricardo Lopes de Oliveira ...11 - Cleber Alves Pordeus27:002TSousa/PB18 - Rodrigo Ferreira de Sousa ...5 - Israel Sobreira Quintilia ...27:002TCoritiba/PR25 - Luis Francisco Grando35 - Sergio Manoel Barbosa San ...37:002TCoritiba/PR16 - Elton Divino Celio28 - Emerson Gustavo Pinto dos ..."
-Ocorrências / Observações
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:FOI ACRESCIDO 01 MINUTO NO 1Â° TEMPO E 3 MINUTOS NO 2Â° TEMPO , POR DEVIDOS SUBSTITUICÃ•ES E REPOSIÃ‡Ã•ES DE BOLA.ObservaÃ§Ãµes EventuaisESTALAÃ‡Ã•ES SATISFATORIO , GRAMADO BOM .SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu09:002TCoritiba/PR43 - Luiz Guilherme Dornelles30 - Djair Veiga Francisco Jun ...09:002TSousa/PB17 - Jose Ronaldo Pereira da S ...8 - Alysson Ferreira da Costa ...21:002TSousa/PB15 - Ricardo Lopes de Oliveira ...11 - Cleber Alves Pordeus27:002TSousa/PB18 - Rodrigo Ferreira de Sousa ...5 - Israel Sobreira Quintilia ...27:002TCoritiba/PR25 - Luis Francisco Grando35 - Sergio Manoel Barbosa San ...37:002TCoritiba/PR16 - Elton Divino Celio28 - Emerson Gustavo Pinto dos ..."
+ObservaÃ§Ãµes Eventuais
+"ESTALAÃ‡Ã•ES SATISFATORIO , GRAMADO BOM ."
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:FOI ACRESCIDO 01 MINUTO NO 1Â° TEMPO E 3 MINUTOS NO 2Â° TEMPO , POR DEVIDOS SUBSTITUICÃ•ES E REPOSIÃ‡Ã•ES DE BOLA.ObservaÃ§Ãµes EventuaisESTALAÃ‡Ã•ES SATISFATORIO , GRAMADO BOM .SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu09:002TCoritiba/PR43 - Luiz Guilherme Dornelles30 - Djair Veiga Francisco Jun ...09:002TSousa/PB17 - Jose Ronaldo Pereira da S ...8 - Alysson Ferreira da Costa ...21:002TSousa/PB15 - Ricardo Lopes de Oliveira ...11 - Cleber Alves Pordeus27:002TSousa/PB18 - Rodrigo Ferreira de Sousa ...5 - Israel Sobreira Quintilia ...27:002TCoritiba/PR25 - Luis Francisco Grando35 - Sergio Manoel Barbosa San ...37:002TCoritiba/PR16 - Elton Divino Celio28 - Emerson Gustavo Pinto dos ..."
+OcorrÃªncias / ObservaÃ§Ãµes
 Nada houve de anormal.

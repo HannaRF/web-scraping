@@ -6,36 +6,18 @@ Quarto Arbitro:,Carlos Eduardo Nunes Braga (CBF-2 / RJ)
 Assessor:,Joao J da Silva Loureiro (  / )
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,15:56Atraso:,,Não Houve Entrada do mandante: 17:00,Atraso:,,Não Houve
-Entrada do visitante:,15:57Atraso:,,Não Houve Entrada do visitante: 17:00,Atraso:,,Não Houve
-Início 1o Tempo:,16:00 Atraso:,,Não Houve Início do 2o Tempo: 17:01,Atraso:,,Não Houve
-Término do 1o Tempo:,16:46 Acréscimo:,,1 min Término do 2o Tempo: 17:49,Acréscimo:,,3 min
+Entrada do mandante:,15:56Atraso:,,NÃ£o Houve Entrada do mandante: 17:00,Atraso:,,NÃ£o Houve
+Entrada do visitante:,15:57Atraso:,,NÃ£o Houve Entrada do visitante: 17:00,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,16:00 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 17:01,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,16:46 AcrÃ©scimo:,,1 min TÃ©rmino do 2o Tempo: 17:49,AcrÃ©scimo:,,3 min
 Resultado do 1o Tempo: 1 X 1,,,Resultado do 2o Tempo: 1 X 1,,,
-"",,,,Relação de Jogadores,,,
-"",,Duque de Caxias / RJ,,,Macae / RJ,,
-No,Apelido,Nome Completo,T/R P/A,CBF No Apelido,Nome Completo T/R P/A,,CBF
-1,Fernando,Fernando de Jesus Ri ...,T A,168297 1 Luis Henri ...,Luis Henrique Filgue... T,A,134101
-2,Joao Carlos,Joao Carlos de Castr ...,T P,187979 2 Valdir,Jose Valdir Firmo de... T,P,174793
-3,Paulao,Paulo Rogerio Rodrig ...,T P,163197 3 Cleber,Cleber Dias dos Reis T,A,129159
-4,Iago,Iago Azevedo dos Santos,T P,342107 4 Laerte Rod ...,Laerte Rodrigues de ... T,A,143037
-5,Bruno,Bruno Arrabal Passamani,T P,298107 5 Gedeil,Gedeil da Silva Daudt T,P,155127
-6,Baiano,Janderson Rodrigues  ...,T P,170261 6 Marcos,Marcos Vinicius Fale... T,P,155533
-7,Jefinho,Jeferson Geraldo de  ...,T P,311520 7 Marcelo,Marcelo Oliveira Pinto T,A,341345
-8,Lenon,Lenon Fernandes Ribeiro,T P,184363 8 Lucas Siqu ...,Lucas Santos Siqueira T,P,188170
-9,Bruno Veiga,Bruno Veiga Mattos,T P,181396 9 William,William Gomes Martins T,P,188113
-10,Leandro,Leandro Cruz de Oliveira,T P,154345 10 Norton,Norton Foligno Carva... T,P,189937
-11,Andre,Luiz Andre Gomes,T P,125756 11 Ziquinha,Flavio Luis Chagas T,P,143833
-12,Henrique,Henrique da Silva Gu ...,R A,154215 12 Rerysson,Rerysson Figueira Silva R,P,184331
-13,Ratinho,Antonio Carlos Olive ...,R A,306404 13 Daniel,Daniel Rodrigues Damiao R,P,187091
-14,Sergio,Sergio Raphael dos A ...,R P,319620 14 Luiz,Luiz Eduardo Soares Pina R,P,177476
-15,Weliander,Weliander Silva Nasc ...,R P,154310 15 Carlos,Carlos Bruno Gomes Costa R,P,184281
-16,Micheel,Micheel Angelo Quint ...,R P,320300 16 Jose,Jose Victor de Souza... R,A,327232
-17,Marcos,Marcos Vinicius Ribe ...,R P,182924 17 Rodrigo Da ...,Rodrigo Correa Dantas R,P,185859
-18,Eduardo Pi ...,Eduardo Pinceli,R P,141365 18 Carlos,Carlos Andre dos San... R,P,181173
-19,Flavio,Flavio Eduardo Gomes ...,R P,145566,,,
-20,Washinton,Washinton Tomaz Fran ...,R P,307414,,,
-21,Leonardo,Leonardo Zibetti,R P,430495,,,
-"",,Comissão Técnica,
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,15:56,Atraso:,NÃ£o Houve Entrada do mandante:,17:00,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,16:00,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,17:01,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+1,Fernando,Fernando de Jesus Ri ...,T A,168297,1,Luis Henri ...,Luis Henrique Filgue...,T A,134101
+"",,ComissÃ£o TÃ©cnica,
 "",Duque de Caxias / RJ,,Macae / RJ
 Tecnico:,Eduardo Allax Scherpel - 08129578735,Tecnico:,Gerson Rodrigues Andriotti - 026813121
 Auxiliar Tecnico:,Mario Martins Junior - 57338600,Auxiliar Tecnico:,Jose Carlos Macedo Dos Santos - 051659183
@@ -46,12 +28,12 @@ Massagista:,Robson Luiz De Souza Lourenco - 130580442,Massagista:,Luiz Roberto D
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 10:00,1T,8,NR,Lucas Santos Siqueira,,Macae
 29:00,1T,9,NR,Bruno Veiga Mattos,,Duque de Caxias
-"Ocorrências / ObservaçõesNada houve de anormalObservações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTDuque de Caxias16 - Micheel Angelo Quintanilh ...11 - Luiz Andre Gomes09:002TDuque de Caxias18 - Eduardo Pinceli10 - Leandro Cruz de Oliveira21:002TDuque de Caxias19 - Flavio Eduardo Gomes de S ...7 - Jeferson Geraldo de Almei ...39:002TMacae18 - Carlos Andre dos Santos V ...11 - Flavio Luis Chagas41:002TMacae13 - Daniel Rodrigues Damiao2 - Jose Valdir Firmo de Lima ...45:002TMacae17 - Rodrigo Correa Dantas10 - Norton Foligno Carvalho d ...",,,,
-Ocorrências / Observações,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTDuque de Caxias16 - Micheel Angelo Quintanilh ...11 - Luiz Andre Gomes09:002TDuque de Caxias18 - Eduardo Pinceli10 - Leandro Cruz de Oliveira21:002TDuque de Caxias19 - Flavio Eduardo Gomes de S ...7 - Jeferson Geraldo de Almei ...39:002TMacae18 - Carlos Andre dos Santos V ...11 - Flavio Luis Chagas41:002TMacae13 - Daniel Rodrigues Damiao2 - Jose Valdir Firmo de Lima ...45:002TMacae17 - Rodrigo Correa Dantas10 - Norton Foligno Carvalho d ...",,,,
+OcorrÃªncias / ObservaÃ§Ãµes,,,,
 Nada houve de anormal,,,,
-Observações Eventuais,,,,
+ObservaÃ§Ãµes Eventuais,,,,
 NADA HOUVE DE ANORMAL,,,,
-Substituições,,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 45:00,INT,Duque de Caxias,16 - Micheel Angelo Quintanilh ...,11 - Luiz Andre Gomes
 09:00,2T,Duque de Caxias,18 - Eduardo Pinceli,10 - Leandro Cruz de Oliveira
@@ -59,11 +41,11 @@ Tempo,1T/2T,Equipe,Entrou,Saiu
 39:00,2T,Macae,18 - Carlos Andre dos Santos V ...,11 - Flavio Luis Chagas
 41:00,2T,Macae,13 - Daniel Rodrigues Damiao,2 - Jose Valdir Firmo de Lima ...
 45:00,2T,Macae,17 - Rodrigo Correa Dantas,10 - Norton Foligno Carvalho d ...
-"Ocorrências / ObservaçõesNada houve de anormalObservações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTDuque de Caxias16 - Micheel Angelo Quintanilh ...11 - Luiz Andre Gomes09:002TDuque de Caxias18 - Eduardo Pinceli10 - Leandro Cruz de Oliveira21:002TDuque de Caxias19 - Flavio Eduardo Gomes de S ...7 - Jeferson Geraldo de Almei ...39:002TMacae18 - Carlos Andre dos Santos V ...11 - Flavio Luis Chagas41:002TMacae13 - Daniel Rodrigues Damiao2 - Jose Valdir Firmo de Lima ...45:002TMacae17 - Rodrigo Correa Dantas10 - Norton Foligno Carvalho d ..."
-Observações Eventuais
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTDuque de Caxias16 - Micheel Angelo Quintanilh ...11 - Luiz Andre Gomes09:002TDuque de Caxias18 - Eduardo Pinceli10 - Leandro Cruz de Oliveira21:002TDuque de Caxias19 - Flavio Eduardo Gomes de S ...7 - Jeferson Geraldo de Almei ...39:002TMacae18 - Carlos Andre dos Santos V ...11 - Flavio Luis Chagas41:002TMacae13 - Daniel Rodrigues Damiao2 - Jose Valdir Firmo de Lima ...45:002TMacae17 - Rodrigo Correa Dantas10 - Norton Foligno Carvalho d ..."
+ObservaÃ§Ãµes Eventuais
 NADA HOUVE DE ANORMAL
-"Ocorrências / ObservaçõesNada houve de anormalObservações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTDuque de Caxias16 - Micheel Angelo Quintanilh ...11 - Luiz Andre Gomes09:002TDuque de Caxias18 - Eduardo Pinceli10 - Leandro Cruz de Oliveira21:002TDuque de Caxias19 - Flavio Eduardo Gomes de S ...7 - Jeferson Geraldo de Almei ...39:002TMacae18 - Carlos Andre dos Santos V ...11 - Flavio Luis Chagas41:002TMacae13 - Daniel Rodrigues Damiao2 - Jose Valdir Firmo de Lima ...45:002TMacae17 - Rodrigo Correa Dantas10 - Norton Foligno Carvalho d ...",,,,
-Substituições,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTDuque de Caxias16 - Micheel Angelo Quintanilh ...11 - Luiz Andre Gomes09:002TDuque de Caxias18 - Eduardo Pinceli10 - Leandro Cruz de Oliveira21:002TDuque de Caxias19 - Flavio Eduardo Gomes de S ...7 - Jeferson Geraldo de Almei ...39:002TMacae18 - Carlos Andre dos Santos V ...11 - Flavio Luis Chagas41:002TMacae13 - Daniel Rodrigues Damiao2 - Jose Valdir Firmo de Lima ...45:002TMacae17 - Rodrigo Correa Dantas10 - Norton Foligno Carvalho d ...",,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 45:00,INT,Duque de Caxias,16 - Micheel Angelo Quintanilh ...,11 - Luiz Andre Gomes
 09:00,2T,Duque de Caxias,18 - Eduardo Pinceli,10 - Leandro Cruz de Oliveira
@@ -71,6 +53,6 @@ Tempo,1T/2T,Equipe,Entrou,Saiu
 39:00,2T,Macae,18 - Carlos Andre dos Santos V ...,11 - Flavio Luis Chagas
 41:00,2T,Macae,13 - Daniel Rodrigues Damiao,2 - Jose Valdir Firmo de Lima ...
 45:00,2T,Macae,17 - Rodrigo Correa Dantas,10 - Norton Foligno Carvalho d ...
-"Ocorrências / ObservaçõesNada houve de anormalObservações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTDuque de Caxias16 - Micheel Angelo Quintanilh ...11 - Luiz Andre Gomes09:002TDuque de Caxias18 - Eduardo Pinceli10 - Leandro Cruz de Oliveira21:002TDuque de Caxias19 - Flavio Eduardo Gomes de S ...7 - Jeferson Geraldo de Almei ...39:002TMacae18 - Carlos Andre dos Santos V ...11 - Flavio Luis Chagas41:002TMacae13 - Daniel Rodrigues Damiao2 - Jose Valdir Firmo de Lima ...45:002TMacae17 - Rodrigo Correa Dantas10 - Norton Foligno Carvalho d ..."
-Ocorrências / Observações
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTDuque de Caxias16 - Micheel Angelo Quintanilh ...11 - Luiz Andre Gomes09:002TDuque de Caxias18 - Eduardo Pinceli10 - Leandro Cruz de Oliveira21:002TDuque de Caxias19 - Flavio Eduardo Gomes de S ...7 - Jeferson Geraldo de Almei ...39:002TMacae18 - Carlos Andre dos Santos V ...11 - Flavio Luis Chagas41:002TMacae13 - Daniel Rodrigues Damiao2 - Jose Valdir Firmo de Lima ...45:002TMacae17 - Rodrigo Correa Dantas10 - Norton Foligno Carvalho d ..."
+OcorrÃªncias / ObservaÃ§Ãµes
 Nada houve de anormal

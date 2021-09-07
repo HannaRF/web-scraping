@@ -7,50 +7,30 @@ Inspetor:,Carlos Donizeti Pianosqui (000 / SP)
 Delegado Local:,Jose de Assis Aragao (000 / )
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,15:52Atraso:,,Não Houve Entrada do mandante: 16:59,Atraso:,,Não Houve
-Entrada do visitante:,15:52Atraso:,,Não Houve Entrada do visitante: 16:59,Atraso:,,Não Houve
-Início 1o Tempo:,16:00 Atraso:,,Não Houve Início do 2o Tempo: 17:01,Atraso:,,Não Houve
-Término do 1o Tempo:,16:46 Acréscimo:,,1 min Término do 2o Tempo: 17:49,Acréscimo:,,3 min
+Entrada do mandante:,15:52Atraso:,,NÃ£o Houve Entrada do mandante: 16:59,Atraso:,,NÃ£o Houve
+Entrada do visitante:,15:52Atraso:,,NÃ£o Houve Entrada do visitante: 16:59,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,16:00 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 17:01,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,16:46 AcrÃ©scimo:,,1 min TÃ©rmino do 2o Tempo: 17:49,AcrÃ©scimo:,,3 min
 Resultado do 1o Tempo: 0 X 0,,,Resultado Final: 0 X 0,,,
-"",,,,Relação de Jogadores,,,
-"",,São Paulo / SP,,,Coritiba / PR,,
-No,Apelido,Nome Completo,T/R P/A,CBF No Apelido,Nome Completo,T/R P/A,CBF
-1,Denis,Denis Cesar de Matos,T(g) P,172292 84 Junior,Wilson Rodrigues de ... T(g),P,155508
-7,Michel Bas ...,Michel Fernandes Bastos,T P,155330 3 Luccas Claro,Luccas Claro dos Santos,T P,291708
-9,Chavez,Andres Eliseo Chavez,T P,555122 8 Vinicius,Vinicius Santos Silva,T P,312048
-13,Cueva,Christian Alberto Cu ...,T P,553524 9 Neto Berola,Sosthenes Jose Santo...,T P,291855
-18,Buffarini,Julio Alberto Buffarini,T P,555278 15 Cesar Beni ...,Cesar Ivan Benitez Leon,T P,542127
-19,Lyanco,Lyanco Evangelista S ...,T P,404870 20 Raphael,Raphael Cavalcante Veiga,T P,308405
-21,Mena,Eugenio Esteban Mena ...,T P,445840 28 Jose,Jose Carlos Ferreira...,T P,378851
-23,Thiago Men ...,Thiago Henrique Mend ...,T P,353262 31 Joao Paulo,Joao Paulo da Silva,T P,174223
-25,Hudson,Hudson Rodrigues dos ...,T P,176729 33 Edinho,Edimo Ferreira Campos,T P,143977
-27,Maicon,Maicon Pereira Roque,T P,178178 55 Juan,Juan Maldonado Jaime...,T P,145923
-30,Kelvin,Kelvin Mateus de Oli ...,T P,300791 98 Dodô,Domilson Cordeiro do...,T P,433313
-4,Lucas,Lucas Cavalcante Sil ...,R P,351849 1 Rafael,Rafael Martins Claro...,R P,188241
-5,Diego Lugano,Diego Alfredo Lugano ...,R P,162393 7 Iago,Iago Angelo Dias,R P,387255
-6,Carlinhos,Carlos Andrade Souza,R P,173760 11 Weverson,Weverson Leandro Oli...,R P,343235
-8,Daniel Cor ...,Daniel Correa Freitas,R P,324491 16 Amaral,William Jose de Souza,R P,169939
-11,Wesley,Wesley Lopes Beltrame,R P,170540 18 Ortega,Jorge Miguel Ortega ...,R P,542126
-15,Joao,Joao Felipe Schmidt  ...,R P,316640 21 Ceara,Walisson Moreira Far...,R P,298361
-24,Leonardo,Leonardo da Silva Vieira,R P,177092 32 Bernardo,Bernardo Vieira de Souza,R P,175729
-26,Auro,Auro Alvaro da Cruz  ...,R P,321561 35 Icaro,Icaro Cosmo da Rocha,R P,184967
-28,Matheus Reis,Matheus Reis de Lima,R P,337413 37 Thiago,Thiago Ferreira Lopes,R P,375729
-31,Luiz,Luiz de Araujo Guima ...,R P,424455,,,
-33,Jose,Jose Artur de Lima J ...,R P,367141,,,
-35,Pedro,Pedro Gomes Bortoluzo,R P,374319,,,
-"",,Comissão Técnica
-"",São Paulo / SP,Coritiba / PR
-Técnico:,Ricardo Gomes Raymundo  - 80047963700,Massagista: Marcelo Clemines De Araujo - 30242341870
-Auxiliar Técnico:,Luiz Otavio Duarte Ferreira - 40245616772,Médico: Milton Massahide Nagai - 65070593900
-Médico:,Dr. Jose Sanchez De Aquino - 45392,Técnico: Paulo Cezar Carpegiani - 9494170091
-Preparador Físico:,Jose Mario Campeiz - 005279 G SP,Preparador Físico: Robson Luiz Martins Gomes - 65125134953
-Massagista:,Ailton Rodrigues - 05387376890,Auxiliar Técnico: Rodrigo Meneghetti Carpegiani - 92854036034
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,15:52,Atraso:,NÃ£o Houve Entrada do mandante:,16:59,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,16:00,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,17:01,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+1,Denis,Denis Cesar de Matos,T(g) P,172292,84,Junior,Wilson Rodrigues de ...,T(g) P,155508
+"",,ComissÃ£o TÃ©cnica
+"",SÃ£o Paulo / SP,Coritiba / PR
+TÃ©cnico:,Ricardo Gomes Raymundo  - 80047963700,Massagista: Marcelo Clemines De Araujo - 30242341870
+Auxiliar TÃ©cnico:,Luiz Otavio Duarte Ferreira - 40245616772,MÃ©dico: Milton Massahide Nagai - 65070593900
+MÃ©dico:,Dr. Jose Sanchez De Aquino - 45392,TÃ©cnico: Paulo Cezar Carpegiani - 9494170091
+Preparador FÃ­sico:,Jose Mario Campeiz - 005279 G SP,Preparador FÃ­sico: Robson Luiz Martins Gomes - 65125134953
+Massagista:,Ailton Rodrigues - 05387376890,Auxiliar TÃ©cnico: Rodrigo Meneghetti Carpegiani - 92854036034
 Preparador De GoleiroC:a rlos Roberto Gallo - 77435370800,,Treinador De GoleirosV:a nderlei Belarmino - 66897939900
 "",,Preparador De GoleiroV:a nderlei Belarmino - 66897939900
-"",,,,Substituições,
+"",,,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,,Equipe,Entrou,Saiu
 45:00,INT,Coritiba/PR,,7 - Iago Angelo Dias,8 - Vinicius Santos Silva
-15:00,2T,São Paulo/SP,,31 - Luiz de Araujo Guimaraes  ...,7 - Michel Fernandes Bastos
-27:00,2T,São Paulo/SP,,35 - Pedro Gomes Bortoluzo,30 - Kelvin Mateus de Oliveira ...
+15:00,2T,SÃ£o Paulo/SP,,31 - Luiz de Araujo Guimaraes  ...,7 - Michel Fernandes Bastos
+27:00,2T,SÃ£o Paulo/SP,,35 - Pedro Gomes Bortoluzo,30 - Kelvin Mateus de Oliveira ...
 31:00,2T,Coritiba/PR,,18 - Jorge Miguel Ortega Salin ...,9 - Sosthenes Jose Santos Sal ...
 39:00,2T,Coritiba/PR,,21 - Walisson Moreira Farias M ...,31 - Joao Paulo da Silva

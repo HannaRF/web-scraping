@@ -6,38 +6,18 @@ Quarto Arbitro:,Alessandro Darcie (CBF-3 / SP),
 Delegado  Especial:,Almir Alves de Mello (ASS / SP),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,21:45Atraso:,,Não Houve Entrada do mandante: 22:50,Atraso:,,Não Houve
-Entrada do visitante:,21:45Atraso:,,Não Houve Entrada do visitante: 22:51,Atraso:,,Não Houve
-Início 1o Tempo:,21:50 Atraso:,,Não Houve Início do 2o Tempo: 22:53,Atraso:,,2 min
-Término do 1o Tempo:,22:36 Acréscimo:,,1 min Término do 2o Tempo: 23:42,Acréscimo:,,4 min
+Entrada do mandante:,21:45Atraso:,,NÃ£o Houve Entrada do mandante: 22:50,Atraso:,,NÃ£o Houve
+Entrada do visitante:,21:45Atraso:,,NÃ£o Houve Entrada do visitante: 22:51,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,21:50 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 22:53,Atraso:,,2 min
+TÃ©rmino do 1o Tempo:,22:36 AcrÃ©scimo:,,1 min TÃ©rmino do 2o Tempo: 23:42,AcrÃ©scimo:,,4 min
 Resultado do 1o Tempo: 0 X 1,,,Resultado Final: 5 X 1,,,
-"",,,,Relação de Jogadores,,,
-"",,Palmeiras / SP,,,Sampaio Correa / MA,,
-No,Apelido,Nome Completo,T/R P/A,CBF No Apelido,Nome Completo,T/R P/A,CBF
-1,Fernando,Fernando Buttenbende ...,T P,137377 1 Eudes,Eudes Ruan de Sousa ...,T P,295153
-7,Dudu,Eduardo Pereira Rodr ...,T P,291738 2 Gilberto,Gilberto Elias Santiago,T P,303859
-9,Cristaldo,Jonatan Ezequiel Cri ...,T P,511616 3 Luiz,Luiz Otavio Anacleto...,T P,291651
-11,Ze Roberto,Jose Roberto da Silv ...,T P,120815 4 Edvanio,Edvanio dos Reis,T P,185846
-15,Amaral,William Jose de Souza,T P,169939 5 Moises,Moises Ribeiro Santos,T P,328812
-18,Gabriel,Gabriel Girotto Franco,T P,320839 6 Rai,Raimundo Jose Cutrim...,T P,168366
-19,Rafael Mar ...,Rafael Marques Mariano,T P,158615 7 Rogerio,Rogerio Oliveira Lima,T P,343398
-31,Vitor Hugo,Vitor Hugo Franchesc ...,T P,300140 8 Diones,Diones Coelho da Costa,T P,172714
-32,Lucas,Lucas Rios Marques,T P,178827 9 Robert,Robert de Pinho de Souza,T P,140778
-34,Pirulito,Wellington da Silva  ...,T P,299676 10 Valber,Valber Mendes Ferreira,T P,148584
-66,Egidio,Egidio de Araujo Per ...,T P,157280 11 Anderson,Anderson Wanderllan ...,T P,183546
-4,Nathan,Nathan Raphael Pelae ...,R P,317706 12 Valdemar,Valdemar Pereira Junior,R P,180236
-6,Joao Paulo,Joao Paulo Gomes da  ...,R P,155855 13 Robson,Robson Simplicio,R P,176095
-13,Maikon,Maikon Fernando Souz ...,R P,184685 14 Mimica,Ademilson Silva Marques,R P,172741
-21,Alan Patrick,Alan Patrick Lourenço,R P,305976 15 Teodorico,Teodorico Caldeira C...,R P,293025
-25,Aranha,Mario Lucio Duarte Costa,R P,142720 16 Can,Gladson do Nascimento,R P,178848
-27,Robinho,Robson Michael Signorini,R P,172189 17 Leomar,Kerliomar Lima Pinheiro,R P,365320
-28,Andrei,Andrei Girotto,R P,330966 18 Cleiton,Cleiton Cortes Souza,R P,185401
-29,Kelvin,Kelvin Mateus de Oli ...,R P,300791 19 Geraldo,Geraldo Batista dos ...,R P,302814
-38,Weverson,Weverson Leandro Oli ...,R P,343235,,,
-39,Ryder,Ryder Matos Santos Pinto,R P,419292,,,
-42,Ayrton,Ayrton Luiz Ganino,R P,169529,,,
-49,Jailson,Jailson Marcelino do ...,R P,153229,,,
-"",,Comissão Técnica,
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,21:45,Atraso:,NÃ£o Houve Entrada do mandante:,22:50,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,21:50,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,22:53,Atraso:,2 min
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+1,Fernando,Fernando Buttenbende ...,T P,137377,1,Eudes,Eudes Ruan de Sousa ...,T P,295153
+"",,ComissÃ£o TÃ©cnica,
 "",Palmeiras / SP,,Sampaio Correa / MA
 Tecnico:,Osvaldo De Oliveira Filho - 2751822,Tecnico:,Luis Airlindo De Jesus Dos Santos - 28966929
 Auxiliar Tecnico:,Luiz Alberto Da Silva - 29379261,Auxiliar Tecnico:,Marcos Riccelli Costa Mendes - 312699950
@@ -52,17 +32,17 @@ Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 21:00,2T,11,NR,Jose Roberto da Silva Junior,,Palmeiras/SP
 34:00,2T,29,NR,Kelvin Mateus de Oliveira,,Palmeiras/SP
 +2,2T,11,NR,Jose Roberto da Silva Junior,,Palmeiras/SP
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:ACRÉSCIMOS EM AMBOS OS TEMPOS, DEVIDO A SUBSTITUIÇÕES E REPOSIÇÃO DE BOLA EM JOGO.INFORMO QUE AMBAS AS EQUIPESRESOLVERAM ENTRAR NO CAMPO DE JOGO JUNTAS, SEGUINDO O PROTOCOLO DE ENTRADA EM CAMPO NO INICIO DA PARTIDA.INFORMOTAMBÉM QUE O REINICIO DA PARTIDA TEVE 2 MINUTOS DE ATRASO, DEVIDO AO PROCEDIMENTO DE SUBSTITUIÇÃO E DISTRIBUIÇÃO DEJOGADORES NO CAMPO DE JOGO.Observações EventuaisNADA HOUVE DE ANORMALRelatório do AssistenteNADA A RELATAR.SubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTPalmeiras/SP27 - Robson Michael Signorini15 - William Jose de Souza13:002TSampaio Correa/MA18 - Cleiton Cortes Souza10 - Valber Mendes Ferreira23:002TSampaio Correa/MA16 - Gladson do Nascimento7 - Rogerio Oliveira Lima29:002TPalmeiras/SP29 - Kelvin Mateus de Oliveira ...9 - Jonatan Ezequiel Cristald ...36:002TSampaio Correa/MA15 - Teodorico Caldeira Costa  ...11 - Anderson Wanderllan de Mo ...42:002TPalmeiras/SP38 - Weverson Leandro Oliveira ...7 - Eduardo Pereira Rodrigues ..."
-"Motivo de atraso no início e/ou reinício, e de acréscimos:"
-"ACRÉSCIMOS EM AMBOS OS TEMPOS, DEVIDO A SUBSTITUIÇÕES E REPOSIÇÃO DE BOLA EM JOGO.INFORMO QUE AMBAS AS EQUIPES"
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:ACRÃ‰SCIMOS EM AMBOS OS TEMPOS, DEVIDO A SUBSTITUIÃ‡Ã•ES E REPOSIÃ‡ÃƒO DE BOLA EM JOGO.INFORMO QUE AMBAS AS EQUIPESRESOLVERAM ENTRAR NO CAMPO DE JOGO JUNTAS, SEGUINDO O PROTOCOLO DE ENTRADA EM CAMPO NO INICIO DA PARTIDA.INFORMOTAMBÃ‰M QUE O REINICIO DA PARTIDA TEVE 2 MINUTOS DE ATRASO, DEVIDO AO PROCEDIMENTO DE SUBSTITUIÃ‡ÃƒO E DISTRIBUIÃ‡ÃƒO DEJOGADORES NO CAMPO DE JOGO.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALRelatÃ³rio do AssistenteNADA A RELATAR.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTPalmeiras/SP27 - Robson Michael Signorini15 - William Jose de Souza13:002TSampaio Correa/MA18 - Cleiton Cortes Souza10 - Valber Mendes Ferreira23:002TSampaio Correa/MA16 - Gladson do Nascimento7 - Rogerio Oliveira Lima29:002TPalmeiras/SP29 - Kelvin Mateus de Oliveira ...9 - Jonatan Ezequiel Cristald ...36:002TSampaio Correa/MA15 - Teodorico Caldeira Costa  ...11 - Anderson Wanderllan de Mo ...42:002TPalmeiras/SP38 - Weverson Leandro Oliveira ...7 - Eduardo Pereira Rodrigues ..."
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:"
+"ACRÃ‰SCIMOS EM AMBOS OS TEMPOS, DEVIDO A SUBSTITUIÃ‡Ã•ES E REPOSIÃ‡ÃƒO DE BOLA EM JOGO.INFORMO QUE AMBAS AS EQUIPES"
 "RESOLVERAM ENTRAR NO CAMPO DE JOGO JUNTAS, SEGUINDO O PROTOCOLO DE ENTRADA EM CAMPO NO INICIO DA PARTIDA.INFORMO"
-"TAMBÉM QUE O REINICIO DA PARTIDA TEVE 2 MINUTOS DE ATRASO, DEVIDO AO PROCEDIMENTO DE SUBSTITUIÇÃO E DISTRIBUIÇÃO DE"
+"TAMBÃ‰M QUE O REINICIO DA PARTIDA TEVE 2 MINUTOS DE ATRASO, DEVIDO AO PROCEDIMENTO DE SUBSTITUIÃ‡ÃƒO E DISTRIBUIÃ‡ÃƒO DE"
 JOGADORES NO CAMPO DE JOGO.
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:ACRÉSCIMOS EM AMBOS OS TEMPOS, DEVIDO A SUBSTITUIÇÕES E REPOSIÇÃO DE BOLA EM JOGO.INFORMO QUE AMBAS AS EQUIPESRESOLVERAM ENTRAR NO CAMPO DE JOGO JUNTAS, SEGUINDO O PROTOCOLO DE ENTRADA EM CAMPO NO INICIO DA PARTIDA.INFORMOTAMBÉM QUE O REINICIO DA PARTIDA TEVE 2 MINUTOS DE ATRASO, DEVIDO AO PROCEDIMENTO DE SUBSTITUIÇÃO E DISTRIBUIÇÃO DEJOGADORES NO CAMPO DE JOGO.Observações EventuaisNADA HOUVE DE ANORMALRelatório do AssistenteNADA A RELATAR.SubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTPalmeiras/SP27 - Robson Michael Signorini15 - William Jose de Souza13:002TSampaio Correa/MA18 - Cleiton Cortes Souza10 - Valber Mendes Ferreira23:002TSampaio Correa/MA16 - Gladson do Nascimento7 - Rogerio Oliveira Lima29:002TPalmeiras/SP29 - Kelvin Mateus de Oliveira ...9 - Jonatan Ezequiel Cristald ...36:002TSampaio Correa/MA15 - Teodorico Caldeira Costa  ...11 - Anderson Wanderllan de Mo ...42:002TPalmeiras/SP38 - Weverson Leandro Oliveira ...7 - Eduardo Pereira Rodrigues ..."
-Observações Eventuais
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:ACRÃ‰SCIMOS EM AMBOS OS TEMPOS, DEVIDO A SUBSTITUIÃ‡Ã•ES E REPOSIÃ‡ÃƒO DE BOLA EM JOGO.INFORMO QUE AMBAS AS EQUIPESRESOLVERAM ENTRAR NO CAMPO DE JOGO JUNTAS, SEGUINDO O PROTOCOLO DE ENTRADA EM CAMPO NO INICIO DA PARTIDA.INFORMOTAMBÃ‰M QUE O REINICIO DA PARTIDA TEVE 2 MINUTOS DE ATRASO, DEVIDO AO PROCEDIMENTO DE SUBSTITUIÃ‡ÃƒO E DISTRIBUIÃ‡ÃƒO DEJOGADORES NO CAMPO DE JOGO.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALRelatÃ³rio do AssistenteNADA A RELATAR.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTPalmeiras/SP27 - Robson Michael Signorini15 - William Jose de Souza13:002TSampaio Correa/MA18 - Cleiton Cortes Souza10 - Valber Mendes Ferreira23:002TSampaio Correa/MA16 - Gladson do Nascimento7 - Rogerio Oliveira Lima29:002TPalmeiras/SP29 - Kelvin Mateus de Oliveira ...9 - Jonatan Ezequiel Cristald ...36:002TSampaio Correa/MA15 - Teodorico Caldeira Costa  ...11 - Anderson Wanderllan de Mo ...42:002TPalmeiras/SP38 - Weverson Leandro Oliveira ...7 - Eduardo Pereira Rodrigues ..."
+ObservaÃ§Ãµes Eventuais
 NADA HOUVE DE ANORMAL
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:ACRÉSCIMOS EM AMBOS OS TEMPOS, DEVIDO A SUBSTITUIÇÕES E REPOSIÇÃO DE BOLA EM JOGO.INFORMO QUE AMBAS AS EQUIPESRESOLVERAM ENTRAR NO CAMPO DE JOGO JUNTAS, SEGUINDO O PROTOCOLO DE ENTRADA EM CAMPO NO INICIO DA PARTIDA.INFORMOTAMBÉM QUE O REINICIO DA PARTIDA TEVE 2 MINUTOS DE ATRASO, DEVIDO AO PROCEDIMENTO DE SUBSTITUIÇÃO E DISTRIBUIÇÃO DEJOGADORES NO CAMPO DE JOGO.Observações EventuaisNADA HOUVE DE ANORMALRelatório do AssistenteNADA A RELATAR.SubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTPalmeiras/SP27 - Robson Michael Signorini15 - William Jose de Souza13:002TSampaio Correa/MA18 - Cleiton Cortes Souza10 - Valber Mendes Ferreira23:002TSampaio Correa/MA16 - Gladson do Nascimento7 - Rogerio Oliveira Lima29:002TPalmeiras/SP29 - Kelvin Mateus de Oliveira ...9 - Jonatan Ezequiel Cristald ...36:002TSampaio Correa/MA15 - Teodorico Caldeira Costa  ...11 - Anderson Wanderllan de Mo ...42:002TPalmeiras/SP38 - Weverson Leandro Oliveira ...7 - Eduardo Pereira Rodrigues ...",,,,
-Substituições,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:ACRÃ‰SCIMOS EM AMBOS OS TEMPOS, DEVIDO A SUBSTITUIÃ‡Ã•ES E REPOSIÃ‡ÃƒO DE BOLA EM JOGO.INFORMO QUE AMBAS AS EQUIPESRESOLVERAM ENTRAR NO CAMPO DE JOGO JUNTAS, SEGUINDO O PROTOCOLO DE ENTRADA EM CAMPO NO INICIO DA PARTIDA.INFORMOTAMBÃ‰M QUE O REINICIO DA PARTIDA TEVE 2 MINUTOS DE ATRASO, DEVIDO AO PROCEDIMENTO DE SUBSTITUIÃ‡ÃƒO E DISTRIBUIÃ‡ÃƒO DEJOGADORES NO CAMPO DE JOGO.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALRelatÃ³rio do AssistenteNADA A RELATAR.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTPalmeiras/SP27 - Robson Michael Signorini15 - William Jose de Souza13:002TSampaio Correa/MA18 - Cleiton Cortes Souza10 - Valber Mendes Ferreira23:002TSampaio Correa/MA16 - Gladson do Nascimento7 - Rogerio Oliveira Lima29:002TPalmeiras/SP29 - Kelvin Mateus de Oliveira ...9 - Jonatan Ezequiel Cristald ...36:002TSampaio Correa/MA15 - Teodorico Caldeira Costa  ...11 - Anderson Wanderllan de Mo ...42:002TPalmeiras/SP38 - Weverson Leandro Oliveira ...7 - Eduardo Pereira Rodrigues ...",,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 45:00,INT,Palmeiras/SP,27 - Robson Michael Signorini,15 - William Jose de Souza
 13:00,2T,Sampaio Correa/MA,18 - Cleiton Cortes Souza,10 - Valber Mendes Ferreira
@@ -70,22 +50,22 @@ Tempo,1T/2T,Equipe,Entrou,Saiu
 29:00,2T,Palmeiras/SP,29 - Kelvin Mateus de Oliveira ...,9 - Jonatan Ezequiel Cristald ...
 36:00,2T,Sampaio Correa/MA,15 - Teodorico Caldeira Costa  ...,11 - Anderson Wanderllan de Mo ...
 42:00,2T,Palmeiras/SP,38 - Weverson Leandro Oliveira ...,7 - Eduardo Pereira Rodrigues ...
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:ACRÉSCIMOS EM AMBOS OS TEMPOS, DEVIDO A SUBSTITUIÇÕES E REPOSIÇÃO DE BOLA EM JOGO.INFORMO QUE AMBAS AS EQUIPESRESOLVERAM ENTRAR NO CAMPO DE JOGO JUNTAS, SEGUINDO O PROTOCOLO DE ENTRADA EM CAMPO NO INICIO DA PARTIDA.INFORMOTAMBÉM QUE O REINICIO DA PARTIDA TEVE 2 MINUTOS DE ATRASO, DEVIDO AO PROCEDIMENTO DE SUBSTITUIÇÃO E DISTRIBUIÇÃO DEJOGADORES NO CAMPO DE JOGO.Observações EventuaisNADA HOUVE DE ANORMALRelatório do AssistenteNADA A RELATAR.SubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTPalmeiras/SP27 - Robson Michael Signorini15 - William Jose de Souza13:002TSampaio Correa/MA18 - Cleiton Cortes Souza10 - Valber Mendes Ferreira23:002TSampaio Correa/MA16 - Gladson do Nascimento7 - Rogerio Oliveira Lima29:002TPalmeiras/SP29 - Kelvin Mateus de Oliveira ...9 - Jonatan Ezequiel Cristald ...36:002TSampaio Correa/MA15 - Teodorico Caldeira Costa  ...11 - Anderson Wanderllan de Mo ...42:002TPalmeiras/SP38 - Weverson Leandro Oliveira ...7 - Eduardo Pereira Rodrigues ..."
-Ocorrências / Observações
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:ACRÃ‰SCIMOS EM AMBOS OS TEMPOS, DEVIDO A SUBSTITUIÃ‡Ã•ES E REPOSIÃ‡ÃƒO DE BOLA EM JOGO.INFORMO QUE AMBAS AS EQUIPESRESOLVERAM ENTRAR NO CAMPO DE JOGO JUNTAS, SEGUINDO O PROTOCOLO DE ENTRADA EM CAMPO NO INICIO DA PARTIDA.INFORMOTAMBÃ‰M QUE O REINICIO DA PARTIDA TEVE 2 MINUTOS DE ATRASO, DEVIDO AO PROCEDIMENTO DE SUBSTITUIÃ‡ÃƒO E DISTRIBUIÃ‡ÃƒO DEJOGADORES NO CAMPO DE JOGO.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALRelatÃ³rio do AssistenteNADA A RELATAR.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTPalmeiras/SP27 - Robson Michael Signorini15 - William Jose de Souza13:002TSampaio Correa/MA18 - Cleiton Cortes Souza10 - Valber Mendes Ferreira23:002TSampaio Correa/MA16 - Gladson do Nascimento7 - Rogerio Oliveira Lima29:002TPalmeiras/SP29 - Kelvin Mateus de Oliveira ...9 - Jonatan Ezequiel Cristald ...36:002TSampaio Correa/MA15 - Teodorico Caldeira Costa  ...11 - Anderson Wanderllan de Mo ...42:002TPalmeiras/SP38 - Weverson Leandro Oliveira ...7 - Eduardo Pereira Rodrigues ..."
+OcorrÃªncias / ObservaÃ§Ãµes
 Nada houve de anormal
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:ACRÉSCIMOS EM AMBOS OS TEMPOS, DEVIDO A SUBSTITUIÇÕES E REPOSIÇÃO DE BOLA EM JOGO.INFORMO QUE AMBAS AS EQUIPESRESOLVERAM ENTRAR NO CAMPO DE JOGO JUNTAS, SEGUINDO O PROTOCOLO DE ENTRADA EM CAMPO NO INICIO DA PARTIDA.INFORMOTAMBÉM QUE O REINICIO DA PARTIDA TEVE 2 MINUTOS DE ATRASO, DEVIDO AO PROCEDIMENTO DE SUBSTITUIÇÃO E DISTRIBUIÇÃO DEJOGADORES NO CAMPO DE JOGO.Observações EventuaisNADA HOUVE DE ANORMALRelatório do AssistenteNADA A RELATAR.SubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTPalmeiras/SP27 - Robson Michael Signorini15 - William Jose de Souza13:002TSampaio Correa/MA18 - Cleiton Cortes Souza10 - Valber Mendes Ferreira23:002TSampaio Correa/MA16 - Gladson do Nascimento7 - Rogerio Oliveira Lima29:002TPalmeiras/SP29 - Kelvin Mateus de Oliveira ...9 - Jonatan Ezequiel Cristald ...36:002TSampaio Correa/MA15 - Teodorico Caldeira Costa  ...11 - Anderson Wanderllan de Mo ...42:002TPalmeiras/SP38 - Weverson Leandro Oliveira ...7 - Eduardo Pereira Rodrigues ...",,,,
-Ocorrências / Observações,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:ACRÃ‰SCIMOS EM AMBOS OS TEMPOS, DEVIDO A SUBSTITUIÃ‡Ã•ES E REPOSIÃ‡ÃƒO DE BOLA EM JOGO.INFORMO QUE AMBAS AS EQUIPESRESOLVERAM ENTRAR NO CAMPO DE JOGO JUNTAS, SEGUINDO O PROTOCOLO DE ENTRADA EM CAMPO NO INICIO DA PARTIDA.INFORMOTAMBÃ‰M QUE O REINICIO DA PARTIDA TEVE 2 MINUTOS DE ATRASO, DEVIDO AO PROCEDIMENTO DE SUBSTITUIÃ‡ÃƒO E DISTRIBUIÃ‡ÃƒO DEJOGADORES NO CAMPO DE JOGO.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALRelatÃ³rio do AssistenteNADA A RELATAR.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTPalmeiras/SP27 - Robson Michael Signorini15 - William Jose de Souza13:002TSampaio Correa/MA18 - Cleiton Cortes Souza10 - Valber Mendes Ferreira23:002TSampaio Correa/MA16 - Gladson do Nascimento7 - Rogerio Oliveira Lima29:002TPalmeiras/SP29 - Kelvin Mateus de Oliveira ...9 - Jonatan Ezequiel Cristald ...36:002TSampaio Correa/MA15 - Teodorico Caldeira Costa  ...11 - Anderson Wanderllan de Mo ...42:002TPalmeiras/SP38 - Weverson Leandro Oliveira ...7 - Eduardo Pereira Rodrigues ...",,,,
+OcorrÃªncias / ObservaÃ§Ãµes,,,,
 Nada houve de anormal,,,,
-"Motivo de atraso no início e/ou reinício, e de acréscimos:",,,,
-"ACRÉSCIMOS EM AMBOS OS TEMPOS, DEVIDO A SUBSTITUIÇÕES E REPOSIÇÃO DE BOLA EM JOGO.INFORMO QUE AMBAS AS EQUIPES",,,,
+"Motivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:",,,,
+"ACRÃ‰SCIMOS EM AMBOS OS TEMPOS, DEVIDO A SUBSTITUIÃ‡Ã•ES E REPOSIÃ‡ÃƒO DE BOLA EM JOGO.INFORMO QUE AMBAS AS EQUIPES",,,,
 "RESOLVERAM ENTRAR NO CAMPO DE JOGO JUNTAS, SEGUINDO O PROTOCOLO DE ENTRADA EM CAMPO NO INICIO DA PARTIDA.INFORMO",,,,
-"TAMBÉM QUE O REINICIO DA PARTIDA TEVE 2 MINUTOS DE ATRASO, DEVIDO AO PROCEDIMENTO DE SUBSTITUIÇÃO E DISTRIBUIÇÃO DE",,,,
+"TAMBÃ‰M QUE O REINICIO DA PARTIDA TEVE 2 MINUTOS DE ATRASO, DEVIDO AO PROCEDIMENTO DE SUBSTITUIÃ‡ÃƒO E DISTRIBUIÃ‡ÃƒO DE",,,,
 JOGADORES NO CAMPO DE JOGO.,,,,
-Observações Eventuais,,,,
+ObservaÃ§Ãµes Eventuais,,,,
 NADA HOUVE DE ANORMAL,,,,
-Relatório do Assistente,,,,
+RelatÃ³rio do Assistente,,,,
 NADA A RELATAR.,,,,
-Substituições,,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 45:00,INT,Palmeiras/SP,27 - Robson Michael Signorini,15 - William Jose de Souza
 13:00,2T,Sampaio Correa/MA,18 - Cleiton Cortes Souza,10 - Valber Mendes Ferreira
@@ -93,6 +73,6 @@ Tempo,1T/2T,Equipe,Entrou,Saiu
 29:00,2T,Palmeiras/SP,29 - Kelvin Mateus de Oliveira ...,9 - Jonatan Ezequiel Cristald ...
 36:00,2T,Sampaio Correa/MA,15 - Teodorico Caldeira Costa  ...,11 - Anderson Wanderllan de Mo ...
 42:00,2T,Palmeiras/SP,38 - Weverson Leandro Oliveira ...,7 - Eduardo Pereira Rodrigues ...
-"Ocorrências / ObservaçõesNada houve de anormalMotivo de atraso no início e/ou reinício, e de acréscimos:ACRÉSCIMOS EM AMBOS OS TEMPOS, DEVIDO A SUBSTITUIÇÕES E REPOSIÇÃO DE BOLA EM JOGO.INFORMO QUE AMBAS AS EQUIPESRESOLVERAM ENTRAR NO CAMPO DE JOGO JUNTAS, SEGUINDO O PROTOCOLO DE ENTRADA EM CAMPO NO INICIO DA PARTIDA.INFORMOTAMBÉM QUE O REINICIO DA PARTIDA TEVE 2 MINUTOS DE ATRASO, DEVIDO AO PROCEDIMENTO DE SUBSTITUIÇÃO E DISTRIBUIÇÃO DEJOGADORES NO CAMPO DE JOGO.Observações EventuaisNADA HOUVE DE ANORMALRelatório do AssistenteNADA A RELATAR.SubstituiçõesTempo1T/2TEquipeEntrouSaiu45:00INTPalmeiras/SP27 - Robson Michael Signorini15 - William Jose de Souza13:002TSampaio Correa/MA18 - Cleiton Cortes Souza10 - Valber Mendes Ferreira23:002TSampaio Correa/MA16 - Gladson do Nascimento7 - Rogerio Oliveira Lima29:002TPalmeiras/SP29 - Kelvin Mateus de Oliveira ...9 - Jonatan Ezequiel Cristald ...36:002TSampaio Correa/MA15 - Teodorico Caldeira Costa  ...11 - Anderson Wanderllan de Mo ...42:002TPalmeiras/SP38 - Weverson Leandro Oliveira ...7 - Eduardo Pereira Rodrigues ..."
-Relatório do Assistente
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormalMotivo de atraso no inÃ­cio e/ou reinÃ­cio, e de acrÃ©scimos:ACRÃ‰SCIMOS EM AMBOS OS TEMPOS, DEVIDO A SUBSTITUIÃ‡Ã•ES E REPOSIÃ‡ÃƒO DE BOLA EM JOGO.INFORMO QUE AMBAS AS EQUIPESRESOLVERAM ENTRAR NO CAMPO DE JOGO JUNTAS, SEGUINDO O PROTOCOLO DE ENTRADA EM CAMPO NO INICIO DA PARTIDA.INFORMOTAMBÃ‰M QUE O REINICIO DA PARTIDA TEVE 2 MINUTOS DE ATRASO, DEVIDO AO PROCEDIMENTO DE SUBSTITUIÃ‡ÃƒO E DISTRIBUIÃ‡ÃƒO DEJOGADORES NO CAMPO DE JOGO.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALRelatÃ³rio do AssistenteNADA A RELATAR.SubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu45:00INTPalmeiras/SP27 - Robson Michael Signorini15 - William Jose de Souza13:002TSampaio Correa/MA18 - Cleiton Cortes Souza10 - Valber Mendes Ferreira23:002TSampaio Correa/MA16 - Gladson do Nascimento7 - Rogerio Oliveira Lima29:002TPalmeiras/SP29 - Kelvin Mateus de Oliveira ...9 - Jonatan Ezequiel Cristald ...36:002TSampaio Correa/MA15 - Teodorico Caldeira Costa  ...11 - Anderson Wanderllan de Mo ...42:002TPalmeiras/SP38 - Weverson Leandro Oliveira ...7 - Eduardo Pereira Rodrigues ..."
+RelatÃ³rio do Assistente
 NADA A RELATAR.

@@ -8,36 +8,21 @@ Arbitro Assist Adic 2:,Evandro Tiago Bender (CBF-2 / SC),
 Assessor:,Jose Mocellin (  / ),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,18:30Atraso:,,Não Houve Entrada do mandante: 19:33,Atraso:,,Não Houve
-Entrada do visitante:,18:27Atraso:,,Não Houve Entrada do visitante: 19:33,Atraso:,,Não Houve
-Início 1o Tempo:,18:33 Atraso:,,3 min Início do 2o Tempo: 19:34,Atraso:,,Não Houve
-Término do 1o Tempo:,19:19 Acréscimo:,,1 min Término do 2o Tempo: 20:24,Acréscimo:,,5 min
+Entrada do mandante:,18:30Atraso:,,NÃ£o Houve Entrada do mandante: 19:33,Atraso:,,NÃ£o Houve
+Entrada do visitante:,18:27Atraso:,,NÃ£o Houve Entrada do visitante: 19:33,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,18:33 Atraso:,,3 min InÃ­cio do 2o Tempo: 19:34,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,19:19 AcrÃ©scimo:,,1 min TÃ©rmino do 2o Tempo: 20:24,AcrÃ©scimo:,,5 min
 Resultado do 1o Tempo: 0 X 1,,,Resultado do 2o Tempo: 1 X 2,,,
-"",,,,Relação de Jogadores,,,
-"",,Internacional / RS,,,Bahia / BA,,
-No,Apelido,Nome Completo,T/R P/A,CBF No Apelido,Nome Completo,T/R P/A,CBF
-1,Muriel,Muriel Gustavo Becker,T P,165925 1 Marcelo,Marcelo Lomba do Nas...,T P,157264
-2,Gabriel,Gabriel Rodrigues do ...,T P,145180 2 Madson,Madson Ferreira dos ...,T P,321829
-4,Juan,Juan Silveira dos Santos,T P,123816 3 Lucas,Lucas Silva Fonseca,T P,309265
-5,Airton,Airton Ribeiro Santos,T P,186870 4 Christian,Christian Chagas Tarouco,T P,170255
-7,Forlan,Diego Forlan Corazo,T P,419995 5 Diones,Diones Coelho da Costa,T P,172714
-10,Dalessandro,Andres Nicolas Dales ...,T P,299481 6 Jussandro,Jussandro Pimenta Matos,T P,363566
-11,Rafael Moura,Rafael Martiniano de ...,T P,151437 7 Leandro,Leandro Fahel Matos,T P,153030
-13,Rodrigo,Rodrigo Modesto da S ...,T P,173551 8 Helder,Helder de Paula Santos,T P,162897
-14,Fabricio,Fabricio dos Santos  ...,T P,172408 9 Fernando,Jose Fernando Viana ...,T P,188453
-27,Josimar,Josimar Rosado da Si ...,T P,168939 10 Marquinhos,Marcos Gabriel do Na...,T P,190389
-35,Fred,Frederico Rodrigues  ...,T P,324122 11 Ryder,Ryder Matos Santos Pinto,T P,419292
-3,Indio,Marcos Antonio de Lima,R P,123208 12 Omar,Omar Constante Reis ...,R P,292443
-6,Kleber,Kleber de Carvalho C ...,R P,132420 13 Rafael,Rafael Ferreira Donato,R P,190431
-12,Alemao,Agenor Detofol,R P,182631 14 Darcy Dolc ...,Darcy Dolce Neto,R P,152785
-16,Vitor Junior,Vitor Silva Assis de ...,R P,161610 15 Raul,Raul Diogo Souza Rocha,R P,173948
-18,Gilberto,Gilberto Oliveira So ...,R P,185444 16 Feijao,Antonio Filipe Gonza...,R P,352645
-21,Ygor,Ygor Maciel Santiago,R P,156045 17 Adu,Fredua Koranteng Adu,R P,433797
-37,Mike,Mike dos Santos Nena ...,R P,311439 18 Potita,Alexander Asloquer,R P,181281
-"",,Comissão Técnica,
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,18:30,Atraso:,NÃ£o Houve Entrada do mandante:,19:33,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,18:33,Atraso:,3 min,InÃ­cio do 2o Tempo:,19:34,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+1,Muriel,Muriel Gustavo Becker,T P,165925,1,Marcelo,Marcelo Lomba do Nas...,T P,157264
+"",,ComissÃ£o TÃ©cnica,
 "",Internacional / RS,,Bahia / BA
-Tecnico:,Carlos Caetano Bledorn Verri - 011848,Tecnico:,Cristovão Borges Dos Santos - 1051758661
-Auxiliar Tecnico:,Andrey Lopes Dos Santos - CREF-1659,Auxiliar Tecnico:,Sebastião Carlos Da Silva Rocha - 031573488
+Tecnico:,Carlos Caetano Bledorn Verri - 011848,Tecnico:,CristovÃ£o Borges Dos Santos - 1051758661
+Auxiliar Tecnico:,Andrey Lopes Dos Santos - CREF-1659,Auxiliar Tecnico:,SebastiÃ£o Carlos Da Silva Rocha - 031573488
 Medico:,Paulo Roberto Cruz Rabelo - 10666,Medico:,Marcio Roberto Rocha Santana - 19234
 Preparador Fisico:,Mauro Luiz Santos Da Cruz - 003504,Preparador Fisico:,Rodrigo Poleto - 004125
 Massagista:,Paulo Juarez Quintanilha Da Silva - 3018383681,Massagista:,Sergio Sales Dos Santos - 0599883049
@@ -46,29 +31,29 @@ Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 10:00,1T,11,NR,Ryder Matos Santos Pinto,,Bahia
 16:00,2T,9,NR,Jose Fernando Viana de Santana,,Bahia
 19:00,2T,7,NR,Diego Forlan Corazo,,Internacional
-"Ocorrências / ObservaçõesNada houve de anormal.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu37:001TBahia15 - Raul Diogo Souza Rocha10 - Marcos Gabriel do Nascime ...17:002TBahia16 - Antonio Filipe Gonzaga de ...8 - Helder de Paula Santos19:002TInternacional18 - Gilberto Oliveira Souza J ...5 - Airton Ribeiro Santos27:002TInternacional37 - Mike dos Santos Nenatarvi ...11 - Rafael Martiniano de Mira ...31:002TBahia18 - Alexander Asloquer9 - Jose Fernando Viana de Sa ...",,,,
-Substituições,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu37:001TBahia15 - Raul Diogo Souza Rocha10 - Marcos Gabriel do Nascime ...17:002TBahia16 - Antonio Filipe Gonzaga de ...8 - Helder de Paula Santos19:002TInternacional18 - Gilberto Oliveira Souza J ...5 - Airton Ribeiro Santos27:002TInternacional37 - Mike dos Santos Nenatarvi ...11 - Rafael Martiniano de Mira ...31:002TBahia18 - Alexander Asloquer9 - Jose Fernando Viana de Sa ...",,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 37:00,1T,Bahia,15 - Raul Diogo Souza Rocha,10 - Marcos Gabriel do Nascime ...
 17:00,2T,Bahia,16 - Antonio Filipe Gonzaga de ...,8 - Helder de Paula Santos
 19:00,2T,Internacional,18 - Gilberto Oliveira Souza J ...,5 - Airton Ribeiro Santos
 27:00,2T,Internacional,37 - Mike dos Santos Nenatarvi ...,11 - Rafael Martiniano de Mira ...
 31:00,2T,Bahia,18 - Alexander Asloquer,9 - Jose Fernando Viana de Sa ...
-"Ocorrências / ObservaçõesNada houve de anormal.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu37:001TBahia15 - Raul Diogo Souza Rocha10 - Marcos Gabriel do Nascime ...17:002TBahia16 - Antonio Filipe Gonzaga de ...8 - Helder de Paula Santos19:002TInternacional18 - Gilberto Oliveira Souza J ...5 - Airton Ribeiro Santos27:002TInternacional37 - Mike dos Santos Nenatarvi ...11 - Rafael Martiniano de Mira ...31:002TBahia18 - Alexander Asloquer9 - Jose Fernando Viana de Sa ..."
-Observações Eventuais
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu37:001TBahia15 - Raul Diogo Souza Rocha10 - Marcos Gabriel do Nascime ...17:002TBahia16 - Antonio Filipe Gonzaga de ...8 - Helder de Paula Santos19:002TInternacional18 - Gilberto Oliveira Souza J ...5 - Airton Ribeiro Santos27:002TInternacional37 - Mike dos Santos Nenatarvi ...11 - Rafael Martiniano de Mira ...31:002TBahia18 - Alexander Asloquer9 - Jose Fernando Viana de Sa ..."
+ObservaÃ§Ãµes Eventuais
 NADA HOUVE DE ANORMAL
-"Ocorrências / ObservaçõesNada houve de anormal.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu37:001TBahia15 - Raul Diogo Souza Rocha10 - Marcos Gabriel do Nascime ...17:002TBahia16 - Antonio Filipe Gonzaga de ...8 - Helder de Paula Santos19:002TInternacional18 - Gilberto Oliveira Souza J ...5 - Airton Ribeiro Santos27:002TInternacional37 - Mike dos Santos Nenatarvi ...11 - Rafael Martiniano de Mira ...31:002TBahia18 - Alexander Asloquer9 - Jose Fernando Viana de Sa ...",,,,
-Ocorrências / Observações,,,,
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu37:001TBahia15 - Raul Diogo Souza Rocha10 - Marcos Gabriel do Nascime ...17:002TBahia16 - Antonio Filipe Gonzaga de ...8 - Helder de Paula Santos19:002TInternacional18 - Gilberto Oliveira Souza J ...5 - Airton Ribeiro Santos27:002TInternacional37 - Mike dos Santos Nenatarvi ...11 - Rafael Martiniano de Mira ...31:002TBahia18 - Alexander Asloquer9 - Jose Fernando Viana de Sa ...",,,,
+OcorrÃªncias / ObservaÃ§Ãµes,,,,
 Nada houve de anormal.,,,,
-Observações Eventuais,,,,
+ObservaÃ§Ãµes Eventuais,,,,
 NADA HOUVE DE ANORMAL,,,,
-Substituições,,,,
+SubstituiÃ§Ãµes,,,,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 37:00,1T,Bahia,15 - Raul Diogo Souza Rocha,10 - Marcos Gabriel do Nascime ...
 17:00,2T,Bahia,16 - Antonio Filipe Gonzaga de ...,8 - Helder de Paula Santos
 19:00,2T,Internacional,18 - Gilberto Oliveira Souza J ...,5 - Airton Ribeiro Santos
 27:00,2T,Internacional,37 - Mike dos Santos Nenatarvi ...,11 - Rafael Martiniano de Mira ...
 31:00,2T,Bahia,18 - Alexander Asloquer,9 - Jose Fernando Viana de Sa ...
-"Ocorrências / ObservaçõesNada houve de anormal.Observações EventuaisNADA HOUVE DE ANORMALSubstituiçõesTempo1T/2TEquipeEntrouSaiu37:001TBahia15 - Raul Diogo Souza Rocha10 - Marcos Gabriel do Nascime ...17:002TBahia16 - Antonio Filipe Gonzaga de ...8 - Helder de Paula Santos19:002TInternacional18 - Gilberto Oliveira Souza J ...5 - Airton Ribeiro Santos27:002TInternacional37 - Mike dos Santos Nenatarvi ...11 - Rafael Martiniano de Mira ...31:002TBahia18 - Alexander Asloquer9 - Jose Fernando Viana de Sa ..."
-Ocorrências / Observações
+"OcorrÃªncias / ObservaÃ§ÃµesNada houve de anormal.ObservaÃ§Ãµes EventuaisNADA HOUVE DE ANORMALSubstituiÃ§ÃµesTempo1T/2TEquipeEntrouSaiu37:001TBahia15 - Raul Diogo Souza Rocha10 - Marcos Gabriel do Nascime ...17:002TBahia16 - Antonio Filipe Gonzaga de ...8 - Helder de Paula Santos19:002TInternacional18 - Gilberto Oliveira Souza J ...5 - Airton Ribeiro Santos27:002TInternacional37 - Mike dos Santos Nenatarvi ...11 - Rafael Martiniano de Mira ...31:002TBahia18 - Alexander Asloquer9 - Jose Fernando Viana de Sa ..."
+OcorrÃªncias / ObservaÃ§Ãµes
 Nada houve de anormal.

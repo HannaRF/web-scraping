@@ -1,6 +1,6 @@
-Campeonato:,Campeonato Brasileiro - Série A/2019,,Rodada:,10
-Jogo:,Grêmio / RS X Vasco da Gama / RJ,,,
-Data:,13/07/2019 Horário: 17:00 Estádio:,Arena do Grêmio / Porto Alegre,,
+Campeonato:,Campeonato Brasileiro - SÃ©rie A/2019,,Rodada:,10
+Jogo:,GrÃªmio / RS X Vasco da Gama / RJ,,,
+Data:,13/07/2019 HorÃ¡rio: 17:00 EstÃ¡dio:,Arena do GrÃªmio / Porto Alegre,,
 "",,Arbitragem
 Arbitro:,Rodolpho Toski Marques (FIFA / PR),
 Arbitro Assistente 1:,Bruno Boschilia (FIFA / PR),
@@ -13,13 +13,13 @@ AVAR1:,Adriano Milczvski (AB / PR),
 AVAR2:,Ivan Carlos Bohn (AB / PR),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,16:50Atraso:,,Não Houve Entrada do mandante: 17:58,,Atraso:,Não Houve
-Entrada do visitante:,16:50Atraso:,,Não Houve Entrada do visitante: 17:59,,Atraso:,Não Houve
-Início 1o Tempo:,17:00Atraso:,,Não Houve Início do 2o Tempo: 18:02,,Atraso:,Não Houve
-Término do 1o Tempo:,17:47Acréscimo:,,2 min Término do 2o Tempo: 18:52,Acréscimo:,,5 min
+Entrada do mandante:,16:50Atraso:,,NÃ£o Houve Entrada do mandante: 17:58,,Atraso:,NÃ£o Houve
+Entrada do visitante:,16:50Atraso:,,NÃ£o Houve Entrada do visitante: 17:59,,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,17:00Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 18:02,,Atraso:,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,17:47AcrÃ©scimo:,,2 min TÃ©rmino do 2o Tempo: 18:52,AcrÃ©scimo:,,5 min
 Resultado do 1o Tempo: 0 X 1,,,Resultado Final: 2 X 1,,,
-"",,,,,Relação de Jogadores,,,,
-"",,Grêmio / RS,,,,Vasco da Gama / RJ,,,
+"",,,,,RelaÃ§Ã£o de Jogadores,,,,
+"",,GrÃªmio / RS,,,,Vasco da Gama / RJ,,,
 No,Apelido,Nome Completo T/R,,P/A,CBF No Apelido,Nome Completo T/R,,P/A,CBF
 1,Paulo Victor,Paulo Victor Mileo V ... T(g),,P,175411 1 Fernando M ...,Fernando Miguel KaufmannT(g),,P,159684
 2,Leo Moura,Leonardo da Silva Moura T,,P,137644 3 Henriquez,Oswaldo Jose Henriqu ... T,,P,541170
@@ -32,7 +32,7 @@ No,Apelido,Nome Completo T/R,,P/A,CBF No Apelido,Nome Completo T/R,,P/A,CBF
 29,J. Capixaba,Luis Antonio da Roch ... T,,P,402681 25 Richard,Richard Candido Coelho T,,P,376786
 33,David Braz,David Braz de Olivei ... T,,P,168008 31 Raul,Raul Lo Goncalves T,,P,446399
 38,Rodrigues,Antonio Josenildo Ro ... T,,P,434738 36 Ricardo,Ricardo Queiroz de A ... T,,P,372370
-22,Julio Cesar,Julio Cesar Jacobi R(g),,P,169978 12 Sidão,Sidney Aparecido Ram ... R(g),,P,154179
+22,Julio Cesar,Julio Cesar Jacobi R(g),,P,169978 12 SidÃ£o,Sidney Aparecido Ram ... R(g),,P,154179
 6,Leonardo,Leonardo Gomes da Co ... R,,P,303436 2 Raul Caceres,Raul Alejandro Cacer ... R,,P,646420
 8,Maicon,Maicon Thiago Pereir ... R,,P,166603 6 Fellipe,Fellipe Ramos Ignez  ... R,,P,357424
 11,Everton,Everton Sousa Soares R,,P,379065 10 Bruno,Bruno Cesar Zanaki R,,P,171936
@@ -56,7 +56,7 @@ No,Apelido,Nome Completo T/R,,P/A,CBF,No,Apelido,Nome Completo T/R,,P/A,CBF
 29,J. Capixaba,Luis Antonio da Roch ... T,,P,402681,25,Richard,Richard Candido Coelho T,,P,376786
 33,David Braz,David Braz de Olivei ... T,,P,168008,31,Raul,Raul Lo Goncalves T,,P,446399
 38,Rodrigues,Antonio Josenildo Ro ... T,,P,434738,36,Ricardo,Ricardo Queiroz de A ... T,,P,372370
-22,Julio Cesar,Julio Cesar Jacobi R(g),,P,169978,12,Sidão,Sidney Aparecido Ram ... R(g),,P,154179
+22,Julio Cesar,Julio Cesar Jacobi R(g),,P,169978,12,SidÃ£o,Sidney Aparecido Ram ... R(g),,P,154179
 6,Leonardo,Leonardo Gomes da Co ... R,,P,303436,2,Raul Caceres,Raul Alejandro Cacer ... R,,P,646420
 8,Maicon,Maicon Thiago Pereir ... R,,P,166603,6,Fellipe,Fellipe Ramos Ignez  ... R,,P,357424
 11,Everton,Everton Sousa Soares R,,P,379065,10,Bruno,Bruno Cesar Zanaki R,,P,171936
@@ -68,24 +68,24 @@ No,Apelido,Nome Completo T/R,,P/A,CBF,No,Apelido,Nome Completo T/R,,P/A,CBF
 37,Darlan,Darlan Pereira Mendes R,,P,422352,37,Henrique,Henrique Silva Milagres R,,P,308965
 41,Da Silva,Rondinelli da Silva  ... R,,P,373518,38,Marrony,Marrony da Silva Lib ... R,,P,463599
 90,Andre Felipe,Andre Felipe Ribeiro ... R,,P,292942,43,Talles Magno,Talles Magno Bacelar ... R,,P,563898
-"",,Comissão Técnica,
-"",Grêmio / RS,,Vasco da Gama / RJ
-Técnico:,Renato Portaluppi,Técnico:,Wanderley Luxenburgo Da Silva
-Auxiliar Técnico:,Alexandre Pereira Mendes,Auxiliar Técnico:,Copertino
-Médico:,Paulo Augusto Da Silva Rabaldo,Médico:,Marcos Fernandes Teixeira
+"",,ComissÃ£o TÃ©cnica,
+"",GrÃªmio / RS,,Vasco da Gama / RJ
+TÃ©cnico:,Renato Portaluppi,TÃ©cnico:,Wanderley Luxenburgo Da Silva
+Auxiliar TÃ©cnico:,Alexandre Pereira Mendes,Auxiliar TÃ©cnico:,Copertino
+MÃ©dico:,Paulo Augusto Da Silva Rabaldo,MÃ©dico:,Marcos Fernandes Teixeira
 Treinador De Goleiros:,Rogerio Augusto Godoy Da Silva,Treinador De Goleiros:,Danilo Jose Prando Minutti
-Preparador Físico:,Rogerio Dias Luiz,Preparador Físico:,Antonio Carlos Da Silva Mello
+Preparador FÃ­sico:,Rogerio Dias Luiz,Preparador FÃ­sico:,Antonio Carlos Da Silva Mello
 Massagista:,Jose Fernandes Flores,Fisioterapeuta:,Aldo Jose Carvalho Barreto De Mattos
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
-14:00,1T,22,PN,Glaybson Yago Souza Lisbôa,,Vasco da Gama/RJ
-15:00,2T,25,NR,Eduardo Gabriel Aquino Cossa,,Grêmio/RS
-40:00,2T,25,NR,Eduardo Gabriel Aquino Cossa,,Grêmio/RS
-"",,,,Substituições,
+14:00,1T,22,PN,Glaybson Yago Souza LisbÃ´a,,Vasco da Gama/RJ
+15:00,2T,25,NR,Eduardo Gabriel Aquino Cossa,,GrÃªmio/RS
+40:00,2T,25,NR,Eduardo Gabriel Aquino Cossa,,GrÃªmio/RS
+"",,,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,,Equipe,Entrou,Saiu
-34:00,1T,Grêmio/RS,,11 - Everton Sousa Soares,13 - Romulo Borges Monteiro
+34:00,1T,GrÃªmio/RS,,11 - Everton Sousa Soares,13 - Romulo Borges Monteiro
 23:00,2T,Vasco da Gama/RJ,,38 - Marrony da Silva Liberato Si...,17 - Wanderson Ferreira de Oliveira
-29:00,2T,Grêmio/RS,,41 - Rondinelli da Silva Vieira,14 - Matheus Henrique de Souza
+29:00,2T,GrÃªmio/RS,,41 - Rondinelli da Silva Vieira,14 - Matheus Henrique de Souza
 29:00,2T,Vasco da Gama/RJ,,43 - Talles Magno Bacelar Martins,8 - Marco Antonio de Mattos Filho
-34:00,2T,Grêmio/RS,,30 - Patrick Machado Ferreira,7 - Luan Guilherme de Jesus Vieira
+34:00,2T,GrÃªmio/RS,,30 - Patrick Machado Ferreira,7 - Luan Guilherme de Jesus Vieira
 34:00,2T,Vasco da Gama/RJ,,18 - Lucas da Silva Izidoro,19 - Marcos Antonio Candido Ferre...

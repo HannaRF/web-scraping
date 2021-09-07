@@ -6,37 +6,18 @@ Quarto Arbitro:,Leonardo Garcia Cavaleiro (CBF-2 / RJ),
 Assessor:,Sergio Oliveira Santos (  / ),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,14:55Atraso:,,Não Houve Entrada do mandante: 16:00,Atraso:,,Não Houve
-Entrada do visitante:,14:56Atraso:,,Não Houve Entrada do visitante: 16:01,Atraso:,,Não Houve
-Início 1o Tempo:,15:00 Atraso:,,Não Houve Início do 2o Tempo: 16:02,Atraso:,,Não Houve
-Término do 1o Tempo:,15:47 Acréscimo:,,2 min Término do 2o Tempo: 16:49,Acréscimo:,,2 min
+Entrada do mandante:,14:55Atraso:,,NÃ£o Houve Entrada do mandante: 16:00,Atraso:,,NÃ£o Houve
+Entrada do visitante:,14:56Atraso:,,NÃ£o Houve Entrada do visitante: 16:01,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,15:00 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 16:02,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,15:47 AcrÃ©scimo:,,2 min TÃ©rmino do 2o Tempo: 16:49,AcrÃ©scimo:,,2 min
 Resultado do 1o Tempo: 1 X 1,,,Resultado do 2o Tempo: 2 X 2,,,
-"",,,,Relação de Jogadores,,,
-"",,Madureira / RJ,,,Macae / RJ,,
-No,Apelido,Nome Completo T/R P/A,,CBF No Apelido,Nome Completo T/R P/A,,CBF
-1,Jonathan,Jonathan Ribeiro Louredo T,P,299473 1 Luis Henri ...,Luis Henrique Filgue... T,P,134101
-2,Diego,Diego Renan Mendes L ... T,P,187428 2 Valdir,Jose Valdir Firmo de... T,P,174793
-3,Charles,Charles Gustavo da Silva T,P,354028 3 Cleber,Cleber Dias dos Reis T,P,129159
-4,Roberto,Roberto Cunha Ribeir ... T,P,346879 4 Laerte Rod ...,Laerte Rodrigues de ... T,P,143037
-5,Guaraci,Guaraci Francisco de ... T,P,466925 5 Gedeil,Gedeil da Silva Daudt T,P,155127
-6,Luiz Paulo,Luiz Paulo França do ... T,P,306706 6 Marcos,Marcos Vinicius Fale... T,P,155533
-7,Ryan,Ryan do Nascimento RamosT,P,306693 7 Marcelo,Marcelo Oliveira Pinto T,P,341345
-8,Tiago,Tiago Lima Leal T,P,183723 8 Lucas Siqu ...,Lucas Santos Siqueira T,P,188170
-9,Daniel,Daniel Amorim Dias d ... T,P,325581 9 Sergio,Sergio Guimaraes da ... T,P,140690
-10,Betinho,Roberto Pimenta Vina ... T,P,321453 10 Norton,Norton Foligno Carva... T,P,189937
-11,Ramon,Ramon dos Santos Pereira T,P,297093 11 Ziquinha,Flavio Luis Chagas T,P,143833
-12,Uilton,Uilton Conceicao de  ... R,P,156469 12 Rerysson,Rerysson Figueira Silva R,P,184331
-13,Lucas,Lucas Coutinho Tavares R,P,307670 13 Daniel,Daniel Rodrigues Damiao R,P,187091
-14,Alan,Alan Douglas Cesario ... R,P,336634 14 Gabriel,Gabriel Araujo Carvalho R,P,296295
-15,Bruno,Bruno Tiago Costa Araujo R,P,184456 15 Carlos,Carlos Bruno Gomes Costa R,P,184281
-16,Waldir,Waldir da Silva Filho R,P,292182 16 Jose,Jose Victor de Souza... R,P,327232
-17,Renan,Renan Martins de Almeida R,P,165820 17 Rodrigo Da ...,Rodrigo Correa Dantas R,P,185859
-18,Stefano,Stefano Souza Pinho R,P,294419 18 Carlos,Carlos Andre dos San... R,P,181173
-19,Jefferson,Jefferson Tavares da ... R,P,316314,,,
-20,Julio,Julio Cesar Leite da ... R,P,348696,,,
-21,Carlos Alb ...,Carlos Alberto Rogge ... R,P,184989,,,
-22,Jairo,Jairo de Macedo da Silva R,P,305443,,,
-"",,Comissão Técnica,
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,14:55,Atraso:,NÃ£o Houve Entrada do mandante:,16:00,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,15:00,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,16:02,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+1,Jonathan,Jonathan Ribeiro Louredo,T P,299473,1,Luis Henri ...,Luis Henrique Filgue...,T P,134101
+"",,ComissÃ£o TÃ©cnica,
 "",Madureira / RJ,,Macae / RJ
 Tecnico:,Alexandre Torreira Da Gama Lima - 334975600,Tecnico:,Gerson Rodrigues Andriotti - 026813121
 Auxiliar Tecnico:,Cezar Diniz Pereira Roque - 068892769,Auxiliar Tecnico:,Jose Carlos Macedo Dos Santos - 051659183
@@ -49,7 +30,7 @@ Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 25:00,1T,9,PN,Daniel Amorim Dias da Silva,,Madureira
 02:00,2T,10,NR,Norton Foligno Carvalho de Siqueira,,Macae
 39:00,2T,9,NR,Daniel Amorim Dias da Silva,,Madureira
-"",,,,Substituições,
+"",,,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,,Equipe,Entrou,Saiu
 45:00,INT,Madureira,,16 - Waldir da Silva Filho,3 - Charles Gustavo da Silva
 12:00,2T,Madureira,,13 - Lucas Coutinho Tavares,4 - Roberto Cunha Ribeiro Fil ...

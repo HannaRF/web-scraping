@@ -1,6 +1,6 @@
-Campeonato:,Campeonato Brasileiro - Série B/2019,,Rodada:,4
-Jogo:,Atlético / GO X Criciúma / SC,,,
-Data:,17/05/2019 Horário: 19:15 Estádio:,Antônio Accioly / Goiania,,
+Campeonato:,Campeonato Brasileiro - SÃ©rie B/2019,,Rodada:,4
+Jogo:,AtlÃ©tico / GO X CriciÃºma / SC,,,
+Data:,17/05/2019 HorÃ¡rio: 19:15 EstÃ¡dio:,AntÃ´nio Accioly / Goiania,,
 "",,Arbitragem
 Arbitro:,Rafael Martins Diniz (CD / DF),
 Arbitro Assistente 1:,Luciano Benevides de Sousa (AB / DF),
@@ -10,13 +10,13 @@ Delegado Local:,Adalberto Grecco (CBF / GO),
 Analista de Campo:,Cleiber Elias Leite (CBF / GO),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,19:05Atraso:,,Não Houve Entrada do mandante: 20:15,,Atraso:,Não Houve
-Entrada do visitante:,19:05Atraso:,,Não Houve Entrada do visitante: 20:15,,Atraso:,Não Houve
-Início 1o Tempo:,19:15Atraso:,,Não Houve Início do 2o Tempo: 20:17,,Atraso:,Não Houve
-Término do 1o Tempo:,20:02Acréscimo:,,2 min Término do 2o Tempo: 21:05,Acréscimo:,,3 min
+Entrada do mandante:,19:05Atraso:,,NÃ£o Houve Entrada do mandante: 20:15,,Atraso:,NÃ£o Houve
+Entrada do visitante:,19:05Atraso:,,NÃ£o Houve Entrada do visitante: 20:15,,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,19:15Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 20:17,,Atraso:,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,20:02AcrÃ©scimo:,,2 min TÃ©rmino do 2o Tempo: 21:05,AcrÃ©scimo:,,3 min
 Resultado do 1o Tempo: 1 X 0,,,Resultado Final: 3 X 1,,,
-"",,,,,Relação de Jogadores,,,,
-"",,Atlético / GO,,,,Criciúma / SC,,,
+"",,,,,RelaÃ§Ã£o de Jogadores,,,,
+"",,AtlÃ©tico / GO,,,,CriciÃºma / SC,,,
 No,Apelido,Nome Completo T/R,,P/A,CBF No Apelido,Nome Completo T/R,,P/A,CBF
 1,Mauricio K ...,Mauricio Kozlinski T(g),,P,296645 91 Paulo Henr ...,Paulo Henrique Gianezini T(g),,P,308021
 2,Reginaldo,Reginaldo Lopes de Jesus T,,P,353336 2 Leo,Leonardo Luiz dos Santos T,,P,392864
@@ -24,14 +24,14 @@ No,Apelido,Nome Completo T/R,,P/A,CBF No Apelido,Nome Completo T/R,,P/A,CBF
 4,Gilvan,Gilvan Souza Correa T,,P,188660 6 Marlon,Marlon Farias Castel ... T,,P,183840
 5,Pedro Bambu,Pedro Gonzaga T,,P,298432 8 Wesley,Wesley Lopes Beltrame T,,P,170540
 6,Nicolas,Nicolas Vichiatto da ... T,,P,406246 17 Andrew,Andrew Lucas Balbino ... T,,P,310804
-7,Gilsinho,Gilson do Amaral T,,P,165040 18 L,Lúcio Flávio da Silv ... T,,P,166180
+7,Gilsinho,Gilson do Amaral T,,P,165040 18 L,LÃºcio FlÃ¡vio da Silv ... T,,P,166180
 8,Moacir,Moacir Costa da Silva T,,P,177354 19 Eduardo,Eduardo Jacinto de Biasi T,,P,392562
 9,Pedro Raul,Pedro Raul Garay da Silva T,,P,502361 22 Vinicius,Vinicius Santos Silva T,,P,312048
 10,Matheus,Matheus Cotulio Bossa T,,P,344517 33 Adilson Go ...,Adilson Carlos Tavar ... T,,P,291874
 11,Mike,Mike dos Santos Nena ... T,,P,311439 97 Marcos,Marcos Vinicius da S ... T,,P,374251
 12,Lucas Pereira,Lucas Pereira Ribeir ... R(g),,P,433789 12 Wagner,Wagner Aparecido de  ... R(g),,P,532247
 13,Lucas Oliv ...,Lucas da Cruz Oliveira R,,P,349619 5 Jean,Jean Mangabeira da Silva R,,P,434031
-14,Fumaça,Diego Cesar de Oliveira R,,P,314625 7 Reis,Isnairo Reis Silva Morais R,,P,370113
+14,FumaÃ§a,Diego Cesar de Oliveira R,,P,314625 7 Reis,Isnairo Reis Silva Morais R,,P,370113
 15,HECTOR,Hector Ariel Bustama ... R,,P,646505 10 Daniel,Maikel Daniel Costa R,,P,175913
 16,Jarro,Emilton Pedroso DominguesR,,P,377856 15 Liel,Nataliel Costa da Silva R,,P,178943
 17,Andre Luis,Andre Luis Leite R,,P,160781 31 Carlos,Carlos Eduardo da Si ... R,,P,340073
@@ -39,25 +39,25 @@ No,Apelido,Nome Completo T/R,,P/A,CBF No Apelido,Nome Completo T/R,,P/A,CBF
 "",,,,,34 Derlan,Derlan de Oliveira Bento R,,P,310802
 "",,,,,40 Francisco  ...,Francisco Olivan Bez ... R,,P,511828
 "",,,,,99 Leonardo,Leonardo Gamalho de SouzaR,,P,168982
-"",,Comissão Técnica,
-"",Atlético / GO,,Criciúma / SC
-Técnico:,Wagner Augusto Lopes,Técnico:,Gilson Kleina
-Auxiliar Técnico:,Sandro Chaves De Assis Rosa,Auxiliar Técnico:,Antonio Ribeiro Carvalhaes Junior
-Médico:,Eduardo De Morais Duarte,Médico:,Ricardo Koerich Furtado
+"",,ComissÃ£o TÃ©cnica,
+"",AtlÃ©tico / GO,,CriciÃºma / SC
+TÃ©cnico:,Wagner Augusto Lopes,TÃ©cnico:,Gilson Kleina
+Auxiliar TÃ©cnico:,Sandro Chaves De Assis Rosa,Auxiliar TÃ©cnico:,Antonio Ribeiro Carvalhaes Junior
+MÃ©dico:,Eduardo De Morais Duarte,MÃ©dico:,Ricardo Koerich Furtado
 Treinador De Goleiros:,Marcos Roberto De Medeiros,Treinador De Goleiros:,Rogerio Maia De Brum
-Preparador Físico:,Jorge Alberto Pinto Soter,Preparador Físico:,Wiliam Cesar Hauptmam
+Preparador FÃ­sico:,Jorge Alberto Pinto Soter,Preparador FÃ­sico:,Wiliam Cesar Hauptmam
 Fisioterapeuta:,Joao Rodrigues Dos Santos Neto,Massagista:,Welliton Marcilio Martins
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
-41:00,1T,9,NR,Pedro Raul Garay da Silva,,Atlético/GO
-16:00,2T,6,FT,Nicolas Vichiatto da Silva,,Atlético/GO
-41:00,2T,11,NR,Mike dos Santos Nenatarvicius,,Atlético/GO
-45:00,2T,99,NR,Leonardo Gamalho de Souza,,Criciúma/SC
-"",,,,Substituições,
+41:00,1T,9,NR,Pedro Raul Garay da Silva,,AtlÃ©tico/GO
+16:00,2T,6,FT,Nicolas Vichiatto da Silva,,AtlÃ©tico/GO
+41:00,2T,11,NR,Mike dos Santos Nenatarvicius,,AtlÃ©tico/GO
+45:00,2T,99,NR,Leonardo Gamalho de Souza,,CriciÃºma/SC
+"",,,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,,Equipe,Entrou,Saiu
-45:00,INT,Criciúma/SC,,99 - Leonardo Gamalho de Souza,18 - Lúcio Flávio da Silva Oliva
-04:00,2T,Atlético/GO,,16 - Emilton Pedroso Domingues,7 - Gilson do Amaral
-17:00,2T,Criciúma/SC,,10 - Maikel Daniel Costa,19 - Eduardo Jacinto de Biasi
-22:00,2T,Criciúma/SC,,40 - Francisco Olivan Bezerra Cal...,17 - Andrew Lucas Balbino Drummond
-29:00,2T,Atlético/GO,,18 - Pedro Felipe Ferreira Santos,9 - Pedro Raul Garay da Silva
-36:00,2T,Atlético/GO,,15 - Hector Ariel Bustamante Lopez,10 - Matheus Cotulio Bossa
+45:00,INT,CriciÃºma/SC,,99 - Leonardo Gamalho de Souza,18 - LÃºcio FlÃ¡vio da Silva Oliva
+04:00,2T,AtlÃ©tico/GO,,16 - Emilton Pedroso Domingues,7 - Gilson do Amaral
+17:00,2T,CriciÃºma/SC,,10 - Maikel Daniel Costa,19 - Eduardo Jacinto de Biasi
+22:00,2T,CriciÃºma/SC,,40 - Francisco Olivan Bezerra Cal...,17 - Andrew Lucas Balbino Drummond
+29:00,2T,AtlÃ©tico/GO,,18 - Pedro Felipe Ferreira Santos,9 - Pedro Raul Garay da Silva
+36:00,2T,AtlÃ©tico/GO,,15 - Hector Ariel Bustamante Lopez,10 - Matheus Cotulio Bossa

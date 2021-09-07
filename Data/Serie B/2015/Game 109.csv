@@ -6,35 +6,18 @@ Quarto Arbitro:,Gilberto Freire de Farias (CBF-2 / PE)
 Assessor:,Erich Bandeira (ASS / PE)
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,21:40Atraso:,,Não Houve Entrada do mandante: 22:53,Atraso:,,Não Houve
-Entrada do visitante:,21:42Atraso:,,Não Houve Entrada do visitante: 22:53,Atraso:,,Não Houve
-Início 1o Tempo:,21:50 Atraso:,,Não Houve Início do 2o Tempo: 22:55,Atraso:,,Não Houve
-Término do 1o Tempo:,22:35 Acréscimo:,,Não Houve Término do 2o Tempo: 23:40,Acréscimo:,,Não Houve
+Entrada do mandante:,21:40Atraso:,,NÃ£o Houve Entrada do mandante: 22:53,Atraso:,,NÃ£o Houve
+Entrada do visitante:,21:42Atraso:,,NÃ£o Houve Entrada do visitante: 22:53,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,21:50 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 22:55,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,22:35 AcrÃ©scimo:,,NÃ£o Houve TÃ©rmino do 2o Tempo: 23:40,AcrÃ©scimo:,,NÃ£o Houve
 Resultado do 1o Tempo: 0 X 1,,,Resultado Final: 2 X 1,,,
-"",,,,Relação de Jogadores,,,
-"",,Santa Cruz / PE,,,Crb / AL,,
-No,Apelido,Nome Completo T/R P/A,,CBF No Apelido,Nome Completo,T/R P/A,CBF
-1,Campos,Frederico Luis Ladei ...,T P,161587 1 Julio Cesar,Julio Cesar Martins,T P,132047
-2,Bruno,Bruno Felipe Lima Te ...,T P,318691 2 Audálio,Jose Audalio Silva S...,T P,172203
-3,Diego,Diego Alessandro Apa ...,T P,162757 3 Daniel,Daniel Marques da Silva,T P,158118
-4,Danny,Danny Bittencourt Morais,T P,159190 4 Gabriel,Gabriel de Paulo Limeira,T P,141931
-5,Wellington,Wellington Cezar Alv ...,T P,370555 5 Joseilson,Joseilson Batista do...,T P,175130
-6,Marlon,Marlon Bruno Mariano ...,T P,308919 6 Alessandro,Alessandro Silva de ...,T P,182630
-7,Nathan,Nathan Athaydes Camp ...,T P,296334 7 Glaydson,Glaydson de Almeida ...,T P,163791
-8,Renato Lima,Renato Gonçalves de Lima,T P,341132 8 Leandro,Leandro de Medeiros ...,T P,166249
-9,Anderson A ...,Anderson Angus Aquino,T P,161518 9 Ze Carlos,Jose Carlos Ferreira...,T P,148961
-10,Joao Paulo,Joao Paulo Mior,T P,185012 10 Wellington ...,Wellington Aleixo do...,T P,172853
-11,Lele,Wesley de Jesus Correia,T P,191513 11 Pingo,Tarcisio Lopes da Silva,T P,308083
-12,Bruno,Bruno Cortez Cardoso,R P,154437 12 Bruno,Bruno Pianissolla,R P,174237
-13,Nininho,Salatiel Bartolomeu  ...,R P,313712 13 Sergio,Sergio Raphael dos A...,R P,319620
-14,Hueglo,Hueglo dos Santos Neris,R P,333318 14 Paulo Sergio,Paulo Sergio Rocha,R P,136781
-15,Moradei,Daniel Moradei de Al ...,R P,169519 15 Paulinho,Paulo Rogerio Reis Silva,R P,159393
-16,Lucio,Lucio Carlos Cajueir ...,R P,137582 16 Cleberson,Cleberson Jose Pereira,R P,177481
-17,Luis,Luis Gustavo Melere  ...,R P,309982 17 Fernando,Fernando Ribeiro Fer...,R P,173744
-18,Daniel,Maikel Daniel Costa,R P,175913 18 Emaxwell,Emaxwell Souza de Lima,R P,427774
-19,Bruno,Bruno Eduardo de Moraes,R P,185297 19 Jefferson,Jefferson Brito Gomes,R P,292467
-20,Wal,Waldison Rodrigues d ...,R P,161325,,,
-"",,Comissão Técnica,
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,21:40,Atraso:,NÃ£o Houve Entrada do mandante:,22:53,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,21:50,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,22:55,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+1,Campos,Frederico Luis Ladei ...,T P,161587,1,Julio Cesar,Julio Cesar Martins,T P,132047
+"",,ComissÃ£o TÃ©cnica,
 "",Santa Cruz / PE,,Crb / AL
 Tecnico:,Marcelo Martelotte - 13407709 SSP-SP,Tecnico:,Uiles Freitas Junior - CREF03709-2P-SP
 Auxiliar Tecnico:,Antonio Carlos Ribeiro Junior - 172423776 SSPSP,Auxiliar Tecnico:,Joao Dermival Brigatti - CREF037771-P-SP
@@ -46,11 +29,11 @@ Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
 03:00,1T,9,NR,Jose Carlos Ferreira Filho,,Crb/AL
 03:00,2T,10,NR,Joao Paulo Mior,,Santa Cruz/PE
 35:00,2T,9,NR,Anderson Angus Aquino,,Santa Cruz/PE
-"",,,Substituições,
+"",,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,Equipe,Entrou,Saiu
 45:00,INT,Santa Cruz/PE,13 - Salatiel Bartolomeu de Pa ...,7 - Nathan Athaydes Campos Fe ...
 11:00,2T,Crb/AL,19 - Jefferson Brito Gomes,11 - Tarcisio Lopes da Silva
 21:00,2T,Santa Cruz/PE,14 - Hueglo dos Santos Neris,6 - Marlon Bruno Mariano de S ...
 27:00,2T,Crb/AL,16 - Cleberson Jose Pereira,8 - Leandro de Medeiros Silva ...
 27:00,2T,Crb/AL,17 - Fernando Ribeiro Fernande ...,10 - Wellington Aleixo dos San ...
-31:00,2T,Santa Cruz/PE,17 - Luis Gustavo Melere da Si ...,8 - Renato Gonçalves de Lima
+31:00,2T,Santa Cruz/PE,17 - Luis Gustavo Melere da Si ...,8 - Renato GonÃ§alves de Lima

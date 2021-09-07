@@ -2,55 +2,36 @@
 Arbitro:,Luis Teixeira Rocha (CBF-1 / RS),
 Arbitro Assistente 1:,Ricardo Junio de Souza (CBF-2 / MG),
 Arbitro Assistente 2:,Luiz Antonio Barbosa (CBF-1 / MG),
-Quarto Arbitro:,Pathrice Wallace Corrêa Maia (CBF-1 / RJ),
+Quarto Arbitro:,Pathrice Wallace CorrÃªa Maia (CBF-1 / RJ),
 Assessor:,Messias Jose Pereira (ASS / RJ),
 "",,,Cronologia,,,
 "",1o Tempo,,2o Tempo,,,
-Entrada do mandante:,16:21Atraso:,,Não Houve Entrada do mandante: 17:28,Atraso:,,Não Houve
-Entrada do visitante:,16:23Atraso:,,Não Houve Entrada do visitante: 17:28,Atraso:,,Não Houve
-Início 1o Tempo:,16:30 Atraso:,,Não Houve Início do 2o Tempo: 17:30,Atraso:,,Não Houve
-Término do 1o Tempo:,17:15 Acréscimo:,,Não Houve Término do 2o Tempo: 18:19,Acréscimo:,,4 min
+Entrada do mandante:,16:21Atraso:,,NÃ£o Houve Entrada do mandante: 17:28,Atraso:,,NÃ£o Houve
+Entrada do visitante:,16:23Atraso:,,NÃ£o Houve Entrada do visitante: 17:28,Atraso:,,NÃ£o Houve
+InÃ­cio 1o Tempo:,16:30 Atraso:,,NÃ£o Houve InÃ­cio do 2o Tempo: 17:30,Atraso:,,NÃ£o Houve
+TÃ©rmino do 1o Tempo:,17:15 AcrÃ©scimo:,,NÃ£o Houve TÃ©rmino do 2o Tempo: 18:19,AcrÃ©scimo:,,4 min
 Resultado do 1o Tempo: 0 X 0,,,Resultado Final: 0 X 1,,,
-"",,,,Relação de Jogadores,,,
-"",,Macaé / RJ,,,Atlético / GO,,
-No,Apelido,Nome Completo,T/R P/A,CBF No Apelido,Nome Completo,T/R P/A,CBF
-1,Rafael,Alberto Rafael da Silva,T P,170739 1 Marcio,Marcio Luiz Silva Lo...,T P,129274
-2,Henrique,Henrique Loureiro do ...,T P,167360 2 Eder,Eder Sciola Santana,T P,175135
-3,Brinner,Brinner Henrique San ...,T P,176451 3 Rafael,Rafael Diego de Souza,T P,167167
-4,Thiago,Thiago Cardoso,T P,190230 4 Samuel,Samuel Firmino de Jesus,T P,168009
-5,dos Santos,Leonardo Santos do Vale,T P,189941 5 Feijao,Antonio Filipe Gonza...,T P,352645
-6,Bruno Luiz,Bruno Luiz dos Santos,T P,185199 6 Eron,Eron Santos Lourenco,T P,292162
-7,Wesley,Wesley Henrique Lima ...,T P,170477 7 Pedrinho,Pedro Gonzaga,T P,298432
-8,Junior,Paulo Roberto Valour ...,T P,179395 8 Willie,Willie Hortencio Barbosa,T P,335342
-9,Anselmo,Anselmo Tadeu Silva  ...,T P,143708 9 Vicosa,Luiz Severo Junior,T P,293172
-10,Marquinhos,Marcos Moreira de Souza,T P,299111 10 Jorge,Jorge de Moura Xavier,T P,330015
-11,Wagner,Wagner Correa Machado,T P,175258 11 Arthur,Arthur Caike do Nasc...,T P,292833
-12,Bruno,Bruno de Oliveira Mi ...,R P,371635 12 Marcos,Marcos de Paula Dutra,R P,331869
-13,Marcilei,Marcilei da Silva Elias,R P,306568 13 Bruno,Bruno de Moura Froes...,R P,319365
-14,Rafael,Rafael Martins Vieir ...,R P,345135 14 Marcus Win ...,Marcus Winicius Silv...,R P,160061
-15,Jones,Jones Leandro Souza  ...,R P,161624 15 Anderson,Anderson Carvalho Tr...,R P,160150
-16,Alisson,Alisson Guirra Reis  ...,R P,172132 16 Washington ...,Washington Pires de ...,R P,169302
-17,Eberson,Eberson de Vasconcel ...,R P,147378 17 Luiz Ferna ...,Luiz Fernando Moraes...,R P,451607
-18,Aloisio,Aloisio Pereira Magnago,R P,169861 18 Juninho,Junior Cesar Moreira...,R P,182385
-19,Fernando,Fernando Jose da Cun ...,R P,321820 19 Geraldo,Hermenegildo da Cost...,R P,327121
-20,Fernando,Fernando dos Santos  ...,R P,330982,,,
-21,Antonio,Antonio Wellington B ...,R P,359752,,,
-22,Giovani,Giovani Darnei Marti ...,R P,305899,,,
-"",,Comissão Técnica,
-"",Macaé / RJ,,Atlético / GO
-Técnico:,Josué Amaral Teixeira - 340406,Técnico:,Gilberto Pereira Dos Santos - 052695
-Auxiliar Técnico:,José Carlos Macedo Dos Santos - 051659183,Auxiliar Técnico:,João Paulo Imbernom Sanches - 27338870
-Médico:,Carlos Henrique De Miranda Barbosa - 5250362/7,Médico:,Itamar Soares De Carvalho Júnior - 10286
-Preparador Físico:,Rafael Lima Rangel - 024073,Preparador Físico:,Jorge Alberto Pinto Soter - 005113
+"",,,Cronologia,,,
+"",1o Tempo,,,2o Tempo,,
+Entrada do mandante:,16:21,Atraso:,NÃ£o Houve Entrada do mandante:,17:28,Atraso:,NÃ£o Houve
+InÃ­cio 1o Tempo:,16:30,Atraso:,NÃ£o Houve,InÃ­cio do 2o Tempo:,17:30,Atraso:,NÃ£o Houve
+No,Apelido,Nome Completo,T/R P/A,CBF,No,Apelido,Nome Completo,T/R P/A,CBF
+1,Rafael,Alberto Rafael da Silva,T P,170739,1,Marcio,Marcio Luiz Silva Lo...,T P,129274
+"",,ComissÃ£o TÃ©cnica,
+"",MacaÃ© / RJ,,AtlÃ©tico / GO
+TÃ©cnico:,JosuÃ© Amaral Teixeira - 340406,TÃ©cnico:,Gilberto Pereira Dos Santos - 052695
+Auxiliar TÃ©cnico:,JosÃ© Carlos Macedo Dos Santos - 051659183,Auxiliar TÃ©cnico:,JoÃ£o Paulo Imbernom Sanches - 27338870
+MÃ©dico:,Carlos Henrique De Miranda Barbosa - 5250362/7,MÃ©dico:,Itamar Soares De Carvalho JÃºnior - 10286
+Preparador FÃ­sico:,Rafael Lima Rangel - 024073,Preparador FÃ­sico:,Jorge Alberto Pinto Soter - 005113
 Massagista:,Alberto Guedes Da Costa - 089898480,Massagista:,Charles Rodrigues Marcelino - 16306813
 "",,,,,Gols,
 Tempo,1T/2T,No,Tipo,Nome do Jogador,,Equipe
-19:00,2T,9,NR,Luiz Severo Junior,,Atlético/GO
-"",,,,Substituições,
+19:00,2T,9,NR,Luiz Severo Junior,,AtlÃ©tico/GO
+"",,,,SubstituiÃ§Ãµes,
 Tempo,1T/2T,,Equipe,Entrou,Saiu
-+3:00,2T,Atlético/GO,,14 - Marcus Winicius Silva Lim ...,11 - Arthur Caike do Nasciment ...
-45:00,INT,Macaé/RJ,,20 - Fernando dos Santos de Ar ...,5 - Leonardo Santos do Vale
-24:00,2T,Macaé/RJ,,15 - Jones Leandro Souza da Si ...,9 - Anselmo Tadeu Silva do Na ...
-26:00,2T,Atlético/GO,,19 - Hermenegildo da Costa Pau ...,8 - Willie Hortencio Barbosa
-30:00,2T,Macaé/RJ,,22 - Giovani Darnei Martins da ...,2 - Henrique Loureiro dos San ...
-32:00,2T,Atlético/GO,,15 - Anderson Carvalho Trindad ...,9 - Luiz Severo Junior
++3:00,2T,AtlÃ©tico/GO,,14 - Marcus Winicius Silva Lim ...,11 - Arthur Caike do Nasciment ...
+45:00,INT,MacaÃ©/RJ,,20 - Fernando dos Santos de Ar ...,5 - Leonardo Santos do Vale
+24:00,2T,MacaÃ©/RJ,,15 - Jones Leandro Souza da Si ...,9 - Anselmo Tadeu Silva do Na ...
+26:00,2T,AtlÃ©tico/GO,,19 - Hermenegildo da Costa Pau ...,8 - Willie Hortencio Barbosa
+30:00,2T,MacaÃ©/RJ,,22 - Giovani Darnei Martins da ...,2 - Henrique Loureiro dos San ...
+32:00,2T,AtlÃ©tico/GO,,15 - Anderson Carvalho Trindad ...,9 - Luiz Severo Junior
