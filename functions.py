@@ -1,5 +1,7 @@
 import csv
 import re
+import pandas as pd
+from math import ceil
 
 def find_teams(game):
     ignore_list = ['FIFA', 'CBF', 'AB', 'CD', 'ESP', '000', 'ASS', 'MAST',
@@ -39,7 +41,7 @@ def find_teams(game):
     return teams
     
 def find_date(game):
-    game_round = game[-7:-5]
+    game_round = str(ceil(int(game[-7:-4])/10))
     game_year = game[-17:-13]
     date = []
     finded = False
@@ -77,3 +79,53 @@ def find_score(game):
         return '0 x 0'
     
     return score
+    
+def classification(br):
+    clubs = {'points' : {},
+             'games' : {},
+             'wins' : {},
+             'draws' : {},
+             'defeats' : {},
+             'goals for' : {},
+             'goals against' : {},
+             'goal difference' : {}}
+    for i in br.index:
+        if i != 1517: # chape e atlético, após o acidente da chape (WO duplo)
+            if br.loc[i, 'Team 1'] not in clubs['points']:
+                for key in clubs:
+                    clubs[key][br.loc[i, 'Team 1']] = 0
+
+            if br.loc[i, 'Team 2'] not in clubs['points']:
+                for key in clubs:
+                    clubs[key][br.loc[i, 'Team 2']] = 0
+
+            clubs['games'][br.loc[i, 'Team 1']] += 1
+            clubs['games'][br.loc[i, 'Team 2']] += 1
+            clubs['goals for'][br.loc[i, 'Team 1']] += int(br.loc[i, 'Result'][0])
+            clubs['goals for'][br.loc[i, 'Team 2']] += int(br.loc[i, 'Result'][-1])
+            clubs['goals against'][br.loc[i, 'Team 1']] += int(br.loc[i, 'Result'][-1])
+            clubs['goals against'][br.loc[i, 'Team 2']] += int(br.loc[i, 'Result'][0])
+            clubs['goal difference'][br.loc[i, 'Team 1']] += int(br.loc[i, 'Result'][0]) - int(br.loc[i, 'Result'][-1])
+            clubs['goal difference'][br.loc[i, 'Team 2']] += int(br.loc[i, 'Result'][-1]) - int(br.loc[i, 'Result'][0])
+
+            if int(br.loc[i, 'Result'][0]) > int(br.loc[i, 'Result'][-1]):
+                clubs['points'][br.loc[i, 'Team 1']] += 3
+                clubs['wins'][br.loc[i, 'Team 1']] += 1
+                clubs['defeats'][br.loc[i, 'Team 2']] += 1
+            elif int(br.loc[i, 'Result'][0]) == int(br.loc[i, 'Result'][-1]):
+                clubs['points'][br.loc[i, 'Team 1']] += 1
+                clubs['points'][br.loc[i, 'Team 2']] += 1
+                clubs['draws'][br.loc[i, 'Team 1']] += 1
+                clubs['draws'][br.loc[i, 'Team 2']] += 1
+            else:
+                clubs['points'][br.loc[i, 'Team 2']] += 3
+                clubs['wins'][br.loc[i, 'Team 2']] += 1
+                clubs['defeats'][br.loc[i, 'Team 1']] += 1
+
+    table = pd.DataFrame(clubs)
+    table.sort_values(['points',  'wins', 'goal difference', 'goals for'],
+                      axis = 0,
+                      ascending = False,
+                      inplace = True)
+    
+    return table
