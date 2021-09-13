@@ -2,6 +2,7 @@ import csv
 import re
 import pandas as pd
 from math import ceil
+from datetime import date
 
 def find_teams(game):
     ignore_list = ['FIFA', 'CBF', 'AB', 'CD', 'ESP', '000', 'ASS', 'MAST',
@@ -129,3 +130,8 @@ def classification(br):
                       inplace = True)
     
     return table
+    
+def date2int(string):
+    d = string.split('/')
+    d = date(int(d[2]), int(d[1]), int(d[0]))
+    return d.toordinal()
