@@ -1,6 +1,8 @@
 import csv
 import re
+import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt
 from math import ceil
 from datetime import date
 
@@ -135,3 +137,33 @@ def date2int(string):
     d = string.split('/')
     d = date(int(d[2]), int(d[1]), int(d[0]))
     return d.toordinal()
+    
+def plot_goals(opt, year, goals, h_goals, a_goals, colors):
+    name = ''
+    if opt == 'All':
+        using_goals = goals
+        name += 'Gols por jogo'
+    elif opt == 'Home':
+        using_goals = h_goals
+        name += 'Gols do mandante'
+    elif opt == 'Away':
+        using_goals = a_goals
+        name += 'Gols do visitante'
+
+    if year == 'All':
+        year = 2022
+        name += ' - 2013 a 2021'
+    else:
+        name += ' - ' + str(year)
+
+    using_mean = np.mean(using_goals[year - 2013])
+    plt.hist(using_goals[year - 2013], bins = [*range(10)], alpha = 0.5, density = True, color = colors['azul'])
+    plt.axvline(using_mean, ls = '--', lw = 0.75, c = 'black')
+    plt.annotate(f'Média: {using_mean:.4f}',
+                 (0,0),
+                 (0, -20),
+                 xycoords = 'axes fraction',
+                 textcoords = 'offset points',
+                 va = 'top')
+    plt.title(name, loc = 'center')
+    plt.show()
