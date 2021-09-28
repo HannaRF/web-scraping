@@ -309,7 +309,7 @@ def likelihood_forgetting_poisson(x, clubs, games, date):
     temos um time, e retorna a log verossimilhança negativa
     dessas forças com os dados
     '''
-    games['New_Date_Num'] = date - matplotlib.dates.date2num(pd.to_datetime(games['New_Date']))
+    games['New_Date_Num'] = date - matplotlib.dates.date2num(pd.to_datetime(games['New_Date'], dayfirst = True))
     
     forces, k, c = vet2force4getting(x, clubs)
     log_ver_neg = 0
@@ -389,6 +389,9 @@ def train_complex_poisson(games, x0 = None, *args):
     
 def train_forgetting_poisson(games, x0 = None, date = '01/01/2021', *args):
     clubs = []
+    if type(date) == str:
+    	date = matplotlib.dates.date2num(pd.to_datetime(date, dayfirst = True))
+    
     for i in games.index:
         home = games.loc[i, 'Team 1']
         away = games.loc[i, 'Team 2']
