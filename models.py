@@ -2,6 +2,8 @@ import matplotlib
 import numpy as np
 import pandas as pd
 import numpy.random as rd
+from time import time
+from functions import *
 from scipy.stats import poisson
 from scipy.optimize import minimize
 
@@ -435,7 +437,7 @@ def train_forgetting_poisson(games, x0 = None, date = '01/01/2021', *args):
     
     return forces, k, c
     
-def run_models(model, train, years, rounds, games, n_sims = 10000):
+def run_models(model, years, rounds, games, n_sims = 10000):
     '''
     Treina e executa os modelos dados para os anos e
     rodadas dadas.
@@ -444,13 +446,14 @@ def run_models(model, train, years, rounds, games, n_sims = 10000):
     exe_times = {}
     if type(model) == list:
         for i in range(len(model)):
-            result, exe_time = run_models(model[i], train[i], years, rounds, games, n_sims = n_sims)
-            results[model[i]] = result
-            exe_times[model[i]] = exe_time
+            result, exe_time = run_models(model[i], years, rounds, games, n_sims = n_sims)
+            results[model[i][0]] = result
+            exe_times[model[i][0]] = exe_time
             
         return results, exe_times
     
-    print(model, train)
+    name, model, train = model
+    print(name)
     if model == forgetting_poisson:
         games['New_Date_Num'] = matplotlib.dates.date2num(pd.to_datetime(games['New_Date'],
                                                                          dayfirst = True))
@@ -473,7 +476,7 @@ def run_models(model, train, years, rounds, games, n_sims = 10000):
             fit_games = pd.DataFrame()
             test_games = pd.DataFrame()
             
-            train_time_i = tm.time()
+            train_time_i = time()
             if with_date:
                 date = min(games.loc[((games['Round'] == rd) * (games['Year'] == year)), 'New_Date_Num'])
                 fit_games = pd.concat([fit_games, games.loc[((games['New_Date_Num'] < date) * (games['Year'] == year))]],
@@ -488,10 +491,10 @@ def run_models(model, train, years, rounds, games, n_sims = 10000):
                                     ignore_index = True)
                 forces = train(fit_games, x0)
                 
-            train_time_f = tm.time()
+            train_time_f = time()
             exe_times[year][rd]['Treino'] = train_time_f - train_time_i
             
-            sim_time_i = tm.time()
+            sim_time_i = time()
             for i in range(n_sims):
                 if type(forces) != dict:
                     for game in test_games.index:
@@ -518,7 +521,7 @@ def run_models(model, train, years, rounds, games, n_sims = 10000):
                     results[year][rd][club][count] += 1
                     count += 1
                     
-            sim_time_f = tm.time()
+            sim_time_f = time()
             exe_times[year][rd]['Simulações'] = sim_time_f - sim_time_i
             
             if model == forgetting_poisson:
