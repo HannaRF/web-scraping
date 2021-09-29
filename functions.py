@@ -101,21 +101,25 @@ def classification(br):
             if br.loc[i, 'Team 2'] not in clubs['points']:
                 for key in clubs:
                     clubs[key][br.loc[i, 'Team 2']] = 0
+                    
+            sep = br.loc[i, 'Result'].find('x')
+            home_score = int(br.loc[i, 'Result'][:sep - 1])
+            away_score = int(br.loc[i, 'Result'][sep + 2:])
 
             clubs['games'][br.loc[i, 'Team 1']] += 1
             clubs['games'][br.loc[i, 'Team 2']] += 1
-            clubs['goals for'][br.loc[i, 'Team 1']] += int(br.loc[i, 'Result'][0])
-            clubs['goals for'][br.loc[i, 'Team 2']] += int(br.loc[i, 'Result'][-1])
-            clubs['goals against'][br.loc[i, 'Team 1']] += int(br.loc[i, 'Result'][-1])
-            clubs['goals against'][br.loc[i, 'Team 2']] += int(br.loc[i, 'Result'][0])
-            clubs['goal difference'][br.loc[i, 'Team 1']] += int(br.loc[i, 'Result'][0]) - int(br.loc[i, 'Result'][-1])
-            clubs['goal difference'][br.loc[i, 'Team 2']] += int(br.loc[i, 'Result'][-1]) - int(br.loc[i, 'Result'][0])
+            clubs['goals for'][br.loc[i, 'Team 1']] += home_score
+            clubs['goals for'][br.loc[i, 'Team 2']] += away_score
+            clubs['goals against'][br.loc[i, 'Team 1']] += away_score
+            clubs['goals against'][br.loc[i, 'Team 2']] += home_score
+            clubs['goal difference'][br.loc[i, 'Team 1']] += home_score - away_score
+            clubs['goal difference'][br.loc[i, 'Team 2']] += away_score - home_score
 
-            if int(br.loc[i, 'Result'][0]) > int(br.loc[i, 'Result'][-1]):
+            if home_score > away_score:
                 clubs['points'][br.loc[i, 'Team 1']] += 3
                 clubs['wins'][br.loc[i, 'Team 1']] += 1
                 clubs['defeats'][br.loc[i, 'Team 2']] += 1
-            elif int(br.loc[i, 'Result'][0]) == int(br.loc[i, 'Result'][-1]):
+            elif home_score == away_score:
                 clubs['points'][br.loc[i, 'Team 1']] += 1
                 clubs['points'][br.loc[i, 'Team 2']] += 1
                 clubs['draws'][br.loc[i, 'Team 1']] += 1

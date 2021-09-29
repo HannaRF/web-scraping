@@ -1,10 +1,11 @@
 import matplotlib
 import numpy as np
 import pandas as pd
+import numpy.random as rd
 from scipy.stats import poisson
 from scipy.optimize import minimize
 
-def naive_model():
+def naive_model(*args):
     '''
     Modelo ingênuo, onde cada resultado tem probabilidade de 1/3 
     '''
@@ -68,42 +69,52 @@ def simple_poisson_neutral(goals_mean):
     away_goals = poisson.rvs(goals_mean / 2)
     return str(home_goals) + ' x ' + str(away_goals)
 
-def simple_poisson(home_mean, away_mean):
+def simple_poisson(means):
     '''
     Modelo de Poisson simples, onde a média de gols de cada
     clube depende apenas do mando de campo.
     '''
     
+    home_mean, away_mean = means
     home_goals = poisson.rvs(home_mean)
     away_goals = poisson.rvs(away_mean)
     return str(home_goals) + ' x ' + str(away_goals)
 
-def robust_poisson(home_atk, home_def, away_atk, away_def):
+def robust_poisson(home, away):
     '''
     Modelo de Poisson robusto, com cada time tendo uma força
     de ataque e uma de defesa, independentemente do mando de
     campo.
     '''
+    
+    home_atk, home_def = home['Ataque'], home['Defesa']
+    away_atk, away_def = away['Ataque'], away['Defesa']
     home_goals = poisson.rvs(home_atk / away_def)
     away_goals = poisson.rvs(away_atk / home_def)
     return str(home_goals) + ' x ' + str(away_goals)
 
-def more_robust_poisson(home_atk, home_def, away_atk, away_def):
+def more_robust_poisson(home, away):
     '''
     Modelo de Poisson mais robusto, com cada time tendo uma
     força de ataque e uma de defesa, dependente do mando de
     campo.
     '''
+    
+    home_atk, home_def = home['Ataque'], home['Defesa']
+    away_atk, away_def = away['Ataque'], away['Defesa']
     home_goals = poisson.rvs(home_atk / away_def)
     away_goals = poisson.rvs(away_atk / home_def)
     return str(home_goals) + ' x ' + str(away_goals)
 
-def forgetting_poisson(home_atk, home_def, away_atk, away_def):
+def forgetting_poisson(home, away):
     '''
     Modelo de Poisson com esquecimento, com cada time tendo
     uma força de ataque e uma de defesa, dependente do mando
     de campo e dos desempenhos recentes.
     '''
+    
+    home_atk, home_def = home['Ataque'], home['Defesa']
+    away_atk, away_def = away['Ataque'], away['Defesa']
     home_goals = poisson.rvs(home_atk / away_def)
     away_goals = poisson.rvs(away_atk / home_def)
     return str(home_goals) + ' x ' + str(away_goals)
@@ -120,6 +131,7 @@ def train_seminaive_model(games, *args):
     Recebe um dataframe de jogos e retorna a proporção
     de jogos com cada resultado, na visão do mandante.
     '''
+    
     results = [0, 0, 0]
     for i in games.index:
         result = games.loc[i, 'Result']
@@ -139,6 +151,7 @@ def train_observer_model(games, *args):
     de jogos com cada resultado, por clube, separando
     os jogos em casa e fora, sempre na visão do mandante.
     '''
+    
     results = {}
     for i in games.index:
         home = games.loc[i, 'Team 1']
@@ -172,6 +185,7 @@ def train_simple_poisson_neutral(games, *args):
     Recebe um dataframe de jogos e retorna a média de
     gols por partida
     '''
+    
     goals = 0
     for i in games.index:
         result = games.loc[i, 'Result']
@@ -186,6 +200,7 @@ def train_simple_poisson_non_neutral(games, *args):
     Recebe um dataframe de jogos e retorna a média de
     gols por partida do mandante e do visitante
     '''
+    
     home_goals = 0
     away_goals = 0
     for i in games.index:
@@ -309,6 +324,7 @@ def likelihood_forgetting_poisson(x, clubs, games, date):
     temos um time, e retorna a log verossimilhança negativa
     dessas forças com os dados
     '''
+    
     games['New_Date_Num'] = date - matplotlib.dates.date2num(pd.to_datetime(games['New_Date'], dayfirst = True))
     
     forces, k, c = vet2force4getting(x, clubs)
@@ -419,4 +435,98 @@ def train_forgetting_poisson(games, x0 = None, date = '01/01/2021', *args):
     
     return forces, k, c
     
+def run_models(model, train, years, rounds, games, n_sims = 10000):
+    '''
+    Treina e executa os modelos dados para os anos e
+    rodadas dadas.
+    '''
+    results = {}
+    exe_times = {}
+    if type(model) == list:
+        for i in range(len(model)):
+            result, exe_time = run_models(model[i], train[i], years, rounds, games, n_sims = n_sims)
+            results[model[i]] = result
+            exe_times[model[i]] = exe_time
+            
+        return results, exe_times
+    
+    print(model, train)
+    if model == forgetting_poisson:
+        games['New_Date_Num'] = matplotlib.dates.date2num(pd.to_datetime(games['New_Date'],
+                                                                         dayfirst = True))
+        with_date = True
+    else:
+        with_date = False
 
+    for year in years:
+        print(year)
+        if year not in results:
+            results[year] = {}
+            exe_times[year] = {}
+        
+        x0 = None
+        for rd in rounds:
+            if rd not in results[year]:
+                results[year][rd] = {}
+                exe_times[year][rd] = {}
+            
+            fit_games = pd.DataFrame()
+            test_games = pd.DataFrame()
+            
+            train_time_i = tm.time()
+            if with_date:
+                date = min(games.loc[((games['Round'] == rd) * (games['Year'] == year)), 'New_Date_Num'])
+                fit_games = pd.concat([fit_games, games.loc[((games['New_Date_Num'] < date) * (games['Year'] == year))]],
+                                    ignore_index = True)
+                test_games = pd.concat([test_games, games.loc[((games['New_Date_Num'] >= date) * (games['Year'] == year))]],
+                                    ignore_index = True)
+                forces, k, c = train(fit_games, x0, date)
+            else:
+                fit_games = pd.concat([fit_games, games.loc[((games['Round'] <= rd) * (games['Year'] == year))]],
+                                    ignore_index = True)
+                test_games = pd.concat([test_games, games.loc[((games['Round'] > rd) * (games['Year'] == year))]],
+                                    ignore_index = True)
+                forces = train(fit_games, x0)
+                
+            train_time_f = tm.time()
+            exe_times[year][rd]['Treino'] = train_time_f - train_time_i
+            
+            sim_time_i = tm.time()
+            for i in range(n_sims):
+                if type(forces) != dict:
+                    for game in test_games.index:
+                        test_games.loc[game, 'Result'] = model(forces)
+                else:
+                    for game in test_games.index:
+                        home = forces[test_games.loc[game, 'Team 1']]
+                        away = forces[test_games.loc[game, 'Team 2']]
+                        if 'Casa' in home:
+                            home = forces[test_games.loc[game, 'Team 1']]['Casa']
+                            away = forces[test_games.loc[game, 'Team 2']]['Fora']
+                            
+                        test_games.loc[game, 'Result'] = model(home, away)
+                        
+                final = pd.concat([fit_games, test_games], ignore_index = True)
+                table = classification(final)
+                count = 1
+                for club in table.index:
+                    if club not in results[year][rd]:
+                        results[year][rd][club] = {}
+                        for pos in range(1, 21):
+                            results[year][rd][club][pos] = 0
+                            
+                    results[year][rd][club][count] += 1
+                    count += 1
+                    
+            sim_time_f = tm.time()
+            exe_times[year][rd]['Simulações'] = sim_time_f - sim_time_i
+            
+            if model == forgetting_poisson:
+                x0 = force4getting2vet(forces, k, c)
+            elif model == more_robust_poisson:
+                x0 = force42vet(forces)
+            elif model == robust_poisson:
+                x0 = force22vet(forces)
+            
+    return results, exe_times
+                
