@@ -1,7 +1,7 @@
 import matplotlib
 import numpy as np
 import pandas as pd
-import numpy.random as rd
+import numpy.random as rdm
 from time import time
 from functions import *
 from scipy.stats import poisson
@@ -11,7 +11,7 @@ def naive_model(*args):
     '''
     Modelo ingênuo, onde cada resultado tem probabilidade de 1/3 
     '''
-    p = rd.random()
+    p = rdm.random()
     if p <= 1/3:
         return '1 x 0'
     elif p <= 2/3:
@@ -28,7 +28,7 @@ def seminaive_model(retrospect):
     '''
     w = retrospect[0]
     d = sum(retrospect[:2])
-    p = rd.random()
+    p = rdm.random()
     if p <= w:
         return '1 x 0'
     elif p <= d:
@@ -52,7 +52,7 @@ def observer_model(home, away):
     prob = (home + away) / 2
     w = prob[0]
     d = np.sum(prob[:2])
-    p = rd.random()
+    p = rdm.random()
     if p <= w:
         return '1 x 0'
     elif p <= d:
