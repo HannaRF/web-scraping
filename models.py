@@ -545,7 +545,7 @@ def run_models(model, years, rounds, games, n_sims = 10000):
         with_date = False
 
     for year in years:
-        print('  ' + str(year) + ':')
+        print('      ' + str(year) + ':')
         if year not in results:
             results[year] = {}
             exe_times[year] = {}
@@ -559,7 +559,7 @@ def run_models(model, years, rounds, games, n_sims = 10000):
             fit_games = pd.DataFrame()
             test_games = pd.DataFrame()
             
-            print('    Treinando rodada', rd)
+            print('        Treinando rodada', rd)
             train_time_i = time()
             if with_date:
                 date = min(games.loc[((games['Round'] == rd) * (games['Year'] == year)), 'New_Date_Num'])
@@ -578,7 +578,7 @@ def run_models(model, years, rounds, games, n_sims = 10000):
             train_time_f = time()
             exe_times[year][rd]['Treino'] = train_time_f - train_time_i
             
-            print('    Simulando a partir da rodada', rd)
+            print('        Simulando a partir da rodada', rd)
             sim_time_i = time()
             for game in fit_games.index:
                 home_club = fit_games.loc[game, 'Team 1']
@@ -607,7 +607,7 @@ def run_models(model, years, rounds, games, n_sims = 10000):
                 else:
                     games_results[home_club][away_club] = model(n_sims, forces)
 
-            print('    Guardando resultados')
+            print('        Guardando resultados')
             results = classification(games_results, results, year, rd, n_sims)
             
             sim_time_f = time()
