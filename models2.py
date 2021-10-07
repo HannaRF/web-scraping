@@ -122,7 +122,6 @@ def forgetting_poisson(n_sims, home, away):
     away_goals = poisson.rvs(away_atk / home_def, size = n_sims)
     return [str(home_goals[i]) + ' x ' + str(away_goals[i]) for i in range(n_sims)]
 
-@jit
 def train_naive_model(*args):
     '''
     Retorna um vetor de probabilidades para o modelo
@@ -130,7 +129,6 @@ def train_naive_model(*args):
     '''
     return [1/3, 1/3, 1/3]
 
-@jit
 def train_seminaive_model(games, *args):
     '''
     Recebe um dataframe de jogos e retorna a proporção
@@ -150,7 +148,6 @@ def train_seminaive_model(games, *args):
     results = np.array(results)
     return results / np.sum(results)
 
-@jit
 def train_observer_model(games, *args):
     '''
     Recebe um dataframe de jogos e retorna a proporção
@@ -186,7 +183,6 @@ def train_observer_model(games, *args):
     
     return results
 
-@jit(fastmath = True)
 def train_simple_poisson_neutral(games, *args):
     '''
     Recebe um dataframe de jogos e retorna a média de
@@ -202,7 +198,6 @@ def train_simple_poisson_neutral(games, *args):
     n_games = len(games)
     return goals / n_games
 
-@jit(fastmath = True)
 def train_simple_poisson_non_neutral(games, *args):
     '''
     Recebe um dataframe de jogos e retorna a média de
@@ -221,18 +216,16 @@ def train_simple_poisson_non_neutral(games, *args):
     away_goals = away_goals / n_games
     return [home_goals, away_goals]
 
-@jit
 def vet2force2(x, clubs):
-    forces = numba.typed.Dict()
+    forces = {}
     for club in clubs:
         forces[club] = {'Ataque' : x[0], 'Defesa' : x[1]}
         x = x[2:]
         
     return forces
 
-@jit
 def force22vet(forces):
-    x = numba.typed.List()
+    x = []
     for club in forces:
         for force in forces[club]:
             x.append(forces[club][force])
@@ -262,9 +255,8 @@ def likelihood_simple_poisson(x, clubs, games):
         
     return log_ver_neg
 
-@jit
 def vet2force4(x, clubs):
-    forces = numba.typed.Dict()
+    forces = {}
     for club in clubs:
         forces[club] = {'Casa' : {'Ataque' : x[0], 'Defesa' : x[1]},
                         'Fora' : {'Ataque' : x[2], 'Defesa' : x[3]}}
@@ -272,7 +264,6 @@ def vet2force4(x, clubs):
         
     return forces
 
-@jit
 def force42vet(forces):
     x = []
     for club in forces:
@@ -309,9 +300,8 @@ def likelihood_complex_poisson(x, clubs, games):
 def forgetting(t, c, k):
     return k / (c * np.log(t) + k)
 
-@jit
 def vet2force4getting(x, clubs):
-    forces = numba.typed.Dict()
+    forces = {}
     for club in clubs:
         forces[club] = {'Casa' : {'Ataque' : x[0], 'Defesa' : x[1]},
                         'Fora' : {'Ataque' : x[2], 'Defesa' : x[3]}}
@@ -321,7 +311,6 @@ def vet2force4getting(x, clubs):
     
     return forces, k, c
 
-@jit
 def force4getting2vet(forces, k, c):
     x = []
     for club in forces:
