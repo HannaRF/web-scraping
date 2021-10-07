@@ -83,7 +83,7 @@ def find_score(game):
     
     return score
     
-def classification(br):
+def classification_table(br):
     clubs = {'points' : {},
              'games' : {},
              'wins' : {},
