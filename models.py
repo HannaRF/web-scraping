@@ -10,13 +10,13 @@ from numba import prange
 from functions import *
 from scipy.stats import poisson
 from scipy.optimize import minimize
-# from numba.core.errors import NumbaWarning
-# from numba.core.errors import NumbaDeprecationWarning
-# from numba.core.errors import NumbaPendingDeprecationWarning
+from numba.core.errors import NumbaWarning
+from numba.core.errors import NumbaDeprecationWarning
+from numba.core.errors import NumbaPendingDeprecationWarning
 
-# warnings.simplefilter('ignore', category = NumbaWarning)
-# warnings.simplefilter('ignore', category = NumbaDeprecationWarning)
-# warnings.simplefilter('ignore', category = NumbaPendingDeprecationWarning)
+warnings.simplefilter('ignore', category = NumbaWarning)
+warnings.simplefilter('ignore', category = NumbaDeprecationWarning)
+warnings.simplefilter('ignore', category = NumbaPendingDeprecationWarning)
 
 @jit
 def naive_model(n_sims, *args):
@@ -581,7 +581,6 @@ def run_models(model, years, rounds, games, n_sims = 10000):
                 
             train_time_f = time()
             exe_times[year][rd]['Treino'] = train_time_f - train_time_i
-            save_forces[year][rd] = forces
             
             print('        Simulando a partir da rodada', rd)
             sim_time_i = time()
@@ -624,7 +623,10 @@ def run_models(model, years, rounds, games, n_sims = 10000):
                 x0 = force42vet(forces)
             elif model == robust_poisson:
                 x0 = force22vet(forces)
+            else:
+            	x0 = forces
                 
+            save_forces[year][rd] = x0
             rd_time_f = time()
             exe_times[year][rd]['Total'] = rd_time_f - rd_time_i
             
