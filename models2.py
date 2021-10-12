@@ -448,9 +448,10 @@ def update_results(results, year, rd, table):
         if club not in results[year][rd]:
             results[year][rd][club] = {}
             for pos in range(1, 21):
-                results[year][rd][club][pos] = 0
+                results[year][rd][club][pos] = {'Posição' : 0, 'Pontos' : []}
 
-        results[year][rd][club][count] += 1
+        results[year][rd][club][count]['Posição'] += 1
+        results[year][rd][club][count]['Pontos'].append(table.loc[club, 'points'])
         count += 1
         
     return results
@@ -525,17 +526,17 @@ def run_models(model, years, rounds, games, n_sims = 10000):
     '''
     results = {}
     exe_times = {}
-    save_forces = {}
+    forces = {}
     games_results = {}
     if type(model) == list:
         for i in range(len(model)):
-            result, exe_time, forces = run_models(model[i], years, rounds, games, n_sims = n_sims)
+            result, exe_time, force = run_models(model[i], years, rounds, games, n_sims = n_sims)
             results[model[i][0]] = result
             exe_times[model[i][0]] = exe_time
-            save_forces[model[i][0]] = forces
+            forces[model[i][0]] = force
             print()
             
-        return results, exe_times, save_forces
+        return results, exe_times, forces
     
     name, model, train = model
     print(name + ':')
@@ -551,7 +552,7 @@ def run_models(model, years, rounds, games, n_sims = 10000):
         if year not in results:
             results[year] = {}
             exe_times[year] = {}
-            save_forces[year] = {}
+            forces[year] = {}
         
         x0 = None
         for rd in rounds:
@@ -581,7 +582,7 @@ def run_models(model, years, rounds, games, n_sims = 10000):
                 
             train_time_f = time()
             exe_times[year][rd]['Treino'] = train_time_f - train_time_i
-            save_forces[year][rd] = forces
+            forces[year][rd] = forces
             
             print('        Simulando a partir da rodada', rd)
             sim_time_i = time()
@@ -628,4 +629,4 @@ def run_models(model, years, rounds, games, n_sims = 10000):
             rd_time_f = time()
             exe_times[year][rd]['Total'] = rd_time_f - rd_time_i
             
-    return results, exe_times, save_forces
+    return results, exe_times, forces
