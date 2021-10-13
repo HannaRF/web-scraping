@@ -573,9 +573,9 @@ def run_models(model, years, rounds, games, n_sims = 10000):
                                     ignore_index = True)
                 forces, k, c = train(fit_games, x0, date)
             else:
-                fit_games = pd.concat([fit_games, games.loc[((games['Round'] <= rd) * (games['Year'] == year))]],
+                fit_games = pd.concat([fit_games, games.loc[((games['Round'] < rd) * (games['Year'] == year))]],
                                     ignore_index = True)
-                test_games = pd.concat([test_games, games.loc[((games['Round'] > rd) * (games['Year'] == year))]],
+                test_games = pd.concat([test_games, games.loc[((games['Round'] >= rd) * (games['Year'] == year))]],
                                     ignore_index = True)
                 forces = train(fit_games, x0)
                 
