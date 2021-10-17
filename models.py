@@ -10,13 +10,13 @@ from numba import prange
 from functions import *
 from scipy.stats import poisson
 from scipy.optimize import minimize
-from numba.core.errors import NumbaWarning
-from numba.core.errors import NumbaDeprecationWarning
-from numba.core.errors import NumbaPendingDeprecationWarning
+# from numba.core.errors import NumbaWarning
+# from numba.core.errors import NumbaDeprecationWarning
+# from numba.core.errors import NumbaPendingDeprecationWarning
 
-warnings.simplefilter('ignore', category = NumbaWarning)
-warnings.simplefilter('ignore', category = NumbaDeprecationWarning)
-warnings.simplefilter('ignore', category = NumbaPendingDeprecationWarning)
+# warnings.simplefilter('ignore', category = NumbaWarning)
+# warnings.simplefilter('ignore', category = NumbaDeprecationWarning)
+# warnings.simplefilter('ignore', category = NumbaPendingDeprecationWarning)
 
 @jit
 def naive_model(n_sims, *args):
@@ -455,68 +455,58 @@ def update_results(results, year, rd, table):
         
     return results
 
-@jit(parallel = True, fastmath = True)
-def classification(games_results, results, year, rd, n):
-    for i in prange(n):
-        clubs = {'points' : {},
-                 'games' : {},
-                 'wins' : {},
-                 'draws' : {},
-                 'defeats' : {},
-                 'goals for' : {},
-                 'goals against' : {},
-                 'goal difference' : {}}
-
+def classification(games_results, year, rd, n):
+    clubs = {}
+    number = 1
+    for club in games_results:
+        clubs[club] = number
+        number += 1
+    
+    tables = []
+    for i in range(n):
+        table = np.zeros((20, 5)) # colunas = {clube, pontos, vitórias, gols pró, saldo de gols}
+                                  # (as demais colunas não são consideradas para classificação)
+        
+        table[:, 0] = np.arange(20) + 1 # clubes, segundo o dicionário clubs
         for home_team in games_results:
             for away_team in games_results[home_team]:
+                
                 if year == 2016 and rd == 38 and 'Chape' in home_team:
                     pass
                 else:
-                    if home_team not in clubs['points']:
-                        for key in clubs:
-                            clubs[key][home_team] = 0
-
-                    if away_team not in clubs['points']:
-                        for key in clubs:
-                            clubs[key][away_team] = 0
-
-                    result = games_results[home_team][away_team][i]
+                    home = clubs[home_team] - 1
+                    away = clubs[away_team] - 1
+                            
+                    if type(games_results[home_team][away_team]) == list:
+                        result = games_results[home_team][away_team][i]
+                    else:
+                        result = games_results[home_team][away_team]
+                    
                     sep = result.find('x')
                     home_score = int(result[:sep - 1])
                     away_score = int(result[sep + 2:])
 
-                    clubs['games'][home_team] += 1
-                    clubs['games'][away_team] += 1
-                    clubs['goals for'][home_team] += home_score
-                    clubs['goals for'][away_team] += away_score
-                    clubs['goals against'][home_team] += away_score
-                    clubs['goals against'][away_team] += home_score
-                    clubs['goal difference'][home_team] += home_score - away_score
-                    clubs['goal difference'][away_team] += away_score - home_score
+                    table[home, 3] += home_score
+                    table[away, 3] += away_score
+                    table[home, 4] += home_score - away_score
+                    table[away, 4] += away_score - home_score
 
                     if home_score > away_score:
-                        clubs['points'][home_team] += 3
-                        clubs['wins'][home_team] += 1
-                        clubs['defeats'][away_team] += 1
+                        table[home, 1] += 3
+                        table[home, 2] += 1
                     elif home_score == away_score:
-                        clubs['points'][home_team] += 1
-                        clubs['points'][away_team] += 1
-                        clubs['draws'][home_team] += 1
-                        clubs['draws'][away_team] += 1
+                        table[home, 1] += 1
+                        table[away, 1] += 1
                     else:
-                        clubs['points'][away_team] += 3
-                        clubs['wins'][away_team] += 1
-                        clubs['defeats'][home_team] += 1
+                        table[away, 1] += 3
+                        table[away, 2] += 1
+                        
+        for criterio in [3, 4, 2, 1]:
+            table = np.array(sorted(table, key = lambda x : x[criterio], reverse = True))
+                        
+        tables.append(table)
 
-        table = pd.DataFrame(clubs)
-        table.sort_values(['points',  'wins', 'goal difference', 'goals for'],
-                          axis = 0,
-                          ascending = False,
-                          inplace = True)
-
-        results = update_results(results, year, rd, table)
-    
-    return results
+    return tables, clubs
 
 def run_models(model, years, rounds, games, n_sims = 10000):
     '''
@@ -526,16 +516,20 @@ def run_models(model, years, rounds, games, n_sims = 10000):
     results = {}
     exe_times = {}
     save_forces = {}
+    save_tables = {}
     games_results = {}
+    games_results_save = {}
     if type(model) == list:
         for i in range(len(model)):
-            result, exe_time, forces = run_models(model[i], years, rounds, games, n_sims = n_sims)
+            result, tables, exe_time, forces, games_results_saved = run_models(model[i], years, rounds, games, n_sims = n_sims)
             results[model[i][0]] = result
+            save_tables[model[i][0]] = tables
             exe_times[model[i][0]] = exe_time
             save_forces[model[i][0]] = forces
+            games_results_save[model[i][0]] = games_results_saved
             print()
             
-        return results, exe_times, save_forces
+        return results, save_tables, exe_times, save_forces, games_results_save
     
     name, model, train = model
     print(name + ':')
@@ -612,7 +606,18 @@ def run_models(model, years, rounds, games, n_sims = 10000):
                     games_results[home_club][away_club] = model(n_sims, forces)
 
             print('        Guardando resultados')
-            results = classification(games_results, results, year, rd, n_sims)
+            tables, clubs = classification(games_results, year, rd, n_sims)
+            new_tables = []
+            for table in tables:
+                new_tables.append(table[:, 0])
+
+            new_tables = np.array(new_tables)
+            for club in clubs:
+                positions = {}
+                for pos in range(1, 21):
+                    positions[pos] = list(new_tables[:, pos - 1]).count(clubs[club])/n_sims
+
+                clubs[club] = positions            
             
             sim_time_f = time()
             exe_times[year][rd]['Simulações'] = sim_time_f - sim_time_i
@@ -630,4 +635,4 @@ def run_models(model, years, rounds, games, n_sims = 10000):
             rd_time_f = time()
             exe_times[year][rd]['Total'] = rd_time_f - rd_time_i
             
-    return results, exe_times, save_forces
+    return clubs, tables, exe_times, save_forces, games_results
