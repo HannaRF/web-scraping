@@ -1,4 +1,5 @@
 import numba
+import pickle
 import warnings
 import matplotlib
 import numpy as np
@@ -10,13 +11,13 @@ from numba import prange
 from functions import *
 from scipy.stats import poisson
 from scipy.optimize import minimize
-# from numba.core.errors import NumbaWarning
-# from numba.core.errors import NumbaDeprecationWarning
-# from numba.core.errors import NumbaPendingDeprecationWarning
+from numba.core.errors import NumbaWarning
+from numba.core.errors import NumbaDeprecationWarning
+from numba.core.errors import NumbaPendingDeprecationWarning
 
-# warnings.simplefilter('ignore', category = NumbaWarning)
-# warnings.simplefilter('ignore', category = NumbaDeprecationWarning)
-# warnings.simplefilter('ignore', category = NumbaPendingDeprecationWarning)
+warnings.simplefilter('ignore', category = NumbaWarning)
+warnings.simplefilter('ignore', category = NumbaDeprecationWarning)
+warnings.simplefilter('ignore', category = NumbaPendingDeprecationWarning)
 
 @jit
 def naive_model(n_sims, *args):
@@ -508,6 +509,25 @@ def classification(games_results, year, rd, n):
 
     return tables, clubs
 
+def forces_file(year):
+	return f'forces - {year}.json'
+
+def find_clubs(df):
+    clubs = []
+    for i in df.index:
+        home = df.loc[i, 'Team 1']
+        away = df.loc[i, 'Team 2']
+        if home not in clubs:
+            clubs.append(home)
+
+        if away not in clubs:
+            clubs.append(away)
+
+        if len(clubs) == 20:
+            break
+            
+    return clubs
+
 def run_models(model, years, rounds, games, n_sims = 10000):
     '''
     Treina e executa os modelos dados para os anos a partir das
@@ -517,6 +537,7 @@ def run_models(model, years, rounds, games, n_sims = 10000):
     exe_times = {}
     save_forces = {}
     save_tables = {}
+    tables_saved = {}
     games_results = {}
     games_results_save = {}
     if type(model) == list:
@@ -546,12 +567,16 @@ def run_models(model, years, rounds, games, n_sims = 10000):
             results[year] = {}
             exe_times[year] = {}
             save_forces[year] = {}
+            tables_saved[year] = {}
+            games_results[year] = {}
         
         x0 = None
         for rd in rounds:
             if rd not in results[year]:
                 results[year][rd] = {}
                 exe_times[year][rd] = {}
+                tables_saved[year][rd] = {}
+                games_results[year][rd] = {}
             
             rd_time_i = time()
             fit_games = pd.DataFrame()
@@ -565,13 +590,39 @@ def run_models(model, years, rounds, games, n_sims = 10000):
                                     ignore_index = True)
                 test_games = pd.concat([test_games, games.loc[((games['New_Date_Num'] >= date) * (games['Year'] == year))]],
                                     ignore_index = True)
-                forces, k, c = train(fit_games, x0, date)
+                                    
+                if type(train) == tuple:
+                    with open(train[0](year), 'rb') as fp:
+                        forces = pickle.load(fp)
+                     
+                    clubs = find_clubs(fit_games)
+                    forces, k, c = vet2force4getting(forces[name][year][rd], clubs)
+                else:
+                    forces, k, c = train(fit_games, x0, date)
             else:
                 fit_games = pd.concat([fit_games, games.loc[((games['Round'] < rd) * (games['Year'] == year))]],
                                     ignore_index = True)
                 test_games = pd.concat([test_games, games.loc[((games['Round'] >= rd) * (games['Year'] == year))]],
                                     ignore_index = True)
-                forces = train(fit_games, x0)
+                
+                if type(train) == tuple:
+                    with open(train[0](year), 'rb') as fp:
+                        forces = pickle.load(fp)
+                    
+                    if type(forces[name][year][rd]) == list:
+                        if len(forces[name][year][rd]) == 40:
+                            clubs = find_clubs(fit_games)
+                            forces = vet2force2(forces[name][year][rd], clubs)
+                        elif len(forces[name][year][rd]) == 80:
+                            clubs = find_clubs(fit_games)
+                            forces = vet2force4(forces[name][year][rd], clubs)
+                        else:
+                            forces = forces[name][year][rd]
+                    else:
+                        forces = forces[name][year][rd]
+                                    
+                else:
+                    forces = train(fit_games, x0)
                 
             train_time_f = time()
             exe_times[year][rd]['Treino'] = train_time_f - train_time_i
@@ -581,16 +632,16 @@ def run_models(model, years, rounds, games, n_sims = 10000):
             for game in fit_games.index:
                 home_club = fit_games.loc[game, 'Team 1']
                 away_club = fit_games.loc[game, 'Team 2']
-                if home_club not in games_results:
-                    games_results[home_club] = {}
+                if home_club not in games_results[year][rd]:
+                    games_results[year][rd][home_club] = {}
                     
-                games_results[home_club][away_club] = [fit_games.loc[game, 'Result'] for i in range(n_sims)]
+                games_results[year][rd][home_club][away_club] = fit_games.loc[game, 'Result']
             
             for game in test_games.index:
                 home_club = test_games.loc[game, 'Team 1']
                 away_club = test_games.loc[game, 'Team 2']
-                if home_club not in games_results:
-                    games_results[home_club] = {}
+                if home_club not in games_results[year][rd]:
+                    games_results[year][rd][home_club] = {}
 
                 if type(forces) == dict or type(forces) == numba.typed.typeddict.Dict:
                     home = forces[test_games.loc[game, 'Team 1']]
@@ -600,13 +651,13 @@ def run_models(model, years, rounds, games, n_sims = 10000):
                         home = forces[test_games.loc[game, 'Team 1']]['Casa']
                         away = forces[test_games.loc[game, 'Team 2']]['Fora']
 
-                    games_results[home_club][away_club] = model(n_sims, home, away)
+                    games_results[year][rd][home_club][away_club] = model(n_sims, home, away)
 
                 else:
-                    games_results[home_club][away_club] = model(n_sims, forces)
+                    games_results[year][rd][home_club][away_club] = model(n_sims, forces)
 
             print('        Guardando resultados')
-            tables, clubs = classification(games_results, year, rd, n_sims)
+            tables, clubs = classification(games_results[year][rd], year, rd, n_sims)
             new_tables = []
             for table in tables:
                 new_tables.append(table[:, 0])
@@ -615,9 +666,163 @@ def run_models(model, years, rounds, games, n_sims = 10000):
             for club in clubs:
                 positions = {}
                 for pos in range(1, 21):
-                    positions[pos] = list(new_tables[:, pos - 1]).count(clubs[club])/n_sims
+                    positions[pos] = list(new_tables[:, pos - 1]).count(clubs[club])
 
-                clubs[club] = positions            
+                results[year][rd][club] = positions            
+            
+            sim_time_f = time()
+            exe_times[year][rd]['Simulações'] = sim_time_f - sim_time_i
+        
+            if model == forgetting_poisson:
+                x0 = force4getting2vet(forces, k, c)
+            elif model == more_robust_poisson:
+                x0 = force42vet(forces)
+            elif model == robust_poisson:
+                x0 = force22vet(forces)
+            else:
+            	x0 = forces
+                
+            save_forces[year][rd] = x0
+            tables_saved[year][rd] = tables
+            rd_time_f = time()
+            exe_times[year][rd]['Total'] = rd_time_f - rd_time_i
+            
+    return results, tables_saved, exe_times, save_forces, games_results
+
+def run_models(model, years, rounds, games, n_sims = 10000):
+    '''
+    Treina e executa os modelos dados para os anos a partir das
+    rodadas dadas.
+    '''
+    results = {}
+    exe_times = {}
+    save_forces = {}
+    games_results = {}
+    if type(model) == list:
+        for i in range(len(model)):
+            result, exe_time, forces = run_models(model[i], years, rounds, games, n_sims = n_sims)
+            results[model[i][0]] = result
+            exe_times[model[i][0]] = exe_time
+            save_forces[model[i][0]] = forces
+            print()
+            
+        return results, exe_times, save_forces
+    
+    name, model, train = model
+    print(name + ':')
+    if model == forgetting_poisson:
+        games['New_Date_Num'] = matplotlib.dates.date2num(pd.to_datetime(games['New_Date'],
+                                                                         dayfirst = True))
+        with_date = True
+    else:
+        with_date = False
+
+    for year in years:
+        print('      ' + str(year) + ':')
+        if year not in results:
+            results[year] = {}
+            exe_times[year] = {}
+            save_forces[year] = {}
+            games_results[year] = {}
+        
+        x0 = None
+        for rd in rounds:
+            if rd not in results[year]:
+                results[year][rd] = {}
+                exe_times[year][rd] = {}
+                games_results[year][rd] = {}
+            
+            rd_time_i = time()
+            fit_games = pd.DataFrame()
+            test_games = pd.DataFrame()
+            
+            print('        Treinando rodada', rd)
+            train_time_i = time()
+            if with_date:
+                date = min(games.loc[((games['Round'] == rd) * (games['Year'] == year)), 'New_Date_Num'])
+                fit_games = pd.concat([fit_games, games.loc[((games['New_Date_Num'] < date) * (games['Year'] == year))]],
+                                    ignore_index = True)
+                test_games = pd.concat([test_games, games.loc[((games['New_Date_Num'] >= date) * (games['Year'] == year))]],
+                                    ignore_index = True)
+                                    
+                if type(train) == tuple:
+                    with open(train[0](year), 'rb') as fp:
+                        forces = pickle.load(fp)
+                     
+                    clubs = find_clubs(fit_games)
+                    forces, k, c = vet2force4getting(forces[name][year][rd], clubs)
+                else:
+                    forces, k, c = train(fit_games, x0, date)
+            else:
+                fit_games = pd.concat([fit_games, games.loc[((games['Round'] < rd) * (games['Year'] == year))]],
+                                    ignore_index = True)
+                test_games = pd.concat([test_games, games.loc[((games['Round'] >= rd) * (games['Year'] == year))]],
+                                    ignore_index = True)
+                
+                if type(train) == tuple:
+                    with open(train[0](year), 'rb') as fp:
+                        forces = pickle.load(fp)
+                    
+                    if type(forces[name][year][rd]) == list:
+                        if len(forces[name][year][rd]) == 40:
+                            clubs = find_clubs(fit_games)
+                            forces = vet2force2(forces[name][year][rd], clubs)
+                        elif len(forces[name][year][rd]) == 80:
+                            clubs = find_clubs(fit_games)
+                            forces = vet2force4(forces[name][year][rd], clubs)
+                        else:
+                            forces = forces[name][year][rd]
+                    else:
+                        forces = forces[name][year][rd]
+                                    
+                else:
+                    forces = train(fit_games, x0)
+                
+            train_time_f = time()
+            exe_times[year][rd]['Treino'] = train_time_f - train_time_i
+            
+            print('        Simulando a partir da rodada', rd)
+            sim_time_i = time()
+            for game in fit_games.index:
+                home_club = fit_games.loc[game, 'Team 1']
+                away_club = fit_games.loc[game, 'Team 2']
+                if home_club not in games_results[year][rd]:
+                    games_results[year][rd][home_club] = {}
+                    
+                games_results[year][rd][home_club][away_club] = fit_games.loc[game, 'Result']
+            
+            for game in test_games.index:
+                home_club = test_games.loc[game, 'Team 1']
+                away_club = test_games.loc[game, 'Team 2']
+                if home_club not in games_results[year][rd]:
+                    games_results[year][rd][home_club] = {}
+
+                if type(forces) == dict or type(forces) == numba.typed.typeddict.Dict:
+                    home = forces[test_games.loc[game, 'Team 1']]
+                    away = forces[test_games.loc[game, 'Team 2']]
+                    if 'Casa' in home:
+                        # nem todo modelo faz a separação por mando de campo
+                        home = forces[test_games.loc[game, 'Team 1']]['Casa']
+                        away = forces[test_games.loc[game, 'Team 2']]['Fora']
+
+                    games_results[year][rd][home_club][away_club] = model(n_sims, home, away)
+
+                else:
+                    games_results[year][rd][home_club][away_club] = model(n_sims, forces)
+
+            print('        Guardando resultados')
+            tables, clubs = classification(games_results[year][rd], year, rd, n_sims)
+            new_tables = []
+            for table in tables:
+                new_tables.append(table[:, 0])
+
+            new_tables = np.array(new_tables)
+            for club in clubs:
+                positions = {}
+                for pos in range(1, 21):
+                    positions[pos] = list(new_tables[:, pos - 1]).count(clubs[club])
+
+                results[year][rd][club] = positions            
             
             sim_time_f = time()
             exe_times[year][rd]['Simulações'] = sim_time_f - sim_time_i
@@ -635,4 +840,4 @@ def run_models(model, years, rounds, games, n_sims = 10000):
             rd_time_f = time()
             exe_times[year][rd]['Total'] = rd_time_f - rd_time_i
             
-    return clubs, tables, exe_times, save_forces, games_results
+    return results, exe_times, save_forces
