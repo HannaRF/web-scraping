@@ -585,10 +585,10 @@ def run_models(model, years, rounds, games, n_sims = 10000):
             print('        Treinando rodada', rd)
             train_time_i = time()
             if with_date:
-                date = min(games.loc[((games['Round'] == rd) * (games['Year'] == year)), 'New_Date_Num'])
-                fit_games = pd.concat([fit_games, games.loc[((games['New_Date_Num'] < date) * (games['Year'] == year))]],
+                date = min(games.loc[((games['Round'] == rd) & (games['Year'] == year)), 'New_Date_Num'])
+                fit_games = pd.concat([fit_games, games.loc[((games['New_Date_Num'] < date) & (games['Year'] == year))]],
                                     ignore_index = True)
-                test_games = pd.concat([test_games, games.loc[((games['New_Date_Num'] >= date) * (games['Year'] == year))]],
+                test_games = pd.concat([test_games, games.loc[((games['New_Date_Num'] >= date) & (games['Year'] == year))]],
                                     ignore_index = True)
                                     
                 if type(train) == tuple:
@@ -600,9 +600,9 @@ def run_models(model, years, rounds, games, n_sims = 10000):
                 else:
                     forces, k, c = train(fit_games, x0, date)
             else:
-                fit_games = pd.concat([fit_games, games.loc[((games['Round'] < rd) * (games['Year'] == year))]],
+                fit_games = pd.concat([fit_games, games.loc[((games['Round'] < rd) & (games['Year'] == year))]],
                                     ignore_index = True)
-                test_games = pd.concat([test_games, games.loc[((games['Round'] >= rd) * (games['Year'] == year))]],
+                test_games = pd.concat([test_games, games.loc[((games['Round'] >= rd) & (games['Year'] == year))]],
                                     ignore_index = True)
                 
                 if type(train) == tuple:
@@ -739,10 +739,10 @@ def run_models(model, years, rounds, games, n_sims = 10000):
             print('        Treinando rodada', rd)
             train_time_i = time()
             if with_date:
-                date = min(games.loc[((games['Round'] == rd) * (games['Year'] == year)), 'New_Date_Num'])
-                fit_games = pd.concat([fit_games, games.loc[((games['New_Date_Num'] < date) * (games['Year'] == year))]],
+                date = min(games.loc[((games['Round'] == rd) & (games['Year'] == year)), 'New_Date_Num'])
+                fit_games = pd.concat([fit_games, games.loc[((games['New_Date_Num'] < date) & (games['Year'] == year))]],
                                     ignore_index = True)
-                test_games = pd.concat([test_games, games.loc[((games['New_Date_Num'] >= date) * (games['Year'] == year))]],
+                test_games = pd.concat([test_games, games.loc[((games['New_Date_Num'] >= date) & (games['Year'] == year))]],
                                     ignore_index = True)
                                     
                 if type(train) == tuple:
@@ -754,9 +754,9 @@ def run_models(model, years, rounds, games, n_sims = 10000):
                 else:
                     forces, k, c = train(fit_games, x0, date)
             else:
-                fit_games = pd.concat([fit_games, games.loc[((games['Round'] < rd) * (games['Year'] == year))]],
+                fit_games = pd.concat([fit_games, games.loc[((games['Round'] < rd) & (games['Year'] == year))]],
                                     ignore_index = True)
-                test_games = pd.concat([test_games, games.loc[((games['Round'] >= rd) * (games['Year'] == year))]],
+                test_games = pd.concat([test_games, games.loc[((games['Round'] >= rd) & (games['Year'] == year))]],
                                     ignore_index = True)
                 
                 if type(train) == tuple:
